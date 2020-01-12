@@ -1,0 +1,45 @@
+{
+  "uid" : "2791261efe19d80f",
+  "name" : "WhenAddingPairsOrdersIsSuccessfulExpectTwoClerkAccept",
+  "fullName" : "unknown.WhenAddingPairsOrdersIsSuccessfulExpectTwoClerkAccept",
+  "historyId" : "9bf6a08576746bb3eb9cad4d22311c9d",
+  "time" : {
+    "start" : 1539021778360,
+    "stop" : 1539021781370,
+    "duration" : 3010
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenAddingPairsOrdersIsSuccessfulExpectTwoClerkAccept"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2791261efe19d80f.json",
+  "parameterValues" : [ ]
+}

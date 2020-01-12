@@ -1,0 +1,45 @@
+{
+  "uid" : "47cf6ea78a6e21e3",
+  "name" : "TradeMerge_BatchSelect_MMT_Trades_RunCompliance_ProcessUserOverridingComplianceAction",
+  "fullName" : "unknown.TradeMerge_BatchSelect_MMT_Trades_RunCompliance_ProcessUserOverridingComplianceAction",
+  "historyId" : "cb878503714681ff35032efba58fcb0d",
+  "time" : {
+    "start" : 1549646609062,
+    "stop" : 1549646614684,
+    "duration" : 5622
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TradeMerge_BatchSelect_MMT_Trades_RunCompliance_ProcessUserOverridingComplianceAction"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "47cf6ea78a6e21e3.json",
+  "parameterValues" : [ ]
+}

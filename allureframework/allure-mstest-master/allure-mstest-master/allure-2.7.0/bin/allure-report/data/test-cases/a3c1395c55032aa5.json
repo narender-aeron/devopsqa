@@ -1,0 +1,45 @@
+{
+  "uid" : "a3c1395c55032aa5",
+  "name" : "WhenGettingTradesAllTradesAreReturned",
+  "fullName" : "unknown.WhenGettingTradesAllTradesAreReturned",
+  "historyId" : "58899d414b8ac9c8bbbdbe02b3bd2241",
+  "time" : {
+    "start" : 1549647344518,
+    "stop" : 1549647350267,
+    "duration" : 5749
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingTradesAllTradesAreReturned"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a3c1395c55032aa5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "29cad441549f80a3",
+  "name" : "SendLocatesOnTradeEntry",
+  "fullName" : "unknown.SendLocatesOnTradeEntry",
+  "historyId" : "8bd47316504d5941d115c424e11bca3a",
+  "time" : {
+    "start" : 1549634904604,
+    "stop" : 1549634913754,
+    "duration" : 9150
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SendLocatesOnTradeEntry"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29cad441549f80a3.json",
+  "parameterValues" : [ ]
+}

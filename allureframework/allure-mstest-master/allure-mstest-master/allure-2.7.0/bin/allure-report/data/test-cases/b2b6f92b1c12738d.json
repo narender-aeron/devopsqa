@@ -1,0 +1,45 @@
+{
+  "uid" : "b2b6f92b1c12738d",
+  "name" : "BrokerOrderMarking_NonPersistedTradeData_Basic",
+  "fullName" : "unknown.BrokerOrderMarking_NonPersistedTradeData_Basic",
+  "historyId" : "d6394fa5e5c3f1e9b61de64c7d2a8c64",
+  "time" : {
+    "start" : 1549645199889,
+    "stop" : 1549645199992,
+    "duration" : 103
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "BrokerOrderMarking_NonPersistedTradeData_Basic"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b2b6f92b1c12738d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "d4df1cf8f2fa3ccd",
+  "name" : "Verify_RightClickSend",
+  "fullName" : "unknown.Verify_RightClickSend",
+  "historyId" : "b69d433f05a5277b33acc8d7727d36bf",
+  "time" : {
+    "start" : 1549638291202,
+    "stop" : 1549638293033,
+    "duration" : 1831
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_RightClickSend"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d4df1cf8f2fa3ccd.json",
+  "parameterValues" : [ ]
+}

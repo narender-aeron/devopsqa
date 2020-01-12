@@ -1,0 +1,45 @@
+{
+  "uid" : "3de1423c8b97e245",
+  "name" : "EnterF5SellTrade_CloseOutOfTradeAndHolding_CheckTheoreticalAllocations",
+  "fullName" : "unknown.EnterF5SellTrade_CloseOutOfTradeAndHolding_CheckTheoreticalAllocations",
+  "historyId" : "80c5c75cf2a409cce471875553a56a34",
+  "time" : {
+    "start" : 1539023090680,
+    "stop" : 1539023107318,
+    "duration" : 16638
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EnterF5SellTrade_CloseOutOfTradeAndHolding_CheckTheoreticalAllocations"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3de1423c8b97e245.json",
+  "parameterValues" : [ ]
+}

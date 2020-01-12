@@ -1,0 +1,45 @@
+{
+  "uid" : "54568949a2001c34",
+  "name" : "GetTradeUpdateRtHoldingsTest",
+  "fullName" : "unknown.GetTradeUpdateRtHoldingsTest",
+  "historyId" : "30f299db086d8688b947bfbb00399fc5",
+  "time" : {
+    "start" : 1549646268708,
+    "stop" : 1549646268834,
+    "duration" : 126
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetTradeUpdateRtHoldingsTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "54568949a2001c34.json",
+  "parameterValues" : [ ]
+}

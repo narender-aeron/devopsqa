@@ -1,0 +1,45 @@
+{
+  "uid" : "556f03fcf856532",
+  "name" : "GetOpenElectronicTradesTest",
+  "fullName" : "unknown.GetOpenElectronicTradesTest",
+  "historyId" : "14002ed3ba931f2c66acd4fcfe01ecf9",
+  "time" : {
+    "start" : 1549646268379,
+    "stop" : 1549646268646,
+    "duration" : 267
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetOpenElectronicTradesTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "556f03fcf856532.json",
+  "parameterValues" : [ ]
+}

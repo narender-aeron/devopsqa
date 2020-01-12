@@ -1,0 +1,45 @@
+{
+  "uid" : "92b58575f5bfef6c",
+  "name" : "WhenCheckingCompliance_AddNewBrokerWorkflow_TestGetProposedAllocations",
+  "fullName" : "unknown.WhenCheckingCompliance_AddNewBrokerWorkflow_TestGetProposedAllocations",
+  "historyId" : "c1e1685f27a2eaa2a9f9fcbf6fadf454",
+  "time" : {
+    "start" : 1549644783805,
+    "stop" : 1549644783967,
+    "duration" : 162
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCheckingCompliance_AddNewBrokerWorkflow_TestGetProposedAllocations"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "92b58575f5bfef6c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "c01918e8610fc2a7",
+  "name" : "GetTradeUdfValueByTradeId_ByCheckingParticularTradeID_ReturnsNameNumberOfRecords",
+  "fullName" : "unknown.GetTradeUdfValueByTradeId_ByCheckingParticularTradeID_ReturnsNameNumberOfRecords",
+  "historyId" : "9e7ed53186b866edaf62496e05e6cee",
+  "time" : {
+    "start" : 1549646266075,
+    "stop" : 1549646266104,
+    "duration" : 29
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetTradeUdfValueByTradeId_ByCheckingParticularTradeID_ReturnsNameNumberOfRecords"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c01918e8610fc2a7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "a4cbe3adf2788374",
+  "name" : "WhenEnteringASellTrade_WithShortBrokerFromF5_TOrderActionUpdatesToShort",
+  "fullName" : "unknown.WhenEnteringASellTrade_WithShortBrokerFromF5_TOrderActionUpdatesToShort",
+  "historyId" : "dbe2ca362c281800088dd9e47c11387d",
+  "time" : {
+    "start" : 1549645278171,
+    "stop" : 1549645278292,
+    "duration" : 121
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenEnteringASellTrade_WithShortBrokerFromF5_TOrderActionUpdatesToShort"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a4cbe3adf2788374.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "506877d6c0160663",
+  "name" : "GetEquitySwapTcCounterParty",
+  "fullName" : "unknown.GetEquitySwapTcCounterParty",
+  "historyId" : "2f91b2f8bff7f570ff230bc38777e5dc",
+  "time" : {
+    "start" : 1539022357648,
+    "stop" : 1539022357763,
+    "duration" : 115
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetEquitySwapTcCounterParty"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "506877d6c0160663.json",
+  "parameterValues" : [ ]
+}

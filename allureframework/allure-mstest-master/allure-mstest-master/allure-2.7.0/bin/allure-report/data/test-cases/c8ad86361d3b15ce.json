@@ -1,0 +1,45 @@
+{
+  "uid" : "c8ad86361d3b15ce",
+  "name" : "EnterF5SellTrade_AttemptHoldingsOversell",
+  "fullName" : "unknown.EnterF5SellTrade_AttemptHoldingsOversell",
+  "historyId" : "c2eca5a9ea4451cb6c9248585d6dbaf9",
+  "time" : {
+    "start" : 1549645367069,
+    "stop" : 1549645372255,
+    "duration" : 5186
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EnterF5SellTrade_AttemptHoldingsOversell"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c8ad86361d3b15ce.json",
+  "parameterValues" : [ ]
+}

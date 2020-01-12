@@ -1,0 +1,45 @@
+{
+  "uid" : "f74de0400b08ccbf",
+  "name" : "WhenProcessingFill_LackingBrokerLevelSide_TheActionOnTheTradeIsUsedInTheTradeReport",
+  "fullName" : "unknown.WhenProcessingFill_LackingBrokerLevelSide_TheActionOnTheTradeIsUsedInTheTradeReport",
+  "historyId" : "25b802c51b4f2a47815f60efcd7aa8c4",
+  "time" : {
+    "start" : 1549634007489,
+    "stop" : 1549634008009,
+    "duration" : 520
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenProcessingFill_LackingBrokerLevelSide_TheActionOnTheTradeIsUsedInTheTradeReport"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f74de0400b08ccbf.json",
+  "parameterValues" : [ ]
+}

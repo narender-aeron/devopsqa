@@ -1,0 +1,45 @@
+{
+  "uid" : "94fd150a5f45de51",
+  "name" : "RulesPersistToDatabase",
+  "fullName" : "unknown.RulesPersistToDatabase",
+  "historyId" : "c08c3fef386cd89c5237fa62a702908b",
+  "time" : {
+    "start" : 1549644732495,
+    "stop" : 1549644736345,
+    "duration" : 3850
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RulesPersistToDatabase"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "94fd150a5f45de51.json",
+  "parameterValues" : [ ]
+}

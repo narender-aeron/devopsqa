@@ -1,0 +1,45 @@
+{
+  "uid" : "f13345d587b1744b",
+  "name" : "SetCustodianTest",
+  "fullName" : "unknown.SetCustodianTest",
+  "historyId" : "7a249d4eb206cef46a508f3b3b9cdc89",
+  "time" : {
+    "start" : 1549646269924,
+    "stop" : 1549646270372,
+    "duration" : 448
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SetCustodianTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f13345d587b1744b.json",
+  "parameterValues" : [ ]
+}

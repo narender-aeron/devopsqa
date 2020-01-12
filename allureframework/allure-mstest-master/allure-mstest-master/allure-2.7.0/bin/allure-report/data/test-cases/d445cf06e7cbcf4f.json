@@ -1,0 +1,45 @@
+{
+  "uid" : "d445cf06e7cbcf4f",
+  "name" : "WhenGettingTestMessage",
+  "fullName" : "unknown.WhenGettingTestMessage",
+  "historyId" : "d77d8887090f5439e20abbecbc3bba91",
+  "time" : {
+    "start" : 1549629915683,
+    "stop" : 1549630118207,
+    "duration" : 202524
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingTestMessage"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d445cf06e7cbcf4f.json",
+  "parameterValues" : [ ]
+}

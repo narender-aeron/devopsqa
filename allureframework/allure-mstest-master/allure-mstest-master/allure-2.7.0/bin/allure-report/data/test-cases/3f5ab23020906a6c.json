@@ -1,0 +1,45 @@
+{
+  "uid" : "3f5ab23020906a6c",
+  "name" : "Test_DeleteExecution_WithWrongQueryParameter",
+  "fullName" : "unknown.Test_DeleteExecution_WithWrongQueryParameter",
+  "historyId" : "46dcb1d83ce5cf3112c69e3778c0d93d",
+  "time" : {
+    "start" : 1549623112868,
+    "stop" : 1549623112891,
+    "duration" : 23
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_DeleteExecution_WithWrongQueryParameter"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f5ab23020906a6c.json",
+  "parameterValues" : [ ]
+}

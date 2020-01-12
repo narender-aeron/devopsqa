@@ -1,0 +1,45 @@
+{
+  "uid" : "e41d7333d2f5e8d5",
+  "name" : "Test_InsertSingleExecution_WhenBrokerDestinationIsIncorrect",
+  "fullName" : "unknown.Test_InsertSingleExecution_WhenBrokerDestinationIsIncorrect",
+  "historyId" : "4b9bf937ebe4213ae8c6c7da1ba2a2e2",
+  "time" : {
+    "start" : 1549622600761,
+    "stop" : 1549622611796,
+    "duration" : 11035
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_InsertSingleExecution_WhenBrokerDestinationIsIncorrect"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e41d7333d2f5e8d5.json",
+  "parameterValues" : [ ]
+}

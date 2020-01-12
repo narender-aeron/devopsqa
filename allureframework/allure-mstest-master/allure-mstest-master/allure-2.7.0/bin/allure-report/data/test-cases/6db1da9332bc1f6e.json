@@ -1,0 +1,45 @@
+{
+  "uid" : "6db1da9332bc1f6e",
+  "name" : "WhenDoingGetPSSymbols_WithCyclesOfUnderlyings_RiskServiceDoesNotCrash",
+  "fullName" : "unknown.WhenDoingGetPSSymbols_WithCyclesOfUnderlyings_RiskServiceDoesNotCrash",
+  "historyId" : "cad4d9ac4fe76484832d10db7a78c37b",
+  "time" : {
+    "start" : 1549647920147,
+    "stop" : 1549647920764,
+    "duration" : 617
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenDoingGetPSSymbols_WithCyclesOfUnderlyings_RiskServiceDoesNotCrash"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6db1da9332bc1f6e.json",
+  "parameterValues" : [ ]
+}

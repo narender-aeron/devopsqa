@@ -1,0 +1,45 @@
+{
+  "uid" : "e0585d5cce2600b2",
+  "name" : "ChangeManager_BatchSelect_Targeted_and_MMT_Trade_ComplianceViolation",
+  "fullName" : "unknown.ChangeManager_BatchSelect_Targeted_and_MMT_Trade_ComplianceViolation",
+  "historyId" : "163a9d2d53f832d258683e5c99a7fd91",
+  "time" : {
+    "start" : 1549647458771,
+    "stop" : 1549647469760,
+    "duration" : 10989
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ChangeManager_BatchSelect_Targeted_and_MMT_Trade_ComplianceViolation"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0585d5cce2600b2.json",
+  "parameterValues" : [ ]
+}

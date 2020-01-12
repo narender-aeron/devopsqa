@@ -1,0 +1,45 @@
+{
+  "uid" : "591ed8ebfd112c2",
+  "name" : "SFTPPUT_MMDDYYDateinLocalFileName",
+  "fullName" : "unknown.SFTPPUT_MMDDYYDateinLocalFileName",
+  "historyId" : "25372a5216abac2dcfdcadb40be057cd",
+  "time" : {
+    "start" : 1549629099899,
+    "stop" : 1549629105436,
+    "duration" : 5537
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SFTPPUT_MMDDYYDateinLocalFileName"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "591ed8ebfd112c2.json",
+  "parameterValues" : [ ]
+}

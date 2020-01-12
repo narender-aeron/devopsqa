@@ -1,0 +1,45 @@
+{
+  "uid" : "176dbfd935088565",
+  "name" : "WhenCallingNotify_RedisIsDown_FillsAreWrittenToRecoveryTable",
+  "fullName" : "unknown.WhenCallingNotify_RedisIsDown_FillsAreWrittenToRecoveryTable",
+  "historyId" : "bf4aaf1d012dae903dd28fcfb42d4a24",
+  "time" : {
+    "start" : 1539024167922,
+    "stop" : 1539024171286,
+    "duration" : 3364
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCallingNotify_RedisIsDown_FillsAreWrittenToRecoveryTable"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "176dbfd935088565.json",
+  "parameterValues" : [ ]
+}

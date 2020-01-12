@@ -1,0 +1,45 @@
+{
+  "uid" : "f8ec9d1ac0ac9191",
+  "name" : "WhenShuttingDownProxy_QueueIsEmpty_ShutdownReturns",
+  "fullName" : "unknown.WhenShuttingDownProxy_QueueIsEmpty_ShutdownReturns",
+  "historyId" : "4a1da63115a6f5b16a8ee86145c57d2f",
+  "time" : {
+    "start" : 1549632615252,
+    "stop" : 1549632615314,
+    "duration" : 62
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenShuttingDownProxy_QueueIsEmpty_ShutdownReturns"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8ec9d1ac0ac9191.json",
+  "parameterValues" : [ ]
+}

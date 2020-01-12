@@ -1,0 +1,45 @@
+{
+  "uid" : "a5d708eaa01bfeb",
+  "name" : "UpdateTrade_TradeFinalize_Error_SingleTrade_IsAllOrNothing_True_TState",
+  "fullName" : "unknown.UpdateTrade_TradeFinalize_Error_SingleTrade_IsAllOrNothing_True_TState",
+  "historyId" : "78f81d0431a247b755c5ee6734a562c1",
+  "time" : {
+    "start" : 1549625092472,
+    "stop" : 1549625099949,
+    "duration" : 7477
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateTrade_TradeFinalize_Error_SingleTrade_IsAllOrNothing_True_TState"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a5d708eaa01bfeb.json",
+  "parameterValues" : [ ]
+}

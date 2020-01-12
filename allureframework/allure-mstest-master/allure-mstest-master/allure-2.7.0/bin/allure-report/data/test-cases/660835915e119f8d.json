@@ -1,0 +1,45 @@
+{
+  "uid" : "660835915e119f8d",
+  "name" : "EzeIntradayXML_CheckForCommAndFeeInAmend",
+  "fullName" : "unknown.EzeIntradayXML_CheckForCommAndFeeInAmend",
+  "historyId" : "f5ce5dff74fe3ea835cd4ee2c451521d",
+  "time" : {
+    "start" : 1549628509015,
+    "stop" : 1549628529145,
+    "duration" : 20130
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeIntradayXML_CheckForCommAndFeeInAmend"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "660835915e119f8d.json",
+  "parameterValues" : [ ]
+}

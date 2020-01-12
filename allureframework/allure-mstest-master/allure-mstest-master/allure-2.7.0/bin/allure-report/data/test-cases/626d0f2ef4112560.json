@@ -1,0 +1,45 @@
+{
+  "uid" : "626d0f2ef4112560",
+  "name" : "GetClientCustomManagerTest",
+  "fullName" : "unknown.GetClientCustomManagerTest",
+  "historyId" : "d9ac12a6055fec1e9efee94363c9a295",
+  "time" : {
+    "start" : 1549646268877,
+    "stop" : 1549646268946,
+    "duration" : 69
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetClientCustomManagerTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "626d0f2ef4112560.json",
+  "parameterValues" : [ ]
+}

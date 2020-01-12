@@ -1,0 +1,45 @@
+{
+  "uid" : "c2ff8c7d287b2103",
+  "name" : "TradeMerge_BatchSelect_Targeted_Trades_MultipleBrokers_RunCompliance_ProcessUserOverridingComplianceAction",
+  "fullName" : "unknown.TradeMerge_BatchSelect_Targeted_Trades_MultipleBrokers_RunCompliance_ProcessUserOverridingComplianceAction",
+  "historyId" : "a067bfe2e1d37adf180d33880d0d6819",
+  "time" : {
+    "start" : 1549646692602,
+    "stop" : 1549646698889,
+    "duration" : 6287
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TradeMerge_BatchSelect_Targeted_Trades_MultipleBrokers_RunCompliance_ProcessUserOverridingComplianceAction"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2ff8c7d287b2103.json",
+  "parameterValues" : [ ]
+}

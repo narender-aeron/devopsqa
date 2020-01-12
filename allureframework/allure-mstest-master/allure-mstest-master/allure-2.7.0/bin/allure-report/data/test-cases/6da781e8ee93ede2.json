@@ -1,0 +1,45 @@
+{
+  "uid" : "6da781e8ee93ede2",
+  "name" : "Verify_AddAndDeleteTradeThroughEDI_UsingExternalID_MRSIsNotifiedForAllFills",
+  "fullName" : "unknown.Verify_AddAndDeleteTradeThroughEDI_UsingExternalID_MRSIsNotifiedForAllFills",
+  "historyId" : "d5beef531d5116e2581dcc925279a336",
+  "time" : {
+    "start" : 1549631377455,
+    "stop" : 1549631755083,
+    "duration" : 377628
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_AddAndDeleteTradeThroughEDI_UsingExternalID_MRSIsNotifiedForAllFills"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6da781e8ee93ede2.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "aab0a0a75ed97f4c",
+  "name" : "FTPPUT_BadPassword",
+  "fullName" : "unknown.FTPPUT_BadPassword",
+  "historyId" : "c57d5f1b0e681eeb7c30d26371e12c68",
+  "time" : {
+    "start" : 1549627764570,
+    "stop" : 1549627766410,
+    "duration" : 1840
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "FTPPUT_BadPassword"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aab0a0a75ed97f4c.json",
+  "parameterValues" : [ ]
+}

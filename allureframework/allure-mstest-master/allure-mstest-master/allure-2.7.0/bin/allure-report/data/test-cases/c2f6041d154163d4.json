@@ -1,0 +1,45 @@
+{
+  "uid" : "c2f6041d154163d4",
+  "name" : "WhenUsingRuleCreationScript_CheckingDbForRulePresent_Success",
+  "fullName" : "unknown.WhenUsingRuleCreationScript_CheckingDbForRulePresent_Success",
+  "historyId" : "cb247aff01f3608d020643e9f7e0fabc",
+  "time" : {
+    "start" : 1549644828912,
+    "stop" : 1549644829080,
+    "duration" : 168
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenUsingRuleCreationScript_CheckingDbForRulePresent_Success"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2f6041d154163d4.json",
+  "parameterValues" : [ ]
+}

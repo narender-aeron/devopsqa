@@ -1,0 +1,45 @@
+{
+  "uid" : "9cc76b859b9ed704",
+  "name" : "TestTradeRule_AutoHammer_OneFullyFilledTrade_OnePartiallyFilledTrade",
+  "fullName" : "unknown.TestTradeRule_AutoHammer_OneFullyFilledTrade_OnePartiallyFilledTrade",
+  "historyId" : "92fe066c5fbedd3515cd8b5719a30972",
+  "time" : {
+    "start" : 1549646871715,
+    "stop" : 1549646877867,
+    "duration" : 6152
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestTradeRule_AutoHammer_OneFullyFilledTrade_OnePartiallyFilledTrade"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9cc76b859b9ed704.json",
+  "parameterValues" : [ ]
+}

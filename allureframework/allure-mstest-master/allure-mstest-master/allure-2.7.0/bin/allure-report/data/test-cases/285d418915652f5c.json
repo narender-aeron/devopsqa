@@ -1,0 +1,45 @@
+{
+  "uid" : "285d418915652f5c",
+  "name" : "RunTransferAmount",
+  "fullName" : "unknown.RunTransferAmount",
+  "historyId" : "5d5e2bac1a2910c97eef8db167fa91b",
+  "time" : {
+    "start" : 1549631254818,
+    "stop" : 1549631255370,
+    "duration" : 552
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RunTransferAmount"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "285d418915652f5c.json",
+  "parameterValues" : [ ]
+}

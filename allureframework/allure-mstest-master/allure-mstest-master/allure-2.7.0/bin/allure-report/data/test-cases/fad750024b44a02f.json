@@ -1,0 +1,45 @@
+{
+  "uid" : "fad750024b44a02f",
+  "name" : "TestFixOutGatewayShouldNotValidateIfNullTradeDataOrNullDestinationData",
+  "fullName" : "unknown.TestFixOutGatewayShouldNotValidateIfNullTradeDataOrNullDestinationData",
+  "historyId" : "71f60073a41799352b622adaa77fdbdf",
+  "time" : {
+    "start" : 1549637049776,
+    "stop" : 1549637049992,
+    "duration" : 216
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestFixOutGatewayShouldNotValidateIfNullTradeDataOrNullDestinationData"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fad750024b44a02f.json",
+  "parameterValues" : [ ]
+}

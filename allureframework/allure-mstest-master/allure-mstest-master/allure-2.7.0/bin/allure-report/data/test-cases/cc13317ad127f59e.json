@@ -1,0 +1,45 @@
+{
+  "uid" : "cc13317ad127f59e",
+  "name" : "WhenGettingPortfoliosFromXPortfolioProperty",
+  "fullName" : "unknown.WhenGettingPortfoliosFromXPortfolioProperty",
+  "historyId" : "ebe812d3b5669fb9daf177475fe8ed64",
+  "time" : {
+    "start" : 1549630343897,
+    "stop" : 1549630344908,
+    "duration" : 1011
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingPortfoliosFromXPortfolioProperty"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc13317ad127f59e.json",
+  "parameterValues" : [ ]
+}

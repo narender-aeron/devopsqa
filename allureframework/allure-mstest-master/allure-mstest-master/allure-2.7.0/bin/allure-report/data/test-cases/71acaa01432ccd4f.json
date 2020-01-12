@@ -1,0 +1,45 @@
+{
+  "uid" : "71acaa01432ccd4f",
+  "name" : "WhenSendingTradesForTradeForNeed_WhatIf_SendTradesCorrectly",
+  "fullName" : "unknown.WhenSendingTradesForTradeForNeed_WhatIf_SendTradesCorrectly",
+  "historyId" : "e42ebd7d1f0fbed29900979b8831b786",
+  "time" : {
+    "start" : 1549621478060,
+    "stop" : 1549621479398,
+    "duration" : 1338
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenSendingTradesForTradeForNeed_WhatIf_SendTradesCorrectly"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71acaa01432ccd4f.json",
+  "parameterValues" : [ ]
+}

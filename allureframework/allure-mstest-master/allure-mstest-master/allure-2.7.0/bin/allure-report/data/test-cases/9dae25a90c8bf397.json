@@ -1,0 +1,45 @@
+{
+  "uid" : "9dae25a90c8bf397",
+  "name" : "NumberOfSecuritiesUsingUDF_ByCheckingParticularUser_ReturnsCorrectList",
+  "fullName" : "unknown.NumberOfSecuritiesUsingUDF_ByCheckingParticularUser_ReturnsCorrectList",
+  "historyId" : "a9aaaa6faa2aa0b3f67e44e91925aa62",
+  "time" : {
+    "start" : 1549646271267,
+    "stop" : 1549646271279,
+    "duration" : 12
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "NumberOfSecuritiesUsingUDF_ByCheckingParticularUser_ReturnsCorrectList"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9dae25a90c8bf397.json",
+  "parameterValues" : [ ]
+}

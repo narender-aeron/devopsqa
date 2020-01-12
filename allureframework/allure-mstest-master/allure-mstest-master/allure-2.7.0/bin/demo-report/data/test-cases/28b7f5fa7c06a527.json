@@ -1,0 +1,45 @@
+{
+  "uid" : "28b7f5fa7c06a527",
+  "name" : "WhenCowboyEntrySwapFailsCompThenAckCompExpectClerkAccept",
+  "fullName" : "unknown.WhenCowboyEntrySwapFailsCompThenAckCompExpectClerkAccept",
+  "historyId" : "d4778464a93a9b6058be6b970cfa605e",
+  "time" : {
+    "start" : 1539022285403,
+    "stop" : 1539022571964,
+    "duration" : 286561
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCowboyEntrySwapFailsCompThenAckCompExpectClerkAccept"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28b7f5fa7c06a527.json",
+  "parameterValues" : [ ]
+}

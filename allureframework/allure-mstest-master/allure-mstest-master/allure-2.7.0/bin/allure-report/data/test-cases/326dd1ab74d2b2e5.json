@@ -1,0 +1,45 @@
+{
+  "uid" : "326dd1ab74d2b2e5",
+  "name" : "RollBackF5TradeToMandTState",
+  "fullName" : "unknown.RollBackF5TradeToMandTState",
+  "historyId" : "db1a95da24e791c69de304c356ff5cc4",
+  "time" : {
+    "start" : 1549645803410,
+    "stop" : 1549645825468,
+    "duration" : 22058
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RollBackF5TradeToMandTState"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "326dd1ab74d2b2e5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "3e610dd42d67cab6",
+  "name" : "Test_InsertMultipleExecution",
+  "fullName" : "unknown.Test_InsertMultipleExecution",
+  "historyId" : "399602e16ac7809d8339352e559898a8",
+  "time" : {
+    "start" : 1549622534671,
+    "stop" : 1549622545552,
+    "duration" : 10881
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_InsertMultipleExecution"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e610dd42d67cab6.json",
+  "parameterValues" : [ ]
+}

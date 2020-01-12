@@ -1,0 +1,45 @@
+{
+  "uid" : "ab193bf3defdc59e",
+  "name" : "WhenCheckingCompliance_ChangeTradeDetails_AfterPendingViolationsOkayed_TradeGoesToHoldStatus",
+  "fullName" : "unknown.WhenCheckingCompliance_ChangeTradeDetails_AfterPendingViolationsOkayed_TradeGoesToHoldStatus",
+  "historyId" : "d3f8ba4e0f0e81e21fce2f8f44468f1c",
+  "time" : {
+    "start" : 1549644776136,
+    "stop" : 1549644783803,
+    "duration" : 7667
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCheckingCompliance_ChangeTradeDetails_AfterPendingViolationsOkayed_TradeGoesToHoldStatus"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ab193bf3defdc59e.json",
+  "parameterValues" : [ ]
+}

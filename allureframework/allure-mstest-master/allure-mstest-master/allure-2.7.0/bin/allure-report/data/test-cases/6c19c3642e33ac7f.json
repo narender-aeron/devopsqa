@@ -1,0 +1,45 @@
+{
+  "uid" : "6c19c3642e33ac7f",
+  "name" : "GetAllocations",
+  "fullName" : "unknown.GetAllocations",
+  "historyId" : "adca89aa5381f893b5b429874f436e9d",
+  "time" : {
+    "start" : 1549646263162,
+    "stop" : 1549646263314,
+    "duration" : 152
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetAllocations"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c19c3642e33ac7f.json",
+  "parameterValues" : [ ]
+}

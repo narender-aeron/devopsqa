@@ -1,0 +1,45 @@
+{
+  "uid" : "57d2f793270c3909",
+  "name" : "ChangeManager_BatchSelect_Targeted_and_MMT_Trades",
+  "fullName" : "unknown.ChangeManager_BatchSelect_Targeted_and_MMT_Trades",
+  "historyId" : "f69084fe59d313d72ea87874acc9287e",
+  "time" : {
+    "start" : 1549647416527,
+    "stop" : 1549647437398,
+    "duration" : 20871
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ChangeManager_BatchSelect_Targeted_and_MMT_Trades"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "57d2f793270c3909.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "a2a8ca0c1806fe0",
+  "name" : "SaveTradeSequenceTest_UpdateTradeAllocations_ReturnSuccess",
+  "fullName" : "unknown.SaveTradeSequenceTest_UpdateTradeAllocations_ReturnSuccess",
+  "historyId" : "bee634f7f020740c0a8cbb6d95a1ed1c",
+  "time" : {
+    "start" : 1549645451919,
+    "stop" : 1549645457857,
+    "duration" : 5938
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SaveTradeSequenceTest_UpdateTradeAllocations_ReturnSuccess"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2a8ca0c1806fe0.json",
+  "parameterValues" : [ ]
+}

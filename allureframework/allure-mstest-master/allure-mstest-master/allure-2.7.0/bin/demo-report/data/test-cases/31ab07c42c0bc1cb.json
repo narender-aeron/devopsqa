@@ -1,0 +1,45 @@
+{
+  "uid" : "31ab07c42c0bc1cb",
+  "name" : "WhenRunningAdjustHedge_Tolerance0_RoundingHundredths_ColumnValuesAreCorrect",
+  "fullName" : "unknown.WhenRunningAdjustHedge_Tolerance0_RoundingHundredths_ColumnValuesAreCorrect",
+  "historyId" : "8abfa2e57b49e38ea6e189e68739b980",
+  "time" : {
+    "start" : 1539023152445,
+    "stop" : 1539023152758,
+    "duration" : 313
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenRunningAdjustHedge_Tolerance0_RoundingHundredths_ColumnValuesAreCorrect"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "31ab07c42c0bc1cb.json",
+  "parameterValues" : [ ]
+}

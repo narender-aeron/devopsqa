@@ -1,0 +1,45 @@
+{
+  "uid" : "6f2a63c9582df540",
+  "name" : "WhenCheckingCompliance_APITradeEntry_CreateTradeWorklow_ViolationsReported_ResponseIsNull",
+  "fullName" : "unknown.WhenCheckingCompliance_APITradeEntry_CreateTradeWorklow_ViolationsReported_ResponseIsNull",
+  "historyId" : "73bdcbbb3e003abd752ce1cac49652cc",
+  "time" : {
+    "start" : 1549644774837,
+    "stop" : 1549644775055,
+    "duration" : 218
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCheckingCompliance_APITradeEntry_CreateTradeWorklow_ViolationsReported_ResponseIsNull"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f2a63c9582df540.json",
+  "parameterValues" : [ ]
+}

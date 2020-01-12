@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "ba8b25eea4113b382033479a87d4062e",
+    "name" : "unknown test suite",
+    "statistic" : {
+      "failed" : 17,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1537,
+      "unknown" : 0,
+      "total" : 1554
+    }
+  } ]
+}

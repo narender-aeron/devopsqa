@@ -1,0 +1,45 @@
+{
+  "uid" : "28cde456f22108c8",
+  "name" : "AddingLocatesForTradesImportedFromTradeImporter",
+  "fullName" : "unknown.AddingLocatesForTradesImportedFromTradeImporter",
+  "historyId" : "ed4c06100a6a8c80d635a00c3b63a38d",
+  "time" : {
+    "start" : 1549635011880,
+    "stop" : 1549635106857,
+    "duration" : 94977
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "AddingLocatesForTradesImportedFromTradeImporter"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28cde456f22108c8.json",
+  "parameterValues" : [ ]
+}

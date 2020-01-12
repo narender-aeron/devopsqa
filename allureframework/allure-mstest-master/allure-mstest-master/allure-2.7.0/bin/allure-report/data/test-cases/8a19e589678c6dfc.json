@@ -1,0 +1,45 @@
+{
+  "uid" : "8a19e589678c6dfc",
+  "name" : "TestGetPluginIdByName_Basic",
+  "fullName" : "unknown.TestGetPluginIdByName_Basic",
+  "historyId" : "942373a1372fefcb68023638f23d1b0c",
+  "time" : {
+    "start" : 1549645199645,
+    "stop" : 1549645199688,
+    "duration" : 43
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestGetPluginIdByName_Basic"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a19e589678c6dfc.json",
+  "parameterValues" : [ ]
+}

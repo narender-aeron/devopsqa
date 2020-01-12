@@ -1,0 +1,45 @@
+{
+  "uid" : "f84d554c3cf097e",
+  "name" : "WhenGettingDataToUpdateIntradayChartingDimensions",
+  "fullName" : "unknown.WhenGettingDataToUpdateIntradayChartingDimensions",
+  "historyId" : "833eff087b4c3db41393f5b10738a28c",
+  "time" : {
+    "start" : 1549630349307,
+    "stop" : 1549630349314,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingDataToUpdateIntradayChartingDimensions"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f84d554c3cf097e.json",
+  "parameterValues" : [ ]
+}

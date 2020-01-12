@@ -1,0 +1,45 @@
+{
+  "uid" : "d65c269ec7cbf43c",
+  "name" : "WhenCheckingPreTrade_HistoricalDrilldownEnabled_ResultsAreCorrect",
+  "fullName" : "unknown.WhenCheckingPreTrade_HistoricalDrilldownEnabled_ResultsAreCorrect",
+  "historyId" : "d59c84a3a26f6b9d348ba6dfe890f72e",
+  "time" : {
+    "start" : 1549644660279,
+    "stop" : 1549644686703,
+    "duration" : 26424
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCheckingPreTrade_HistoricalDrilldownEnabled_ResultsAreCorrect"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d65c269ec7cbf43c.json",
+  "parameterValues" : [ ]
+}

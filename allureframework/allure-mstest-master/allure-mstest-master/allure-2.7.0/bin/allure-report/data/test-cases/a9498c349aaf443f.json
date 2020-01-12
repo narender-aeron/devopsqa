@@ -1,0 +1,45 @@
+{
+  "uid" : "a9498c349aaf443f",
+  "name" : "Verify_Exec_Broker_Column_Mapping_WithCustomFIXTag_OverFIX42",
+  "fullName" : "unknown.Verify_Exec_Broker_Column_Mapping_WithCustomFIXTag_OverFIX42",
+  "historyId" : "cf8a84a3fff84d3d1e674b213f874665",
+  "time" : {
+    "start" : 1549637709563,
+    "stop" : 1549637722880,
+    "duration" : 13317
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_Exec_Broker_Column_Mapping_WithCustomFIXTag_OverFIX42"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9498c349aaf443f.json",
+  "parameterValues" : [ ]
+}

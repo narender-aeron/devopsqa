@@ -1,0 +1,45 @@
+{
+  "uid" : "d44d0ba5eceea43",
+  "name" : "BasisPointBrokerFeeTest",
+  "fullName" : "unknown.BasisPointBrokerFeeTest",
+  "historyId" : "469a43134fb78fd9a942e833e8222240",
+  "time" : {
+    "start" : 1549645228285,
+    "stop" : 1549645234333,
+    "duration" : 6048
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "BasisPointBrokerFeeTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d44d0ba5eceea43.json",
+  "parameterValues" : [ ]
+}

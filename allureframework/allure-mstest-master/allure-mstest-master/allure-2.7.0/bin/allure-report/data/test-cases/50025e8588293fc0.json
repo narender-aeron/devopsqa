@@ -1,0 +1,45 @@
+{
+  "uid" : "50025e8588293fc0",
+  "name" : "RunAdjustCashRebal",
+  "fullName" : "unknown.RunAdjustCashRebal",
+  "historyId" : "7c49d15b0d5b2e521eb0c82b3f3614f9",
+  "time" : {
+    "start" : 1549631249568,
+    "stop" : 1549631251645,
+    "duration" : 2077
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RunAdjustCashRebal"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "50025e8588293fc0.json",
+  "parameterValues" : [ ]
+}

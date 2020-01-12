@@ -1,0 +1,45 @@
+{
+  "uid" : "83e5a9718cf2fcfd",
+  "name" : "ChangeManager_BatchSelect_MMT_Trades_With_MultipleStrategies_Collapsed",
+  "fullName" : "unknown.ChangeManager_BatchSelect_MMT_Trades_With_MultipleStrategies_Collapsed",
+  "historyId" : "421faf57911eb2147a9d79c01b9e3326",
+  "time" : {
+    "start" : 1549647437399,
+    "stop" : 1549647458770,
+    "duration" : 21371
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ChangeManager_BatchSelect_MMT_Trades_With_MultipleStrategies_Collapsed"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "83e5a9718cf2fcfd.json",
+  "parameterValues" : [ ]
+}

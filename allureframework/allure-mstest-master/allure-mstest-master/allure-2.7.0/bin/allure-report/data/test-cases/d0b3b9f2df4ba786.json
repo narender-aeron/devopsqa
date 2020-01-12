@@ -1,0 +1,45 @@
+{
+  "uid" : "d0b3b9f2df4ba786",
+  "name" : "MailServer_NoAttachment",
+  "fullName" : "unknown.MailServer_NoAttachment",
+  "historyId" : "40fec8e0d48f1801a8535a3657f58300",
+  "time" : {
+    "start" : 1549628996645,
+    "stop" : 1549628997432,
+    "duration" : 787
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "MailServer_NoAttachment"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d0b3b9f2df4ba786.json",
+  "parameterValues" : [ ]
+}

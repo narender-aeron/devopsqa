@@ -1,0 +1,45 @@
+{
+  "uid" : "35a9425f657db5c2",
+  "name" : "WhenAddingChildOrderToSPIsSuccessfulExpectTwoClerkAccept",
+  "fullName" : "unknown.WhenAddingChildOrderToSPIsSuccessfulExpectTwoClerkAccept",
+  "historyId" : "2d3b3143fc778dd494bfaaafbe84c734",
+  "time" : {
+    "start" : 1549643635752,
+    "stop" : 1549643639772,
+    "duration" : 4020
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenAddingChildOrderToSPIsSuccessfulExpectTwoClerkAccept"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "35a9425f657db5c2.json",
+  "parameterValues" : [ ]
+}

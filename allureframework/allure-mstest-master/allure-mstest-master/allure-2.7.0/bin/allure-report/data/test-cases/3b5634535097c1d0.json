@@ -1,0 +1,45 @@
+{
+  "uid" : "3b5634535097c1d0",
+  "name" : "ChangeTrader_MMT_Trade_ProcessUserOverridingComplianceAction",
+  "fullName" : "unknown.ChangeTrader_MMT_Trade_ProcessUserOverridingComplianceAction",
+  "historyId" : "b02adeef4d523d1818e7e1b66b0b9c5f",
+  "time" : {
+    "start" : 1549647490723,
+    "stop" : 1549647496057,
+    "duration" : 5334
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ChangeTrader_MMT_Trade_ProcessUserOverridingComplianceAction"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b5634535097c1d0.json",
+  "parameterValues" : [ ]
+}

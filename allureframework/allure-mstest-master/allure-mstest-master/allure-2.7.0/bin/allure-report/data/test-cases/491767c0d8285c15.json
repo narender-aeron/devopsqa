@@ -1,0 +1,45 @@
+{
+  "uid" : "491767c0d8285c15",
+  "name" : "WhenEditingPairsOrdersFail_EDIValidation_ExpectTwoClerkReject",
+  "fullName" : "unknown.WhenEditingPairsOrdersFail_EDIValidation_ExpectTwoClerkReject",
+  "historyId" : "28a1e8a996ec61d3dbbcb899d36b1942",
+  "time" : {
+    "start" : 1549643819526,
+    "stop" : 1549643823552,
+    "duration" : 4026
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenEditingPairsOrdersFail_EDIValidation_ExpectTwoClerkReject"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "491767c0d8285c15.json",
+  "parameterValues" : [ ]
+}

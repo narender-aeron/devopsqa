@@ -1,0 +1,45 @@
+{
+  "uid" : "52b4a2c936ea4c8e",
+  "name" : "WhenCowboyTradeEntrySwapSecurityFailTSValidationExpectComplianceViolation",
+  "fullName" : "unknown.WhenCowboyTradeEntrySwapSecurityFailTSValidationExpectComplianceViolation",
+  "historyId" : "cbac60f14f15530492cf65b23b263ad6",
+  "time" : {
+    "start" : 1549643759235,
+    "stop" : 1549643761241,
+    "duration" : 2006
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCowboyTradeEntrySwapSecurityFailTSValidationExpectComplianceViolation"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52b4a2c936ea4c8e.json",
+  "parameterValues" : [ ]
+}

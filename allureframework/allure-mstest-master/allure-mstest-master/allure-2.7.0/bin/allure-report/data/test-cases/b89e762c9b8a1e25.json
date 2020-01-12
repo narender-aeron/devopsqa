@@ -1,0 +1,45 @@
+{
+  "uid" : "b89e762c9b8a1e25",
+  "name" : "Verify_OutboundOverrideRule_ForDBData",
+  "fullName" : "unknown.Verify_OutboundOverrideRule_ForDBData",
+  "historyId" : "f6887db10e8b86d0c52ed42a9d69005e",
+  "time" : {
+    "start" : 1549637110400,
+    "stop" : 1549637162281,
+    "duration" : 51881
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_OutboundOverrideRule_ForDBData"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b89e762c9b8a1e25.json",
+  "parameterValues" : [ ]
+}

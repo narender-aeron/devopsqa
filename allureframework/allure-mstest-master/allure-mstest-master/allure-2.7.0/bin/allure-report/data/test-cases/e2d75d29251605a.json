@@ -1,0 +1,45 @@
+{
+  "uid" : "e2d75d29251605a",
+  "name" : "Verify_MBS_BulkFill_LimitOrder",
+  "fullName" : "unknown.Verify_MBS_BulkFill_LimitOrder",
+  "historyId" : "be5c8249faf3ad743cfb5f61bc0eb96d",
+  "time" : {
+    "start" : 1549639931055,
+    "stop" : 1549639937949,
+    "duration" : 6894
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_MBS_BulkFill_LimitOrder"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e2d75d29251605a.json",
+  "parameterValues" : [ ]
+}

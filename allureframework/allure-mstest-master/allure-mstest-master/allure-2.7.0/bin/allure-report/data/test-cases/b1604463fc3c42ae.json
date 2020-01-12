@@ -1,0 +1,45 @@
+{
+  "uid" : "b1604463fc3c42ae",
+  "name" : "WhenCheckingCompliance_EditTradeWorkflow_AfterUserProvidedOverrideComments",
+  "fullName" : "unknown.WhenCheckingCompliance_EditTradeWorkflow_AfterUserProvidedOverrideComments",
+  "historyId" : "8f11e8042e1778ec4d50f9d375c4da39",
+  "time" : {
+    "start" : 1549644783967,
+    "stop" : 1549644789436,
+    "duration" : 5469
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCheckingCompliance_EditTradeWorkflow_AfterUserProvidedOverrideComments"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b1604463fc3c42ae.json",
+  "parameterValues" : [ ]
+}

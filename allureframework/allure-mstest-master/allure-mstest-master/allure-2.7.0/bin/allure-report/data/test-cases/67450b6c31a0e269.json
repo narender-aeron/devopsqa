@@ -1,0 +1,45 @@
+{
+  "uid" : "67450b6c31a0e269",
+  "name" : "ChangeTradeLimitTest",
+  "fullName" : "unknown.ChangeTradeLimitTest",
+  "historyId" : "d7d642e0904024748d47d115b4961903",
+  "time" : {
+    "start" : 1549646269211,
+    "stop" : 1549646269244,
+    "duration" : 33
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ChangeTradeLimitTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "67450b6c31a0e269.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "8ae740bbebd0b4ad",
+  "name" : "WhenGettingByXSecurityUpdates",
+  "fullName" : "unknown.WhenGettingByXSecurityUpdates",
+  "historyId" : "c40a69af16666adec70e9f89daf6fa57",
+  "time" : {
+    "start" : 1549630341850,
+    "stop" : 1549630342874,
+    "duration" : 1024
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingByXSecurityUpdates"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ae740bbebd0b4ad.json",
+  "parameterValues" : [ ]
+}

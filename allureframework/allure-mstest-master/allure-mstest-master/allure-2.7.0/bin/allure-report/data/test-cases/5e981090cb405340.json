@@ -1,0 +1,45 @@
+{
+  "uid" : "5e981090cb405340",
+  "name" : "SFTPUT_PutFirstNewFile",
+  "fullName" : "unknown.SFTPUT_PutFirstNewFile",
+  "historyId" : "2672b8f5832be359b53a51b97f2ed256",
+  "time" : {
+    "start" : 1549629218953,
+    "stop" : 1549629224470,
+    "duration" : 5517
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SFTPUT_PutFirstNewFile"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5e981090cb405340.json",
+  "parameterValues" : [ ]
+}

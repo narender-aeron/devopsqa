@@ -1,0 +1,45 @@
+{
+  "uid" : "9dc3c382ffea9e75",
+  "name" : "Test_CannotDeleteExecutionBasedOnExecutionId_Success_WhenTradeIsCancelled",
+  "fullName" : "unknown.Test_CannotDeleteExecutionBasedOnExecutionId_Success_WhenTradeIsCancelled",
+  "historyId" : "dbb7be28d19bcdd3e8f51e4acbbbe738",
+  "time" : {
+    "start" : 1549623123831,
+    "stop" : 1549623145183,
+    "duration" : 21352
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_CannotDeleteExecutionBasedOnExecutionId_Success_WhenTradeIsCancelled"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9dc3c382ffea9e75.json",
+  "parameterValues" : [ ]
+}

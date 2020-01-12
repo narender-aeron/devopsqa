@@ -1,0 +1,45 @@
+{
+  "uid" : "8f02945351b2bdc3",
+  "name" : "WhenAddingStagedPairFailsCompVioAckVioExpectExchangeAcceptAckAndClerkAccept",
+  "fullName" : "unknown.WhenAddingStagedPairFailsCompVioAckVioExpectExchangeAcceptAckAndClerkAccept",
+  "historyId" : "2cecb973453d306108ddcbd80a7703de",
+  "time" : {
+    "start" : 1549643861014,
+    "stop" : 1549643865034,
+    "duration" : 4020
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenAddingStagedPairFailsCompVioAckVioExpectExchangeAcceptAckAndClerkAccept"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8f02945351b2bdc3.json",
+  "parameterValues" : [ ]
+}

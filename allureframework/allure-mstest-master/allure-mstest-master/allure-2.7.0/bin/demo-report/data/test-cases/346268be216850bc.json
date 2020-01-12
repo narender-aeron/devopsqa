@@ -1,0 +1,45 @@
+{
+  "uid" : "346268be216850bc",
+  "name" : "WhenDoingDataValidationUSOptionExpiredErrorReported",
+  "fullName" : "unknown.WhenDoingDataValidationUSOptionExpiredErrorReported",
+  "historyId" : "6c4ef1b077a91109da9e47caa33e9fce",
+  "time" : {
+    "start" : 1539021750452,
+    "stop" : 1539021752518,
+    "duration" : 2066
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenDoingDataValidationUSOptionExpiredErrorReported"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "346268be216850bc.json",
+  "parameterValues" : [ ]
+}

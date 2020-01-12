@@ -1,0 +1,45 @@
+{
+  "uid" : "b1acda0b7e4fae69",
+  "name" : "ChangeTradeDetails_MMTTrade_Buy",
+  "fullName" : "unknown.ChangeTradeDetails_MMTTrade_Buy",
+  "historyId" : "f25ed84010f44834d9a73bb988a0d066",
+  "time" : {
+    "start" : 1549645924591,
+    "stop" : 1549646172529,
+    "duration" : 247938
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ChangeTradeDetails_MMTTrade_Buy"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b1acda0b7e4fae69.json",
+  "parameterValues" : [ ]
+}

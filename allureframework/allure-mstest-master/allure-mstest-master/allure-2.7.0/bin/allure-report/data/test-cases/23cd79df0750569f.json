@@ -1,0 +1,45 @@
+{
+  "uid" : "23cd79df0750569f",
+  "name" : "TradeImporter_SaveCurrentUserSettingsAndThenSaveGlobalUserSettings",
+  "fullName" : "unknown.TradeImporter_SaveCurrentUserSettingsAndThenSaveGlobalUserSettings",
+  "historyId" : "d18cece62df6ad3e17a09c2dcc3f3e45",
+  "time" : {
+    "start" : 1549646936131,
+    "stop" : 1549646936249,
+    "duration" : 118
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TradeImporter_SaveCurrentUserSettingsAndThenSaveGlobalUserSettings"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "23cd79df0750569f.json",
+  "parameterValues" : [ ]
+}

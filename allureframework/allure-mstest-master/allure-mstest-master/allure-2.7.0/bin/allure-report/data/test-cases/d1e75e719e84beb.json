@@ -1,0 +1,45 @@
+{
+  "uid" : "d1e75e719e84beb",
+  "name" : "Verify_Cancel",
+  "fullName" : "unknown.Verify_Cancel",
+  "historyId" : "355f29314c6ac45968d7b6b2da273cd0",
+  "time" : {
+    "start" : 1549638274197,
+    "stop" : 1549638276541,
+    "duration" : 2344
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_Cancel"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d1e75e719e84beb.json",
+  "parameterValues" : [ ]
+}

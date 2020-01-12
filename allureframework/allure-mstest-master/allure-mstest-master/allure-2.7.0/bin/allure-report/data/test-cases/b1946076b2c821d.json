@@ -1,0 +1,45 @@
+{
+  "uid" : "b1946076b2c821d",
+  "name" : "Test_RetrievePositionLots_WhenAnalyticsServiceDown_Except500",
+  "fullName" : "unknown.Test_RetrievePositionLots_WhenAnalyticsServiceDown_Except500",
+  "historyId" : "a1dbca73d88048501834e20e28853745",
+  "time" : {
+    "start" : 1549623442558,
+    "stop" : 1549623482740,
+    "duration" : 40182
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_RetrievePositionLots_WhenAnalyticsServiceDown_Except500"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b1946076b2c821d.json",
+  "parameterValues" : [ ]
+}

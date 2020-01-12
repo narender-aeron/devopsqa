@@ -1,0 +1,45 @@
+{
+  "uid" : "63e4fa0da9dbdb5",
+  "name" : "Verify_AmountRuleAddBroker",
+  "fullName" : "unknown.Verify_AmountRuleAddBroker",
+  "historyId" : "405637931b33ef70504295fe2f9e8bf4",
+  "time" : {
+    "start" : 1549641474421,
+    "stop" : 1549641486136,
+    "duration" : 11715
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_AmountRuleAddBroker"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "63e4fa0da9dbdb5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "4c55681d6ba0078d",
+  "name" : "WhenGettingCalculatedBenchmarkData",
+  "fullName" : "unknown.WhenGettingCalculatedBenchmarkData",
+  "historyId" : "3ae4ffbd7da6716728a645e3d7ab0887",
+  "time" : {
+    "start" : 1539021256312,
+    "stop" : 1539021257371,
+    "duration" : 1059
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingCalculatedBenchmarkData"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4c55681d6ba0078d.json",
+  "parameterValues" : [ ]
+}

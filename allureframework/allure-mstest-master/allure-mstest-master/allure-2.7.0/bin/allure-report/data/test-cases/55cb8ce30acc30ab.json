@@ -1,0 +1,45 @@
+{
+  "uid" : "55cb8ce30acc30ab",
+  "name" : "Verify_IDMCodeMissing_FIX42",
+  "fullName" : "unknown.Verify_IDMCodeMissing_FIX42",
+  "historyId" : "d1a5cfb21faffbf2dcd4d91e147651fb",
+  "time" : {
+    "start" : 1549637316191,
+    "stop" : 1549637327356,
+    "duration" : 11165
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_IDMCodeMissing_FIX42"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "55cb8ce30acc30ab.json",
+  "parameterValues" : [ ]
+}

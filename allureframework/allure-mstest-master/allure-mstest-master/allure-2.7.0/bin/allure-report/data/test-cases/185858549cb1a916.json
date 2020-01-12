@@ -1,0 +1,45 @@
+{
+  "uid" : "185858549cb1a916",
+  "name" : "VerifySc1Trade_FixIntegration",
+  "fullName" : "unknown.VerifySc1Trade_FixIntegration",
+  "historyId" : "b6002533d17bef2c2c008660d25c32ba",
+  "time" : {
+    "start" : 1549642217788,
+    "stop" : 1549642639620,
+    "duration" : 421832
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "VerifySc1Trade_FixIntegration"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "185858549cb1a916.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "363b3b974c85a70e",
+  "name" : "WhenGettingColumnTypeList",
+  "fullName" : "unknown.WhenGettingColumnTypeList",
+  "historyId" : "bb1907bd0c158d266c1c0368a5f055ef",
+  "time" : {
+    "start" : 1549630274009,
+    "stop" : 1549630274031,
+    "duration" : 22
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingColumnTypeList"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "363b3b974c85a70e.json",
+  "parameterValues" : [ ]
+}

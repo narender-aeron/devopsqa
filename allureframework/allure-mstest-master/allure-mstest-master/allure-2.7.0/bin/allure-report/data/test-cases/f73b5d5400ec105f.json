@@ -1,0 +1,45 @@
+{
+  "uid" : "f73b5d5400ec105f",
+  "name" : "FTPPUT_NoDateinLocalFileName",
+  "fullName" : "unknown.FTPPUT_NoDateinLocalFileName",
+  "historyId" : "41e947b03e5803785ebe0a58b78ec8e6",
+  "time" : {
+    "start" : 1549627670438,
+    "stop" : 1549627735223,
+    "duration" : 64785
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "FTPPUT_NoDateinLocalFileName"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f73b5d5400ec105f.json",
+  "parameterValues" : [ ]
+}

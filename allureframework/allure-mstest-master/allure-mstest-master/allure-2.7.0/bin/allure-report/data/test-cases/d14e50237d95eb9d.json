@@ -1,0 +1,45 @@
+{
+  "uid" : "d14e50237d95eb9d",
+  "name" : "SFTPGET_BadFtpSite",
+  "fullName" : "unknown.SFTPGET_BadFtpSite",
+  "historyId" : "721a9ba007996ad917601869f83ae446",
+  "time" : {
+    "start" : 1549629122651,
+    "stop" : 1549629153214,
+    "duration" : 30563
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SFTPGET_BadFtpSite"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d14e50237d95eb9d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "bf100022f382ab8d",
+  "name" : "WhenNotifying_AmmendingAFillThatWasNotFiltered_SendsAmmendment",
+  "fullName" : "unknown.WhenNotifying_AmmendingAFillThatWasNotFiltered_SendsAmmendment",
+  "historyId" : "9c74748d6054c00785cf80c0f6cd8642",
+  "time" : {
+    "start" : 1549632927676,
+    "stop" : 1549632933438,
+    "duration" : 5762
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenNotifying_AmmendingAFillThatWasNotFiltered_SendsAmmendment"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bf100022f382ab8d.json",
+  "parameterValues" : [ ]
+}

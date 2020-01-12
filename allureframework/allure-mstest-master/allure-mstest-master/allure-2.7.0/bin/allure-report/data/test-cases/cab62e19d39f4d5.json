@@ -1,0 +1,45 @@
+{
+  "uid" : "cab62e19d39f4d5",
+  "name" : "InsertSecUDF_AcceptsUserDefinedField_ForNumericType",
+  "fullName" : "unknown.InsertSecUDF_AcceptsUserDefinedField_ForNumericType",
+  "historyId" : "94002c957ceb2f8e6fca9824fb791b07",
+  "time" : {
+    "start" : 1549646271426,
+    "stop" : 1549646271433,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "InsertSecUDF_AcceptsUserDefinedField_ForNumericType"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cab62e19d39f4d5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "8794dbe2fee4cad3",
+  "name" : "FTPGET_BadUsername",
+  "fullName" : "unknown.FTPGET_BadUsername",
+  "historyId" : "1b102bb6c59407df5bc1a324a99aebba",
+  "time" : {
+    "start" : 1549627832399,
+    "stop" : 1549627834254,
+    "duration" : 1855
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "FTPGET_BadUsername"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8794dbe2fee4cad3.json",
+  "parameterValues" : [ ]
+}

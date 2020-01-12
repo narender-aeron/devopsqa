@@ -1,0 +1,45 @@
+{
+  "uid" : "3574360565439ec",
+  "name" : "LocatePluginTestWithOnlyAllocations",
+  "fullName" : "unknown.LocatePluginTestWithOnlyAllocations",
+  "historyId" : "ade3ee0bcd2a6b260c1b623580019c8a",
+  "time" : {
+    "start" : 1549636198488,
+    "stop" : 1549636292434,
+    "duration" : 93946
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "LocatePluginTestWithOnlyAllocations"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3574360565439ec.json",
+  "parameterValues" : [ ]
+}

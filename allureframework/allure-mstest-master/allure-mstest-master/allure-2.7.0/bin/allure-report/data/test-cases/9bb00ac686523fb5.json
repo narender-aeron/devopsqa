@@ -1,0 +1,45 @@
+{
+  "uid" : "9bb00ac686523fb5",
+  "name" : "Verify_StoringCompdealerCodes_In_TC_BestExecution_Using_Tradegen_ForFillCancellation",
+  "fullName" : "unknown.Verify_StoringCompdealerCodes_In_TC_BestExecution_Using_Tradegen_ForFillCancellation",
+  "historyId" : "e995e00a77fec51573be09e2fbc3cdf6",
+  "time" : {
+    "start" : 1549638070918,
+    "stop" : 1549638095142,
+    "duration" : 24224
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_StoringCompdealerCodes_In_TC_BestExecution_Using_Tradegen_ForFillCancellation"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9bb00ac686523fb5.json",
+  "parameterValues" : [ ]
+}

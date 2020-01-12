@@ -1,0 +1,45 @@
+{
+  "uid" : "5596cbe42e97a520",
+  "name" : "TestGetAllocationTargetLotForBuyTrade_ModelProRata_BasisP4_ReturnSuccessResponse",
+  "fullName" : "unknown.TestGetAllocationTargetLotForBuyTrade_ModelProRata_BasisP4_ReturnSuccessResponse",
+  "historyId" : "a8f39d28c08e1e2bed1e74d19fa9ad94",
+  "time" : {
+    "start" : 1549645105199,
+    "stop" : 1549645105227,
+    "duration" : 28
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestGetAllocationTargetLotForBuyTrade_ModelProRata_BasisP4_ReturnSuccessResponse"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5596cbe42e97a520.json",
+  "parameterValues" : [ ]
+}

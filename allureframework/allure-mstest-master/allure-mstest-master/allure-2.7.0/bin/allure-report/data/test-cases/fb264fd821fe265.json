@@ -1,0 +1,45 @@
+{
+  "uid" : "fb264fd821fe265",
+  "name" : "WhenCheckingCompliance_F5TradeEntry_RestrictionLevelViolationsReported_TradeNotCreated",
+  "fullName" : "unknown.WhenCheckingCompliance_F5TradeEntry_RestrictionLevelViolationsReported_TradeNotCreated",
+  "historyId" : "39427b07fac35bd0c75d7c4c4947c864",
+  "time" : {
+    "start" : 1549644728974,
+    "stop" : 1549644732494,
+    "duration" : 3520
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCheckingCompliance_F5TradeEntry_RestrictionLevelViolationsReported_TradeNotCreated"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb264fd821fe265.json",
+  "parameterValues" : [ ]
+}

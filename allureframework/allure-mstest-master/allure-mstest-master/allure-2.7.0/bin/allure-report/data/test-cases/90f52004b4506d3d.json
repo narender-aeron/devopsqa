@@ -1,0 +1,45 @@
+{
+  "uid" : "90f52004b4506d3d",
+  "name" : "Test_InsertExecution_WithInvalid_AutoCalculateFields_ExpectedFailureStatusCodeWithProperErrorMsg",
+  "fullName" : "unknown.Test_InsertExecution_WithInvalid_AutoCalculateFields_ExpectedFailureStatusCodeWithProperErrorMsg",
+  "historyId" : "36bd6c9a3ecc032153793c5caa82ad91",
+  "time" : {
+    "start" : 1549622644901,
+    "stop" : 1549622650993,
+    "duration" : 6092
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_InsertExecution_WithInvalid_AutoCalculateFields_ExpectedFailureStatusCodeWithProperErrorMsg"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "90f52004b4506d3d.json",
+  "parameterValues" : [ ]
+}

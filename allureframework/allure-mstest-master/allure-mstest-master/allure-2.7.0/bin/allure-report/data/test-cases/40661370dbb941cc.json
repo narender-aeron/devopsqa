@@ -1,0 +1,45 @@
+{
+  "uid" : "40661370dbb941cc",
+  "name" : "WhenSendingTradesForTradeForNeed_ClosedCashBalancesTrue_SendTradesCorrectly",
+  "fullName" : "unknown.WhenSendingTradesForTradeForNeed_ClosedCashBalancesTrue_SendTradesCorrectly",
+  "historyId" : "a7e3cac32eab60e89f1a02c5f01e5e6c",
+  "time" : {
+    "start" : 1549621474482,
+    "stop" : 1549621476678,
+    "duration" : 2196
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenSendingTradesForTradeForNeed_ClosedCashBalancesTrue_SendTradesCorrectly"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "40661370dbb941cc.json",
+  "parameterValues" : [ ]
+}

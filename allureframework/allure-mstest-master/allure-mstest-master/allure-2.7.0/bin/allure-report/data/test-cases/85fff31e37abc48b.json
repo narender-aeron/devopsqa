@@ -1,0 +1,45 @@
+{
+  "uid" : "85fff31e37abc48b",
+  "name" : "WhenUpdateTradeTrader_MaintainBrokerTrader",
+  "fullName" : "unknown.WhenUpdateTradeTrader_MaintainBrokerTrader",
+  "historyId" : "cb5a8631ea1549c410bb1b2b26b14b6a",
+  "time" : {
+    "start" : 1549645877147,
+    "stop" : 1549645878810,
+    "duration" : 1663
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenUpdateTradeTrader_MaintainBrokerTrader"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85fff31e37abc48b.json",
+  "parameterValues" : [ ]
+}

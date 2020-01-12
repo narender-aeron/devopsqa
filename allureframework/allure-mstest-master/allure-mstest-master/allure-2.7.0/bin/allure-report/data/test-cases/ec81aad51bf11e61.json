@@ -1,0 +1,45 @@
+{
+  "uid" : "ec81aad51bf11e61",
+  "name" : "CreatetradewithFills_AllowExecutedTradesViaEITrue",
+  "fullName" : "unknown.CreatetradewithFills_AllowExecutedTradesViaEITrue",
+  "historyId" : "c4262b1789336e56721fbd58f718f811",
+  "time" : {
+    "start" : 1549624585971,
+    "stop" : 1549624589343,
+    "duration" : 3372
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreatetradewithFills_AllowExecutedTradesViaEITrue"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec81aad51bf11e61.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "f7f8296542b38ae8",
+  "name" : "PartialRebillFullyFilledTradeByBrokerF5Trade",
+  "fullName" : "unknown.PartialRebillFullyFilledTradeByBrokerF5Trade",
+  "historyId" : "193e65d693054ada09b15e80ffb756ad",
+  "time" : {
+    "start" : 1549634537210,
+    "stop" : 1549634555369,
+    "duration" : 18159
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "PartialRebillFullyFilledTradeByBrokerF5Trade"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7f8296542b38ae8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "7b6ddd237964533d",
+  "name" : "UpdateCountry_Success",
+  "fullName" : "unknown.UpdateCountry_Success",
+  "historyId" : "82715d407a069a66f8b5e66f5c6ea747",
+  "time" : {
+    "start" : 1549622218952,
+    "stop" : 1549622219021,
+    "duration" : 69
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateCountry_Success"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b6ddd237964533d.json",
+  "parameterValues" : [ ]
+}

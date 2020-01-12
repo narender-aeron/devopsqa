@@ -1,0 +1,45 @@
+{
+  "uid" : "3e526225d27e041f",
+  "name" : "WhenFinalizingTrade_WithImpliedBrokerCommission_CalculationCorrect",
+  "fullName" : "unknown.WhenFinalizingTrade_WithImpliedBrokerCommission_CalculationCorrect",
+  "historyId" : "34315260c8cce37f1e741ec59170c8f3",
+  "time" : {
+    "start" : 1549645752867,
+    "stop" : 1549645770432,
+    "duration" : 17565
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenFinalizingTrade_WithImpliedBrokerCommission_CalculationCorrect"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e526225d27e041f.json",
+  "parameterValues" : [ ]
+}

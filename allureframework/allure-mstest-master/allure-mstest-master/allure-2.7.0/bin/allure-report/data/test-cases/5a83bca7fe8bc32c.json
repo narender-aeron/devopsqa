@@ -1,0 +1,45 @@
+{
+  "uid" : "5a83bca7fe8bc32c",
+  "name" : "WhenCowboyEntryFailsComplianceViolaction_AckViolation_ExpectExchangeAcceptAckAndClerkAccept",
+  "fullName" : "unknown.WhenCowboyEntryFailsComplianceViolaction_AckViolation_ExpectExchangeAcceptAckAndClerkAccept",
+  "historyId" : "9681bb0ed11f512658abc76bd1ac151e",
+  "time" : {
+    "start" : 1549643787384,
+    "stop" : 1549643791406,
+    "duration" : 4022
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCowboyEntryFailsComplianceViolaction_AckViolation_ExpectExchangeAcceptAckAndClerkAccept"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a83bca7fe8bc32c.json",
+  "parameterValues" : [ ]
+}

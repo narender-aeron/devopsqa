@@ -1,0 +1,45 @@
+{
+  "uid" : "829749b3c63c2ff",
+  "name" : "WhenEditingChildPairsOrdersPermOnAndEMSComplianceOnlyTrue_FailComplianceValidationAndAck_ExpectExchangeAcceptAck",
+  "fullName" : "unknown.WhenEditingChildPairsOrdersPermOnAndEMSComplianceOnlyTrue_FailComplianceValidationAndAck_ExpectExchangeAcceptAck",
+  "historyId" : "bdf89534156a50846a0f28b623b19599",
+  "time" : {
+    "start" : 1549644234932,
+    "stop" : 1549644240959,
+    "duration" : 6027
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenEditingChildPairsOrdersPermOnAndEMSComplianceOnlyTrue_FailComplianceValidationAndAck_ExpectExchangeAcceptAck"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "829749b3c63c2ff.json",
+  "parameterValues" : [ ]
+}

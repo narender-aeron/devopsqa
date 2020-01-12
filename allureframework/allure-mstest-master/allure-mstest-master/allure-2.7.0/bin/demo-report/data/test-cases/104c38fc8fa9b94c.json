@@ -1,0 +1,45 @@
+{
+  "uid" : "104c38fc8fa9b94c",
+  "name" : "Drop_Copy_Matching_With_Broker",
+  "fullName" : "unknown.Drop_Copy_Matching_With_Broker",
+  "historyId" : "d5808b73f8357cd0f35cdc6bc1858f5d",
+  "time" : {
+    "start" : 1539024884542,
+    "stop" : 1539024885250,
+    "duration" : 708
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Drop_Copy_Matching_With_Broker"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "104c38fc8fa9b94c.json",
+  "parameterValues" : [ ]
+}

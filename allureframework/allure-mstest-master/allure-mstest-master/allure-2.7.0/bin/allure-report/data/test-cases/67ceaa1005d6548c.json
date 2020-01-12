@@ -1,0 +1,45 @@
+{
+  "uid" : "67ceaa1005d6548c",
+  "name" : "SFTPPUT_BadPassword",
+  "fullName" : "unknown.SFTPPUT_BadPassword",
+  "historyId" : "88c1c68bf8c8316190cc382323d32b8c",
+  "time" : {
+    "start" : 1549629055823,
+    "stop" : 1549629060843,
+    "duration" : 5020
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SFTPPUT_BadPassword"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "67ceaa1005d6548c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "f7fca5935e69733",
+  "name" : "WhenValidatingPSSymbolsFindSomeThatFail",
+  "fullName" : "unknown.WhenValidatingPSSymbolsFindSomeThatFail",
+  "historyId" : "92d744b906c03dae1aac470f3e053fe",
+  "time" : {
+    "start" : 1549647915927,
+    "stop" : 1549647917743,
+    "duration" : 1816
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenValidatingPSSymbolsFindSomeThatFail"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7fca5935e69733.json",
+  "parameterValues" : [ ]
+}

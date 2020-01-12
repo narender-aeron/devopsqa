@@ -1,0 +1,45 @@
+{
+  "uid" : "25d7d92effeeb826",
+  "name" : "RequestHierarchyComparisonTest",
+  "fullName" : "unknown.RequestHierarchyComparisonTest",
+  "historyId" : "9b2cd19e6e73723595bd13dcae368b28",
+  "time" : {
+    "start" : 1539021132011,
+    "stop" : 1539021181590,
+    "duration" : 49579
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RequestHierarchyComparisonTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25d7d92effeeb826.json",
+  "parameterValues" : [ ]
+}

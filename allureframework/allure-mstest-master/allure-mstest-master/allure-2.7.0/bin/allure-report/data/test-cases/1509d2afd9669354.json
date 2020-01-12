@@ -1,0 +1,45 @@
+{
+  "uid" : "1509d2afd9669354",
+  "name" : "WhenInsertOrUpdate_MergeTrades_MMT_WithStrategies",
+  "fullName" : "unknown.WhenInsertOrUpdate_MergeTrades_MMT_WithStrategies",
+  "historyId" : "3f7134950a8bcfd4ef79f186ae0ed236",
+  "time" : {
+    "start" : 1549647383433,
+    "stop" : 1549647383824,
+    "duration" : 391
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenInsertOrUpdate_MergeTrades_MMT_WithStrategies"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1509d2afd9669354.json",
+  "parameterValues" : [ ]
+}

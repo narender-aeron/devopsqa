@@ -1,0 +1,45 @@
+{
+  "uid" : "8760a792250d68a9",
+  "name" : "WhenMovingTargetedTradesFromStagingToTrading_InvalidTradesSelected_DefaultCustodianDoesNotRun_AllowNoPositionCheckTrue_CustProofSPTrue",
+  "fullName" : "unknown.WhenMovingTargetedTradesFromStagingToTrading_InvalidTradesSelected_DefaultCustodianDoesNotRun_AllowNoPositionCheckTrue_CustProofSPTrue",
+  "historyId" : "b2be3998cc0506e7b2656281012fca2b",
+  "time" : {
+    "start" : 1549647048217,
+    "stop" : 1549647065532,
+    "duration" : 17315
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenMovingTargetedTradesFromStagingToTrading_InvalidTradesSelected_DefaultCustodianDoesNotRun_AllowNoPositionCheckTrue_CustProofSPTrue"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8760a792250d68a9.json",
+  "parameterValues" : [ ]
+}

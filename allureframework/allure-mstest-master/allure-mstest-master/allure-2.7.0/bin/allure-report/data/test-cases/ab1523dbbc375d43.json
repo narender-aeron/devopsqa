@@ -1,0 +1,45 @@
+{
+  "uid" : "ab1523dbbc375d43",
+  "name" : "GetRunningSessionsTest",
+  "fullName" : "unknown.GetRunningSessionsTest",
+  "historyId" : "7329b1c1c76890c95a9c860b7fa9d9d",
+  "time" : {
+    "start" : 1549631258874,
+    "stop" : 1549631258888,
+    "duration" : 14
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetRunningSessionsTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ab1523dbbc375d43.json",
+  "parameterValues" : [ ]
+}

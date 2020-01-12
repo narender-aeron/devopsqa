@@ -1,0 +1,45 @@
+{
+  "uid" : "1a87e8cae46e62df",
+  "name" : "GetClearingBrokerComm",
+  "fullName" : "unknown.GetClearingBrokerComm",
+  "historyId" : "1a7632f4891f4b406d65f9aea548d620",
+  "time" : {
+    "start" : 1549646264798,
+    "stop" : 1549646264805,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetClearingBrokerComm"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a87e8cae46e62df.json",
+  "parameterValues" : [ ]
+}

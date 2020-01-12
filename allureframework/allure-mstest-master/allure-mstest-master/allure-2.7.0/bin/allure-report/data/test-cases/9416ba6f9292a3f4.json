@@ -1,0 +1,45 @@
+{
+  "uid" : "9416ba6f9292a3f4",
+  "name" : "CreateTrade_NoTradeFinalize_Success_MultipleTrade_2_AllOrNothing_True_TState",
+  "fullName" : "unknown.CreateTrade_NoTradeFinalize_Success_MultipleTrade_2_AllOrNothing_True_TState",
+  "historyId" : "76f8a2ea2fe2ec84fb8d2d762a389475",
+  "time" : {
+    "start" : 1549624708956,
+    "stop" : 1549624711941,
+    "duration" : 2985
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreateTrade_NoTradeFinalize_Success_MultipleTrade_2_AllOrNothing_True_TState"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9416ba6f9292a3f4.json",
+  "parameterValues" : [ ]
+}

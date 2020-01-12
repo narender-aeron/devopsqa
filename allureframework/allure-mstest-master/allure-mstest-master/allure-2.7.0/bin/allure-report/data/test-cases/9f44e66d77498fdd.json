@@ -1,0 +1,45 @@
+{
+  "uid" : "9f44e66d77498fdd",
+  "name" : "Verify_LEICode_FIX44",
+  "fullName" : "unknown.Verify_LEICode_FIX44",
+  "historyId" : "3f3b336c5e3bbecf534a5aa0a5af92d1",
+  "time" : {
+    "start" : 1549637327357,
+    "stop" : 1549637338650,
+    "duration" : 11293
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_LEICode_FIX44"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f44e66d77498fdd.json",
+  "parameterValues" : [ ]
+}

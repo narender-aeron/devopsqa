@@ -1,0 +1,45 @@
+{
+  "uid" : "a07bd8cec9f28bc7",
+  "name" : "EzeIntradayXML_CheckIncludeEmptyFields",
+  "fullName" : "unknown.EzeIntradayXML_CheckIncludeEmptyFields",
+  "historyId" : "872d66114b15cae4224aae680eab0c18",
+  "time" : {
+    "start" : 1549628027669,
+    "stop" : 1549628042923,
+    "duration" : 15254
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeIntradayXML_CheckIncludeEmptyFields"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a07bd8cec9f28bc7.json",
+  "parameterValues" : [ ]
+}

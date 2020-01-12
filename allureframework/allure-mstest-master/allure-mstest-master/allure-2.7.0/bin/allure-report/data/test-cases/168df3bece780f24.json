@@ -1,0 +1,45 @@
+{
+  "uid" : "168df3bece780f24",
+  "name" : "SFTPGET_WildCardInFileName",
+  "fullName" : "unknown.SFTPGET_WildCardInFileName",
+  "historyId" : "7179c40a77c17d58d509903ac3e9363d",
+  "time" : {
+    "start" : 1549629237708,
+    "stop" : 1549629244012,
+    "duration" : 6304
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SFTPGET_WildCardInFileName"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "168df3bece780f24.json",
+  "parameterValues" : [ ]
+}

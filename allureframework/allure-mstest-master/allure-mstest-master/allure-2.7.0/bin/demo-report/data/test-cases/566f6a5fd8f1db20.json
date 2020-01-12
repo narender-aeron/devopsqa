@@ -1,0 +1,45 @@
+{
+  "uid" : "566f6a5fd8f1db20",
+  "name" : "GetInflationBenchmarksTest",
+  "fullName" : "unknown.GetInflationBenchmarksTest",
+  "historyId" : "29dea7ba83efca289ad4e5d6d3e75cd6",
+  "time" : {
+    "start" : 1539022357067,
+    "stop" : 1539022357182,
+    "duration" : 115
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetInflationBenchmarksTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "566f6a5fd8f1db20.json",
+  "parameterValues" : [ ]
+}

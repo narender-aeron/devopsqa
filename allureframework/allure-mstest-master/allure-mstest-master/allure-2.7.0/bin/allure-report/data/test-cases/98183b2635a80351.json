@@ -1,0 +1,45 @@
+{
+  "uid" : "98183b2635a80351",
+  "name" : "WhenSecuritySwapPassesFilterAndAutoCreate",
+  "fullName" : "unknown.WhenSecuritySwapPassesFilterAndAutoCreate",
+  "historyId" : "d631a2ca57ad8e1ff1510deb914423a8",
+  "time" : {
+    "start" : 1549643022143,
+    "stop" : 1549643027168,
+    "duration" : 5025
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenSecuritySwapPassesFilterAndAutoCreate"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "98183b2635a80351.json",
+  "parameterValues" : [ ]
+}

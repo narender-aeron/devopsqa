@@ -1,0 +1,53 @@
+{
+  "uid" : "304ec968d5f75a5a",
+  "name" : "UpdateTrade_NoTradeFinalize_Success_MultipleTrade_3_IsAllOrNothing_False_MState",
+  "fullName" : "unknown.UpdateTrade_NoTradeFinalize_Success_MultipleTrade_3_IsAllOrNothing_False_MState",
+  "historyId" : "d75d95e1865be0a0d0eb7b56e0296378",
+  "time" : {
+    "start" : 1549625242594,
+    "stop" : 1549625245725,
+    "duration" : 3131
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateTrade_NoTradeFinalize_Success_MultipleTrade_3_IsAllOrNothing_False_MState"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "caf4171bb0fdd5ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1549624724042,
+        "stop" : 1549624727430,
+        "duration" : 3388
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "304ec968d5f75a5a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "3b28d30652336ef4",
+  "name" : "WhenNotifying_AmmendingAFillThatWasFilteredIsFiltered_NoMessagesAreSent",
+  "fullName" : "unknown.WhenNotifying_AmmendingAFillThatWasFilteredIsFiltered_NoMessagesAreSent",
+  "historyId" : "9f2564704850b79a08627047406cedd3",
+  "time" : {
+    "start" : 1549632935030,
+    "stop" : 1549632935992,
+    "duration" : 962
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenNotifying_AmmendingAFillThatWasFilteredIsFiltered_NoMessagesAreSent"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b28d30652336ef4.json",
+  "parameterValues" : [ ]
+}

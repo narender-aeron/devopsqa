@@ -1,0 +1,45 @@
+{
+  "uid" : "a84ab6b2506e80aa",
+  "name" : "FTPPUT_RemoteFileName",
+  "fullName" : "unknown.FTPPUT_RemoteFileName",
+  "historyId" : "f625c26b3b420733d1f446bbadcde582",
+  "time" : {
+    "start" : 1549627738567,
+    "stop" : 1549627744235,
+    "duration" : 5668
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "FTPPUT_RemoteFileName"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a84ab6b2506e80aa.json",
+  "parameterValues" : [ ]
+}

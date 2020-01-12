@@ -1,0 +1,45 @@
+{
+  "uid" : "f5f0c981fe021050",
+  "name" : "ChangeSettleCurrency_NoChangeAmountOrPrice",
+  "fullName" : "unknown.ChangeSettleCurrency_NoChangeAmountOrPrice",
+  "historyId" : "8d0fe915ac042c050190ce3b5f691fca",
+  "time" : {
+    "start" : 1549645469046,
+    "stop" : 1549645486583,
+    "duration" : 17537
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ChangeSettleCurrency_NoChangeAmountOrPrice"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f5f0c981fe021050.json",
+  "parameterValues" : [ ]
+}

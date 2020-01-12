@@ -1,0 +1,45 @@
+{
+  "uid" : "4d16938bab0880b8",
+  "name" : "WhenGettingInvestmentTrackingTransactionsByDateTime",
+  "fullName" : "unknown.WhenGettingInvestmentTrackingTransactionsByDateTime",
+  "historyId" : "d4265dd589446bc45c0d4461f4bc43e2",
+  "time" : {
+    "start" : 1539023572432,
+    "stop" : 1539023572438,
+    "duration" : 6
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingInvestmentTrackingTransactionsByDateTime"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d16938bab0880b8.json",
+  "parameterValues" : [ ]
+}

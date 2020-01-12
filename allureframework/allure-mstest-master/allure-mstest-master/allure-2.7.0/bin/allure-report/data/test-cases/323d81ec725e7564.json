@@ -1,0 +1,45 @@
+{
+  "uid" : "323d81ec725e7564",
+  "name" : "RunTargetCashRebal",
+  "fullName" : "unknown.RunTargetCashRebal",
+  "historyId" : "a261dc711888120a9d1c5ea11a7c6e3a",
+  "time" : {
+    "start" : 1549631251646,
+    "stop" : 1549631252441,
+    "duration" : 795
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RunTargetCashRebal"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "323d81ec725e7564.json",
+  "parameterValues" : [ ]
+}

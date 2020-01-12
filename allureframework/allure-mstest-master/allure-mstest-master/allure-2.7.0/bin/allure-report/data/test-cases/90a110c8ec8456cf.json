@@ -1,0 +1,45 @@
+{
+  "uid" : "90a110c8ec8456cf",
+  "name" : "Verify_MultiDayOrder",
+  "fullName" : "unknown.Verify_MultiDayOrder",
+  "historyId" : "8ef2b950810c12764a6925d6163410eb",
+  "time" : {
+    "start" : 1549639334642,
+    "stop" : 1549639593691,
+    "duration" : 259049
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_MultiDayOrder"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "90a110c8ec8456cf.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "d6354f33c21f6742",
+  "name" : "ImportRealTimeSubscriptionTest",
+  "fullName" : "unknown.ImportRealTimeSubscriptionTest",
+  "historyId" : "d447b3ef7b45ecfe4e576b1bc66ddc04",
+  "time" : {
+    "start" : 1549620929425,
+    "stop" : 1549621014362,
+    "duration" : 84937
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ImportRealTimeSubscriptionTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d6354f33c21f6742.json",
+  "parameterValues" : [ ]
+}

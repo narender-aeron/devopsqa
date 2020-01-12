@@ -1,0 +1,45 @@
+{
+  "uid" : "de277c252b20c912",
+  "name" : "CreateforwardBuyTrade_SecWithInValidSpotDate_ValidateTheSpotdate",
+  "fullName" : "unknown.CreateforwardBuyTrade_SecWithInValidSpotDate_ValidateTheSpotdate",
+  "historyId" : "7d6e039ea9ffbd22abaa83463eb01664",
+  "time" : {
+    "start" : 1549624632262,
+    "stop" : 1549624668535,
+    "duration" : 36273
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreateforwardBuyTrade_SecWithInValidSpotDate_ValidateTheSpotdate"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "de277c252b20c912.json",
+  "parameterValues" : [ ]
+}

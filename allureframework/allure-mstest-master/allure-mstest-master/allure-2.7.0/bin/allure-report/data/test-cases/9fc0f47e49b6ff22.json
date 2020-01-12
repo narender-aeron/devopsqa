@@ -1,0 +1,45 @@
+{
+  "uid" : "9fc0f47e49b6ff22",
+  "name" : "AddLocates",
+  "fullName" : "unknown.AddLocates",
+  "historyId" : "2797f9d7cba8a2195db67593fd9b92c4",
+  "time" : {
+    "start" : 1549634869128,
+    "stop" : 1549634870369,
+    "duration" : 1241
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "AddLocates"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9fc0f47e49b6ff22.json",
+  "parameterValues" : [ ]
+}

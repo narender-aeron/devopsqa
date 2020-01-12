@@ -1,0 +1,45 @@
+{
+  "uid" : "c7f428845073535f",
+  "name" : "WhenCreatingPSSymbolsTheyGetPersisted",
+  "fullName" : "unknown.WhenCreatingPSSymbolsTheyGetPersisted",
+  "historyId" : "d40aa3baf43574f141951ec93047bb69",
+  "time" : {
+    "start" : 1549647917937,
+    "stop" : 1549647920147,
+    "duration" : 2210
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCreatingPSSymbolsTheyGetPersisted"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c7f428845073535f.json",
+  "parameterValues" : [ ]
+}

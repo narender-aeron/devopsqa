@@ -1,0 +1,45 @@
+{
+  "uid" : "9bb31b096d177e1c",
+  "name" : "InsertFinalizedTradeIgnoreTriggers_TestForAllocationData",
+  "fullName" : "unknown.InsertFinalizedTradeIgnoreTriggers_TestForAllocationData",
+  "historyId" : "1fa24e0f05cf5ac6c886ec6e404b2a4b",
+  "time" : {
+    "start" : 1549646270943,
+    "stop" : 1549646270957,
+    "duration" : 14
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "InsertFinalizedTradeIgnoreTriggers_TestForAllocationData"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9bb31b096d177e1c.json",
+  "parameterValues" : [ ]
+}

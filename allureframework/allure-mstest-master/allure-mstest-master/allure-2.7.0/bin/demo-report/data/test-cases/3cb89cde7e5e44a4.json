@@ -1,0 +1,45 @@
+{
+  "uid" : "3cb89cde7e5e44a4",
+  "name" : "SecurityDataRequestUsingAlias1_RetrieveMiFiDFieldsWhendDefaultValuesarePassed",
+  "fullName" : "unknown.SecurityDataRequestUsingAlias1_RetrieveMiFiDFieldsWhendDefaultValuesarePassed",
+  "historyId" : "3a222f1b00b2d5c86c7d66e4496d7949",
+  "time" : {
+    "start" : 1539021276394,
+    "stop" : 1539021560951,
+    "duration" : 284557
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SecurityDataRequestUsingAlias1_RetrieveMiFiDFieldsWhendDefaultValuesarePassed"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3cb89cde7e5e44a4.json",
+  "parameterValues" : [ ]
+}

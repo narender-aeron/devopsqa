@@ -1,0 +1,45 @@
+{
+  "uid" : "358ef1bb3416601b",
+  "name" : "ImportLocatesAndAdd",
+  "fullName" : "unknown.ImportLocatesAndAdd",
+  "historyId" : "7f05e639a44348c0b14967e45fc93045",
+  "time" : {
+    "start" : 1539021434513,
+    "stop" : 1539021439819,
+    "duration" : 5306
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ImportLocatesAndAdd"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "358ef1bb3416601b.json",
+  "parameterValues" : [ ]
+}

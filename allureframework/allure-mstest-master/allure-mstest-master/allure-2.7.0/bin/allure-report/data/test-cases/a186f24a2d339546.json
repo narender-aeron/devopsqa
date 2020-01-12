@@ -1,0 +1,45 @@
+{
+  "uid" : "a186f24a2d339546",
+  "name" : "DeleteCrossCurrency__success",
+  "fullName" : "unknown.DeleteCrossCurrency__success",
+  "historyId" : "4b82309646332c2cca318069289e2561",
+  "time" : {
+    "start" : 1549622219504,
+    "stop" : 1549622219644,
+    "duration" : 140
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteCrossCurrency__success"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a186f24a2d339546.json",
+  "parameterValues" : [ ]
+}

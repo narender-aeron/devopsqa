@@ -1,0 +1,45 @@
+{
+  "uid" : "6c5d3dab9e17c433",
+  "name" : "WhenSendingTradesForFXForwardCombo_ClosedCashBalancesTrue_Tolerance0_RoundingHundredths_SendTradesCorrectly",
+  "fullName" : "unknown.WhenSendingTradesForFXForwardCombo_ClosedCashBalancesTrue_Tolerance0_RoundingHundredths_SendTradesCorrectly",
+  "historyId" : "b5b458e338304c95ef91c8cb9a285125",
+  "time" : {
+    "start" : 1549621447143,
+    "stop" : 1549621456670,
+    "duration" : 9527
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenSendingTradesForFXForwardCombo_ClosedCashBalancesTrue_Tolerance0_RoundingHundredths_SendTradesCorrectly"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c5d3dab9e17c433.json",
+  "parameterValues" : [ ]
+}

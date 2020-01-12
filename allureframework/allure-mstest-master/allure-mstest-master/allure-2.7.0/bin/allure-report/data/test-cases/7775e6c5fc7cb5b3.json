@@ -1,0 +1,45 @@
+{
+  "uid" : "7775e6c5fc7cb5b3",
+  "name" : "Verify_StoringCompdealerCodes_In_TC_BestExecution_Using_Tradegen",
+  "fullName" : "unknown.Verify_StoringCompdealerCodes_In_TC_BestExecution_Using_Tradegen",
+  "historyId" : "15ca6ef9f98da61ea0f4ff0413fe410f",
+  "time" : {
+    "start" : 1549638024540,
+    "stop" : 1549638046679,
+    "duration" : 22139
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_StoringCompdealerCodes_In_TC_BestExecution_Using_Tradegen"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7775e6c5fc7cb5b3.json",
+  "parameterValues" : [ ]
+}

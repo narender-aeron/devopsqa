@@ -1,0 +1,45 @@
+{
+  "uid" : "30d5989619e101",
+  "name" : "ChangeIdmToNullForSingleAllocation",
+  "fullName" : "unknown.ChangeIdmToNullForSingleAllocation",
+  "historyId" : "3529a19c6b422fb35e28b8d9772e11bb",
+  "time" : {
+    "start" : 1549634613227,
+    "stop" : 1549634616432,
+    "duration" : 3205
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ChangeIdmToNullForSingleAllocation"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "30d5989619e101.json",
+  "parameterValues" : [ ]
+}

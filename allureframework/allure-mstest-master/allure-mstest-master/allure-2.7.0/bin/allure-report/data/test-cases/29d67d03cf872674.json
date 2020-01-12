@@ -1,0 +1,45 @@
+{
+  "uid" : "29d67d03cf872674",
+  "name" : "NumberOfTradesUsingUDF_ByCheckingParticularUser_ReturnsCorrectList",
+  "fullName" : "unknown.NumberOfTradesUsingUDF_ByCheckingParticularUser_ReturnsCorrectList",
+  "historyId" : "dd99ef764be30fc7f389674a34a99769",
+  "time" : {
+    "start" : 1549646271237,
+    "stop" : 1549646271244,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "NumberOfTradesUsingUDF_ByCheckingParticularUser_ReturnsCorrectList"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29d67d03cf872674.json",
+  "parameterValues" : [ ]
+}

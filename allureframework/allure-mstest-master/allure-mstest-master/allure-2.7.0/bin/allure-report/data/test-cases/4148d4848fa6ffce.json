@@ -1,0 +1,45 @@
+{
+  "uid" : "4148d4848fa6ffce",
+  "name" : "RetrieveMStateTradeToVerifyStrategiesinLots",
+  "fullName" : "unknown.RetrieveMStateTradeToVerifyStrategiesinLots",
+  "historyId" : "fdcff1e10c22fc68d6b53bc8990341d0",
+  "time" : {
+    "start" : 1549625372056,
+    "stop" : 1549625377016,
+    "duration" : 4960
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RetrieveMStateTradeToVerifyStrategiesinLots"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4148d4848fa6ffce.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "e81531f6ef79b7df",
+  "name" : "UpdateTStateTrade",
+  "fullName" : "unknown.UpdateTStateTrade",
+  "historyId" : "742baa0875967b414aed817f2ac47e1a",
+  "time" : {
+    "start" : 1549624897350,
+    "stop" : 1549625029220,
+    "duration" : 131870
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateTStateTrade"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e81531f6ef79b7df.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "474dc107442622d4",
+  "name" : "WhenSendingTradesForAdjustHedge_Tolerance5000_Rounding100_SendTradesCorrectly",
+  "fullName" : "unknown.WhenSendingTradesForAdjustHedge_Tolerance5000_Rounding100_SendTradesCorrectly",
+  "historyId" : "d71cbd7a660b3cac124660185116348",
+  "time" : {
+    "start" : 1539023153381,
+    "stop" : 1539023155574,
+    "duration" : 2193
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenSendingTradesForAdjustHedge_Tolerance5000_Rounding100_SendTradesCorrectly"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "474dc107442622d4.json",
+  "parameterValues" : [ ]
+}

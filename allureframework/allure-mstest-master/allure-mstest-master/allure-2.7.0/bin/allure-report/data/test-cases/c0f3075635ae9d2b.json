@@ -1,0 +1,45 @@
+{
+  "uid" : "c0f3075635ae9d2b",
+  "name" : "RunAdjustInvested",
+  "fullName" : "unknown.RunAdjustInvested",
+  "historyId" : "cb7735bbb715bd0e36364579266ec338",
+  "time" : {
+    "start" : 1549631248659,
+    "stop" : 1549631249113,
+    "duration" : 454
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RunAdjustInvested"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c0f3075635ae9d2b.json",
+  "parameterValues" : [ ]
+}

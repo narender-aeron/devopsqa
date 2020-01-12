@@ -1,0 +1,45 @@
+{
+  "uid" : "319215f841dd1d9",
+  "name" : "WhenGetitingDetailViweColumnList",
+  "fullName" : "unknown.WhenGetitingDetailViweColumnList",
+  "historyId" : "e5ea1bf78ebaf575a3001611a127efbb",
+  "time" : {
+    "start" : 1539021186944,
+    "stop" : 1539021188098,
+    "duration" : 1154
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGetitingDetailViweColumnList"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "319215f841dd1d9.json",
+  "parameterValues" : [ ]
+}

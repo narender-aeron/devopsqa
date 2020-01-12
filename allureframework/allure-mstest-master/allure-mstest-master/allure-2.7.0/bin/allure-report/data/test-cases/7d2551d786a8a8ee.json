@@ -1,0 +1,45 @@
+{
+  "uid" : "7d2551d786a8a8ee",
+  "name" : "WhenNotifying_PercentagePriceTypeSecType_PriceTypeIsOne",
+  "fullName" : "unknown.WhenNotifying_PercentagePriceTypeSecType_PriceTypeIsOne",
+  "historyId" : "3c3fa967183baf3c0db519e1e7847bdd",
+  "time" : {
+    "start" : 1549632920487,
+    "stop" : 1549632921463,
+    "duration" : 976
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenNotifying_PercentagePriceTypeSecType_PriceTypeIsOne"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d2551d786a8a8ee.json",
+  "parameterValues" : [ ]
+}

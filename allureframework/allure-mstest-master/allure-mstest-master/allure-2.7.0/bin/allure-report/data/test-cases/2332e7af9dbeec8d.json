@@ -1,0 +1,45 @@
+{
+  "uid" : "2332e7af9dbeec8d",
+  "name" : "VerifySwapsAssetClass_ManualFill_NotifyMRS_Test",
+  "fullName" : "unknown.VerifySwapsAssetClass_ManualFill_NotifyMRS_Test",
+  "historyId" : "e35bbdca25b9c0db1a5601b7ce0d00b9",
+  "time" : {
+    "start" : 1549631930348,
+    "stop" : 1549631933805,
+    "duration" : 3457
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "VerifySwapsAssetClass_ManualFill_NotifyMRS_Test"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2332e7af9dbeec8d.json",
+  "parameterValues" : [ ]
+}

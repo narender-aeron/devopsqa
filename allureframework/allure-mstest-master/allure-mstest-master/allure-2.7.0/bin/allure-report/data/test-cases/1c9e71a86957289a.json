@@ -1,0 +1,45 @@
+{
+  "uid" : "1c9e71a86957289a",
+  "name" : "GetRequiredTradeUserDefinedFields_ByCheckingParticularUser_ReturnsCorrectList",
+  "fullName" : "unknown.GetRequiredTradeUserDefinedFields_ByCheckingParticularUser_ReturnsCorrectList",
+  "historyId" : "9030728117660e2530a5fdf1600527ab",
+  "time" : {
+    "start" : 1549646271229,
+    "stop" : 1549646271237,
+    "duration" : 8
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetRequiredTradeUserDefinedFields_ByCheckingParticularUser_ReturnsCorrectList"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1c9e71a86957289a.json",
+  "parameterValues" : [ ]
+}

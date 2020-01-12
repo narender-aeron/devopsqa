@@ -1,0 +1,45 @@
+{
+  "uid" : "8dbfecb36cea8c3f",
+  "name" : "DeleteSecurityUserDefinedField_ByCheckingParticularUser_RecoredDeletedCorrectly",
+  "fullName" : "unknown.DeleteSecurityUserDefinedField_ByCheckingParticularUser_RecoredDeletedCorrectly",
+  "historyId" : "f7f08c77bf0e6803859cfd2a3cb86566",
+  "time" : {
+    "start" : 1549646271279,
+    "stop" : 1549646271287,
+    "duration" : 8
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteSecurityUserDefinedField_ByCheckingParticularUser_RecoredDeletedCorrectly"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8dbfecb36cea8c3f.json",
+  "parameterValues" : [ ]
+}

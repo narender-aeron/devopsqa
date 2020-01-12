@@ -1,0 +1,45 @@
+{
+  "uid" : "5a7f933ca5c7ab2e",
+  "name" : "WhenGettingSymbolList",
+  "fullName" : "unknown.WhenGettingSymbolList",
+  "historyId" : "2c7dde6a6937ccd0a8e9203f6009c451",
+  "time" : {
+    "start" : 1549630336321,
+    "stop" : 1549630337348,
+    "duration" : 1027
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingSymbolList"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a7f933ca5c7ab2e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,51 @@
+{
+  "uid" : "e8e26667b50fb207",
+  "name" : "CreateforwardBuyTrade_SecWithValidSpotDate_ValidateTheSpotdate",
+  "fullName" : "unknown.CreateforwardBuyTrade_SecWithValidSpotDate_ValidateTheSpotdate",
+  "historyId" : "a38c6f6be24d071fa5f081d4afc4d5",
+  "time" : {
+    "start" : 1549624668536,
+    "stop" : 1549624695783,
+    "duration" : 27247
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Assert.AreEqual failed. Expected:<Success>. Actual:<Failure>. ",
+  "statusTrace" : "   at Eze.Integration.Functional.Test.EzeInterface.TradeApiTests.CreateTradeApiTests.CreateforwardBuyTrade_SecWithValidSpotDate_ValidateTheSpotdate() in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\EzeInterface\\TradeApiTests\\CreateTradeApiTests.cs:line 2149\n",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreateforwardBuyTrade_SecWithValidSpotDate_ValidateTheSpotdate"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e8e26667b50fb207.json",
+  "parameterValues" : [ ]
+}

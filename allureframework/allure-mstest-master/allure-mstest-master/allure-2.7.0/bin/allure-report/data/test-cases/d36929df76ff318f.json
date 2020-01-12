@@ -1,0 +1,45 @@
+{
+  "uid" : "d36929df76ff318f",
+  "name" : "CreatetradewithExchangeEIDOSEC1",
+  "fullName" : "unknown.CreatetradewithExchangeEIDOSEC1",
+  "historyId" : "a5da636c36d95045a3317fa4206ca1f3",
+  "time" : {
+    "start" : 1549624525100,
+    "stop" : 1549624527787,
+    "duration" : 2687
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreatetradewithExchangeEIDOSEC1"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d36929df76ff318f.json",
+  "parameterValues" : [ ]
+}

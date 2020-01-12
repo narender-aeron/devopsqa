@@ -1,0 +1,45 @@
+{
+  "uid" : "14b914cf837999ac",
+  "name" : "EzeIntradayXML_CheckCreateFileWhenNoTrades",
+  "fullName" : "unknown.EzeIntradayXML_CheckCreateFileWhenNoTrades",
+  "historyId" : "ba0db69026a042c73e22afcf3a832bdc",
+  "time" : {
+    "start" : 1549628023140,
+    "stop" : 1549628027668,
+    "duration" : 4528
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeIntradayXML_CheckCreateFileWhenNoTrades"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14b914cf837999ac.json",
+  "parameterValues" : [ ]
+}

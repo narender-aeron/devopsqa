@@ -1,0 +1,45 @@
+{
+  "uid" : "489ac1496a9cc654",
+  "name" : "MergeRules_Delete",
+  "fullName" : "unknown.MergeRules_Delete",
+  "historyId" : "df48f6d1a0228c72a04d56297efb7a9b",
+  "time" : {
+    "start" : 1549646272775,
+    "stop" : 1549646272956,
+    "duration" : 181
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "MergeRules_Delete"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "489ac1496a9cc654.json",
+  "parameterValues" : [ ]
+}

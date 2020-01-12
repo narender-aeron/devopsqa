@@ -1,0 +1,45 @@
+{
+  "uid" : "126bb4a800126030",
+  "name" : "GetSectorsTest",
+  "fullName" : "unknown.GetSectorsTest",
+  "historyId" : "1624e598e645d9100c39e7be689ce6c1",
+  "time" : {
+    "start" : 1539022356322,
+    "stop" : 1539022356468,
+    "duration" : 146
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetSectorsTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "126bb4a800126030.json",
+  "parameterValues" : [ ]
+}

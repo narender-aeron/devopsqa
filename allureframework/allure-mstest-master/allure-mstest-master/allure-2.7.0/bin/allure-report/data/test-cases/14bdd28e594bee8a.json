@@ -1,0 +1,45 @@
+{
+  "uid" : "14bdd28e594bee8a",
+  "name" : "Verify_Sending_Outbound_Action_Rule",
+  "fullName" : "unknown.Verify_Sending_Outbound_Action_Rule",
+  "historyId" : "f4203013e0e44a60b94885a4cd7327a8",
+  "time" : {
+    "start" : 1549637547379,
+    "stop" : 1549637577901,
+    "duration" : 30522
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_Sending_Outbound_Action_Rule"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14bdd28e594bee8a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "7495a07e6396deb8",
+  "name" : "PositionLevelModelForPortfolioGroupTest",
+  "fullName" : "unknown.PositionLevelModelForPortfolioGroupTest",
+  "historyId" : "65b64398c07465d2fc9c52fcbca6a8e9",
+  "time" : {
+    "start" : 1549631304049,
+    "stop" : 1549631376248,
+    "duration" : 72199
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "PositionLevelModelForPortfolioGroupTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7495a07e6396deb8.json",
+  "parameterValues" : [ ]
+}

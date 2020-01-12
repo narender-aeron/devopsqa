@@ -1,0 +1,45 @@
+{
+  "uid" : "a41320b306d3157f",
+  "name" : "InsertTradeIgnoreTriggers_TestForDestDataOrderSide",
+  "fullName" : "unknown.InsertTradeIgnoreTriggers_TestForDestDataOrderSide",
+  "historyId" : "4e9ceb495703a7c19a4ea9ab290e4b13",
+  "time" : {
+    "start" : 1549646270789,
+    "stop" : 1549646270865,
+    "duration" : 76
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "InsertTradeIgnoreTriggers_TestForDestDataOrderSide"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a41320b306d3157f.json",
+  "parameterValues" : [ ]
+}

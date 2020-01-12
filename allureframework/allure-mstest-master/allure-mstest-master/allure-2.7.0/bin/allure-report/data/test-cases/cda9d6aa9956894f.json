@@ -1,0 +1,45 @@
+{
+  "uid" : "cda9d6aa9956894f",
+  "name" : "WhenNotifyingMRS_FIlterLogPopulatedAtStartupForTrade_NoNewMessageIsLogged",
+  "fullName" : "unknown.WhenNotifyingMRS_FIlterLogPopulatedAtStartupForTrade_NoNewMessageIsLogged",
+  "historyId" : "5f4147fb92d2ecfc0a3a0161ff31991d",
+  "time" : {
+    "start" : 1549633729595,
+    "stop" : 1549633795257,
+    "duration" : 65662
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenNotifyingMRS_FIlterLogPopulatedAtStartupForTrade_NoNewMessageIsLogged"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cda9d6aa9956894f.json",
+  "parameterValues" : [ ]
+}

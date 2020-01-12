@@ -1,0 +1,51 @@
+{
+  "uid" : "46b2d82981d671f5",
+  "name" : "ValidateTradePublish_CreateTSateStagingTrade_FullRefresh",
+  "fullName" : "unknown.ValidateTradePublish_CreateTSateStagingTrade_FullRefresh",
+  "historyId" : "ff77df81cad87067ab7f7f140af14004",
+  "time" : {
+    "start" : 1549625605693,
+    "stop" : 1549625689110,
+    "duration" : 83417
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Assert.AreEqual failed. Expected:<Success>. Actual:<Failure>. ",
+  "statusTrace" : "   at Eze.Integration.Functional.Test.EzeInterface.TradePublishAPITests.TradePublishApiFullRefreshTests.ValidateTradePublish_CreateTSateStagingTrade_FullRefresh() in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\EzeInterface\\TradePublishAPITests\\TradePublishApiFullRefreshTests.cs:line 454\n",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ValidateTradePublish_CreateTSateStagingTrade_FullRefresh"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "46b2d82981d671f5.json",
+  "parameterValues" : [ ]
+}

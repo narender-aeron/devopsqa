@@ -1,0 +1,45 @@
+{
+  "uid" : "5b3cdd4bd13997d6",
+  "name" : "RetrieveTStateTrade",
+  "fullName" : "unknown.RetrieveTStateTrade",
+  "historyId" : "828eff05508936263b9f70bd3aeec45f",
+  "time" : {
+    "start" : 1549625248753,
+    "stop" : 1549625366955,
+    "duration" : 118202
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RetrieveTStateTrade"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5b3cdd4bd13997d6.json",
+  "parameterValues" : [ ]
+}

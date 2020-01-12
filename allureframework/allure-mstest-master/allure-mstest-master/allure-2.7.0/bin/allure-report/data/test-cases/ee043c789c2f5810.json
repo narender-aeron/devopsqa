@@ -1,0 +1,45 @@
+{
+  "uid" : "ee043c789c2f5810",
+  "name" : "Verify_StoringCompdealerCodes_In_TC_BestExecution_Using_OrderRouting",
+  "fullName" : "unknown.Verify_StoringCompdealerCodes_In_TC_BestExecution_Using_OrderRouting",
+  "historyId" : "27ea0cec56061da8d14472819d2d0571",
+  "time" : {
+    "start" : 1549638000940,
+    "stop" : 1549638024539,
+    "duration" : 23599
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_StoringCompdealerCodes_In_TC_BestExecution_Using_OrderRouting"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee043c789c2f5810.json",
+  "parameterValues" : [ ]
+}

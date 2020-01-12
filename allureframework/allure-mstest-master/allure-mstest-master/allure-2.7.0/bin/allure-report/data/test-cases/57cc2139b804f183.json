@@ -1,0 +1,45 @@
+{
+  "uid" : "57cc2139b804f183",
+  "name" : "UpdateSecurityUserDefinedField_ByCheckingParticularUser_RecoredUpdatedCorrectly",
+  "fullName" : "unknown.UpdateSecurityUserDefinedField_ByCheckingParticularUser_RecoredUpdatedCorrectly",
+  "historyId" : "8f5c9d46cec3d81440544de9c99ebb0f",
+  "time" : {
+    "start" : 1549646271290,
+    "stop" : 1549646271297,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateSecurityUserDefinedField_ByCheckingParticularUser_RecoredUpdatedCorrectly"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "57cc2139b804f183.json",
+  "parameterValues" : [ ]
+}

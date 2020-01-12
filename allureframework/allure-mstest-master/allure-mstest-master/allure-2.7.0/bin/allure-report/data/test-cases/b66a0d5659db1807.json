@@ -1,0 +1,45 @@
+{
+  "uid" : "b66a0d5659db1807",
+  "name" : "DeleteExchange_AllOrNothingTrue_Failure",
+  "fullName" : "unknown.DeleteExchange_AllOrNothingTrue_Failure",
+  "historyId" : "5037a8d28f7cece54306c3783d888106",
+  "time" : {
+    "start" : 1549622225083,
+    "stop" : 1549622225134,
+    "duration" : 51
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteExchange_AllOrNothingTrue_Failure"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b66a0d5659db1807.json",
+  "parameterValues" : [ ]
+}

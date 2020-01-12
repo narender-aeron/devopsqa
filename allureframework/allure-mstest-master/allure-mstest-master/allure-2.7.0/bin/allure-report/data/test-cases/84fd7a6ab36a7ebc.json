@@ -1,0 +1,45 @@
+{
+  "uid" : "84fd7a6ab36a7ebc",
+  "name" : "UpdateSecurityTest_Success",
+  "fullName" : "unknown.UpdateSecurityTest_Success",
+  "historyId" : "6f4f97d89df4882bacc47166b8995f2c",
+  "time" : {
+    "start" : 1549624296634,
+    "stop" : 1549624298771,
+    "duration" : 2137
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateSecurityTest_Success"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "84fd7a6ab36a7ebc.json",
+  "parameterValues" : [ ]
+}

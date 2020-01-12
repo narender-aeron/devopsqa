@@ -1,0 +1,45 @@
+{
+  "uid" : "d7d3c5773fef5f0c",
+  "name" : "TradeImporter_SendToStaging_MergeTrades",
+  "fullName" : "unknown.TradeImporter_SendToStaging_MergeTrades",
+  "historyId" : "b3db6cc79c209b19ba88773904ff9ac0",
+  "time" : {
+    "start" : 1549646934236,
+    "stop" : 1549646935632,
+    "duration" : 1396
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TradeImporter_SendToStaging_MergeTrades"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7d3c5773fef5f0c.json",
+  "parameterValues" : [ ]
+}

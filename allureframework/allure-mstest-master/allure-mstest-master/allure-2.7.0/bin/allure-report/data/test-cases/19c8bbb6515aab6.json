@@ -1,0 +1,45 @@
+{
+  "uid" : "19c8bbb6515aab6",
+  "name" : "WhenRunningTradeForNeed_ClosedCashBalancesFalse_ColumnValuesAreCorrect",
+  "fullName" : "unknown.WhenRunningTradeForNeed_ClosedCashBalancesFalse_ColumnValuesAreCorrect",
+  "historyId" : "d028bcbe7cdab752503fb8d32abb794c",
+  "time" : {
+    "start" : 1549621474288,
+    "stop" : 1549621474482,
+    "duration" : 194
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenRunningTradeForNeed_ClosedCashBalancesFalse_ColumnValuesAreCorrect"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19c8bbb6515aab6.json",
+  "parameterValues" : [ ]
+}

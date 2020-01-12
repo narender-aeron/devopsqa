@@ -1,0 +1,45 @@
+{
+  "uid" : "beddabff56a0c908",
+  "name" : "CreateTrade_TradeFinalize_Error_SingleTrade_IsAllOrNothing_True_MState_UnSupportedState",
+  "fullName" : "unknown.CreateTrade_TradeFinalize_Error_SingleTrade_IsAllOrNothing_True_MState_UnSupportedState",
+  "historyId" : "792c721ed66e2e4d91297824eeb9eba2",
+  "time" : {
+    "start" : 1549624740167,
+    "stop" : 1549624742179,
+    "duration" : 2012
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreateTrade_TradeFinalize_Error_SingleTrade_IsAllOrNothing_True_MState_UnSupportedState"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "beddabff56a0c908.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "f3f5f3620c946c69",
+  "name" : "TestTradeRule_ManualEditTrade_MoveFromStagingToTrading",
+  "fullName" : "unknown.TestTradeRule_ManualEditTrade_MoveFromStagingToTrading",
+  "historyId" : "dad7d02ac718f18026c8069f66c80c89",
+  "time" : {
+    "start" : 1549646888796,
+    "stop" : 1549646894111,
+    "duration" : 5315
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestTradeRule_ManualEditTrade_MoveFromStagingToTrading"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f3f5f3620c946c69.json",
+  "parameterValues" : [ ]
+}

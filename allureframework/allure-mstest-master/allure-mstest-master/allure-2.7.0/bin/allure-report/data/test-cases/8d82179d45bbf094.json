@@ -1,0 +1,45 @@
+{
+  "uid" : "8d82179d45bbf094",
+  "name" : "Verify_TradeGen_AppendRollup_RollUpTradeAmount",
+  "fullName" : "unknown.Verify_TradeGen_AppendRollup_RollUpTradeAmount",
+  "historyId" : "78a3edd58a90f701aeaf5a9d923d4db0",
+  "time" : {
+    "start" : 1549641704772,
+    "stop" : 1549641717067,
+    "duration" : 12295
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_TradeGen_AppendRollup_RollUpTradeAmount"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8d82179d45bbf094.json",
+  "parameterValues" : [ ]
+}

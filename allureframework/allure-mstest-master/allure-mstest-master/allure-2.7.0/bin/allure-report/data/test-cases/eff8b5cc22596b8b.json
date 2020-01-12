@@ -1,0 +1,45 @@
+{
+  "uid" : "eff8b5cc22596b8b",
+  "name" : "Verify_Execution_Cancellation_HardMatchRollUp",
+  "fullName" : "unknown.Verify_Execution_Cancellation_HardMatchRollUp",
+  "historyId" : "868af0694a6ba120546dadc4b16aaf58",
+  "time" : {
+    "start" : 1549642013582,
+    "stop" : 1549642032170,
+    "duration" : 18588
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_Execution_Cancellation_HardMatchRollUp"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eff8b5cc22596b8b.json",
+  "parameterValues" : [ ]
+}

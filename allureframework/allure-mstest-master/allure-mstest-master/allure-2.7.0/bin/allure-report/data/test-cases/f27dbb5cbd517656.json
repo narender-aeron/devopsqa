@@ -1,0 +1,45 @@
+{
+  "uid" : "f27dbb5cbd517656",
+  "name" : "WhenRunningFXForwardCombo_ClosedCashBalancesTrue_Tolerance0_RoundingHundredths_ColumnValuesAreCorrect",
+  "fullName" : "unknown.WhenRunningFXForwardCombo_ClosedCashBalancesTrue_Tolerance0_RoundingHundredths_ColumnValuesAreCorrect",
+  "historyId" : "7c0cfa5f1f029448287014d65708becf",
+  "time" : {
+    "start" : 1549621120965,
+    "stop" : 1549621447141,
+    "duration" : 326176
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenRunningFXForwardCombo_ClosedCashBalancesTrue_Tolerance0_RoundingHundredths_ColumnValuesAreCorrect"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f27dbb5cbd517656.json",
+  "parameterValues" : [ ]
+}

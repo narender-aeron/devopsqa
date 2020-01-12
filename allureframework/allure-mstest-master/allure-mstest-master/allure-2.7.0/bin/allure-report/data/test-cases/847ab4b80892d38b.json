@@ -1,0 +1,45 @@
+{
+  "uid" : "847ab4b80892d38b",
+  "name" : "InsertTradeUDF_AcceptsUserDefinedField_ForTimestampType",
+  "fullName" : "unknown.InsertTradeUDF_AcceptsUserDefinedField_ForTimestampType",
+  "historyId" : "5ab51f8d9f1aef9ed62bc46b33903a05",
+  "time" : {
+    "start" : 1549646271378,
+    "stop" : 1549646271384,
+    "duration" : 6
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "InsertTradeUDF_AcceptsUserDefinedField_ForTimestampType"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "847ab4b80892d38b.json",
+  "parameterValues" : [ ]
+}

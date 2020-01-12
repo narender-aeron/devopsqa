@@ -1,0 +1,45 @@
+{
+  "uid" : "bfcdd64c68a82cb9",
+  "name" : "EzeIntradayXML_CheckForAmendInBulbedTrades",
+  "fullName" : "unknown.EzeIntradayXML_CheckForAmendInBulbedTrades",
+  "historyId" : "357fed3c57b98bf1201f0092429b0ce5",
+  "time" : {
+    "start" : 1549628603932,
+    "stop" : 1549628623647,
+    "duration" : 19715
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeIntradayXML_CheckForAmendInBulbedTrades"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bfcdd64c68a82cb9.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "50e7faca465a8662",
+  "name" : "EzeIntradayXML_NewIntradayFileWhenLotLevelCCsTrue",
+  "fullName" : "unknown.EzeIntradayXML_NewIntradayFileWhenLotLevelCCsTrue",
+  "historyId" : "979a0331aa6ba3db4f396217842fc4cd",
+  "time" : {
+    "start" : 1549627908376,
+    "stop" : 1549627942304,
+    "duration" : 33928
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeIntradayXML_NewIntradayFileWhenLotLevelCCsTrue"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "50e7faca465a8662.json",
+  "parameterValues" : [ ]
+}

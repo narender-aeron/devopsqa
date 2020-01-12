@@ -1,0 +1,45 @@
+{
+  "uid" : "5c09ddb66df71855",
+  "name" : "WhenTestingParentOrderEntryWithCustodianDoesNotExistExpectsClerkReject",
+  "fullName" : "unknown.WhenTestingParentOrderEntryWithCustodianDoesNotExistExpectsClerkReject",
+  "historyId" : "3ea82d485fa3f3413399afa13c54a04c",
+  "time" : {
+    "start" : 1549643853783,
+    "stop" : 1549643855892,
+    "duration" : 2109
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenTestingParentOrderEntryWithCustodianDoesNotExistExpectsClerkReject"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c09ddb66df71855.json",
+  "parameterValues" : [ ]
+}

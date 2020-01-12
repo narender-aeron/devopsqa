@@ -1,0 +1,45 @@
+{
+  "uid" : "faa220db74177760",
+  "name" : "GetLocateIDByCustodian_ByCheckingParticularCustodian_ReturnsCurrentID",
+  "fullName" : "unknown.GetLocateIDByCustodian_ByCheckingParticularCustodian_ReturnsCurrentID",
+  "historyId" : "1a1013d3ba4ffae9f9db45ca37798e7d",
+  "time" : {
+    "start" : 1549646265932,
+    "stop" : 1549646265963,
+    "duration" : 31
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetLocateIDByCustodian_ByCheckingParticularCustodian_ReturnsCurrentID"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "faa220db74177760.json",
+  "parameterValues" : [ ]
+}

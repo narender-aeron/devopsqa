@@ -1,0 +1,45 @@
+{
+  "uid" : "26095c5579c15dc9",
+  "name" : "DeleteTStateTrade",
+  "fullName" : "unknown.DeleteTStateTrade",
+  "historyId" : "10845aee1cf80be3668740637a9becaf",
+  "time" : {
+    "start" : 1539024132553,
+    "stop" : 1539024138802,
+    "duration" : 6249
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteTStateTrade"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "26095c5579c15dc9.json",
+  "parameterValues" : [ ]
+}

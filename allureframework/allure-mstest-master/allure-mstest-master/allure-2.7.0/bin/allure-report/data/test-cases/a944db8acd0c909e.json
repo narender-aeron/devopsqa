@@ -1,0 +1,45 @@
+{
+  "uid" : "a944db8acd0c909e",
+  "name" : "Test_UpdateSingleExecution_NullRequest",
+  "fullName" : "unknown.Test_UpdateSingleExecution_NullRequest",
+  "historyId" : "e24f6bbef854b878af1500f8d6d5ee85",
+  "time" : {
+    "start" : 1549622851119,
+    "stop" : 1549622851141,
+    "duration" : 22
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_UpdateSingleExecution_NullRequest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a944db8acd0c909e.json",
+  "parameterValues" : [ ]
+}

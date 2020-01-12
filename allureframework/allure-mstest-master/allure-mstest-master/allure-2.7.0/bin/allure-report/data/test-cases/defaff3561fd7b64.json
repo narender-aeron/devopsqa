@@ -1,0 +1,45 @@
+{
+  "uid" : "defaff3561fd7b64",
+  "name" : "Test_RetrievePositionLots",
+  "fullName" : "unknown.Test_RetrievePositionLots",
+  "historyId" : "27cb25ff9af14e41e3fbee6616bc541d",
+  "time" : {
+    "start" : 1549623405508,
+    "stop" : 1549623405574,
+    "duration" : 66
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_RetrievePositionLots"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "defaff3561fd7b64.json",
+  "parameterValues" : [ ]
+}

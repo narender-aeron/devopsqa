@@ -1,0 +1,45 @@
+{
+  "uid" : "65278c8a4c3fcda7",
+  "name" : "RetrieveBroker_IsAllTrue",
+  "fullName" : "unknown.RetrieveBroker_IsAllTrue",
+  "historyId" : "2527fe1f428d7757a99fee161ef3827e",
+  "time" : {
+    "start" : 1549622217115,
+    "stop" : 1549622217171,
+    "duration" : 56
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RetrieveBroker_IsAllTrue"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65278c8a4c3fcda7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "50ff8d84972581fa",
+  "name" : "RunBringToPercent",
+  "fullName" : "unknown.RunBringToPercent",
+  "historyId" : "f8be16d7933764c7faf6cbb05b268ec",
+  "time" : {
+    "start" : 1549631255973,
+    "stop" : 1549631256589,
+    "duration" : 616
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RunBringToPercent"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "50ff8d84972581fa.json",
+  "parameterValues" : [ ]
+}

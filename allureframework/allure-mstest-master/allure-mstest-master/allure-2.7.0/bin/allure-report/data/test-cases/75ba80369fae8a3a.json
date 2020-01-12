@@ -1,0 +1,45 @@
+{
+  "uid" : "75ba80369fae8a3a",
+  "name" : "Verify_Exec_Broker_Column_Mapping_WithPartyRepeatingGroup_Case1",
+  "fullName" : "unknown.Verify_Exec_Broker_Column_Mapping_WithPartyRepeatingGroup_Case1",
+  "historyId" : "d022ab31936841061c9807e2d5151263",
+  "time" : {
+    "start" : 1549637669044,
+    "stop" : 1549637681161,
+    "duration" : 12117
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_Exec_Broker_Column_Mapping_WithPartyRepeatingGroup_Case1"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "75ba80369fae8a3a.json",
+  "parameterValues" : [ ]
+}

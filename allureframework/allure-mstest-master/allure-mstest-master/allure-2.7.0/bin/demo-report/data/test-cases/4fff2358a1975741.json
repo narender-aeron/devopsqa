@@ -1,0 +1,45 @@
+{
+  "uid" : "4fff2358a1975741",
+  "name" : "DynamicPositionsLoadingWithNewTradeTest",
+  "fullName" : "unknown.DynamicPositionsLoadingWithNewTradeTest",
+  "historyId" : "25e4fccea4fc989606d01220d5e6d76b",
+  "time" : {
+    "start" : 1539021104412,
+    "stop" : 1539021116415,
+    "duration" : 12003
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "DynamicPositionsLoadingWithNewTradeTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4fff2358a1975741.json",
+  "parameterValues" : [ ]
+}

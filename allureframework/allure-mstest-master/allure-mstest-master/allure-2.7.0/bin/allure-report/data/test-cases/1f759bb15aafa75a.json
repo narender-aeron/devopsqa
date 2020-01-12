@@ -1,0 +1,45 @@
+{
+  "uid" : "1f759bb15aafa75a",
+  "name" : "Test_RetreieveExecutionBasedOnExecutionId",
+  "fullName" : "unknown.Test_RetreieveExecutionBasedOnExecutionId",
+  "historyId" : "93b5a40ab6d7142581e0ef755b2c764f",
+  "time" : {
+    "start" : 1549623334097,
+    "stop" : 1549623345162,
+    "duration" : 11065
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_RetreieveExecutionBasedOnExecutionId"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f759bb15aafa75a.json",
+  "parameterValues" : [ ]
+}

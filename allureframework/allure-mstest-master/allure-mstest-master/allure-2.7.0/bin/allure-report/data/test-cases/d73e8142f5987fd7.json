@@ -1,0 +1,45 @@
+{
+  "uid" : "d73e8142f5987fd7",
+  "name" : "Verify_IDMCode_FIX44",
+  "fullName" : "unknown.Verify_IDMCode_FIX44",
+  "historyId" : "3bd07847d3026e89e9cef86c6f6afa41",
+  "time" : {
+    "start" : 1549637338651,
+    "stop" : 1549637349239,
+    "duration" : 10588
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_IDMCode_FIX44"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d73e8142f5987fd7.json",
+  "parameterValues" : [ ]
+}

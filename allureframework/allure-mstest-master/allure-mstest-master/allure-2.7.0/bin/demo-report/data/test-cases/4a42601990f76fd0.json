@@ -1,0 +1,45 @@
+{
+  "uid" : "4a42601990f76fd0",
+  "name" : "WhenEditingChildPairsOrdersPermOnAndEMSComplianceOnlyTrue_IsSuccessful_ExpectClerkAccept",
+  "fullName" : "unknown.WhenEditingChildPairsOrdersPermOnAndEMSComplianceOnlyTrue_IsSuccessful_ExpectClerkAccept",
+  "historyId" : "b0995af9454740a5d25116f21545dcbf",
+  "time" : {
+    "start" : 1539021238098,
+    "stop" : 1539021242123,
+    "duration" : 4025
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenEditingChildPairsOrdersPermOnAndEMSComplianceOnlyTrue_IsSuccessful_ExpectClerkAccept"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a42601990f76fd0.json",
+  "parameterValues" : [ ]
+}

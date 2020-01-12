@@ -1,0 +1,45 @@
+{
+  "uid" : "f8d167aed05d2df0",
+  "name" : "Verify_ExecBrok_PartyID_Rows_with_Leading_or_Trailing_spaces_in_Con_Mode",
+  "fullName" : "unknown.Verify_ExecBrok_PartyID_Rows_with_Leading_or_Trailing_spaces_in_Con_Mode",
+  "historyId" : "23bf421a813e6c49856c4881ba491373",
+  "time" : {
+    "start" : 1549637610707,
+    "stop" : 1549637624848,
+    "duration" : 14141
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_ExecBrok_PartyID_Rows_with_Leading_or_Trailing_spaces_in_Con_Mode"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8d167aed05d2df0.json",
+  "parameterValues" : [ ]
+}

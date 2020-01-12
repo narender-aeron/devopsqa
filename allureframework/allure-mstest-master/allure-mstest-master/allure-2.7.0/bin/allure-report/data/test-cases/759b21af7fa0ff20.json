@@ -1,0 +1,45 @@
+{
+  "uid" : "759b21af7fa0ff20",
+  "name" : "WhenRollingBackFromAState_TradeEntersTState",
+  "fullName" : "unknown.WhenRollingBackFromAState_TradeEntersTState",
+  "historyId" : "16707832fcf34db99a30d00824732c33",
+  "time" : {
+    "start" : 1549645787409,
+    "stop" : 1549645796048,
+    "duration" : 8639
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenRollingBackFromAState_TradeEntersTState"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "759b21af7fa0ff20.json",
+  "parameterValues" : [ ]
+}

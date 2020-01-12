@@ -1,0 +1,45 @@
+{
+  "uid" : "43edcbb0704bbf5",
+  "name" : "ChangeTradeTraderTest",
+  "fullName" : "unknown.ChangeTradeTraderTest",
+  "historyId" : "a957a7e64c236d7ad5034259d68de7c",
+  "time" : {
+    "start" : 1549646269244,
+    "stop" : 1549646269296,
+    "duration" : 52
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ChangeTradeTraderTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43edcbb0704bbf5.json",
+  "parameterValues" : [ ]
+}

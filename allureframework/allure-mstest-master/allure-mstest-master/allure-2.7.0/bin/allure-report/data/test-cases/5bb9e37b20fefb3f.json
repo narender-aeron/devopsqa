@@ -1,0 +1,45 @@
+{
+  "uid" : "5bb9e37b20fefb3f",
+  "name" : "BasisPointBrokerCommissionTest",
+  "fullName" : "unknown.BasisPointBrokerCommissionTest",
+  "historyId" : "3c99bdb12a66b8369c1e46cf73c6ebb7",
+  "time" : {
+    "start" : 1549645199993,
+    "stop" : 1549645210983,
+    "duration" : 10990
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "BasisPointBrokerCommissionTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5bb9e37b20fefb3f.json",
+  "parameterValues" : [ ]
+}

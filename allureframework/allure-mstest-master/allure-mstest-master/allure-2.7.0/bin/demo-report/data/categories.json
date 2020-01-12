@@ -1,0 +1,89 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Assert.IsTrue failed. Query did not return expected number of rows: Expected = '1', Actual = '0', Query = 'SELECT t_tradeid FROM tc_trade WHERE t_statusbreak = 'A' AND t_originalTrdID='201810080001''.",
+      "children" : [ {
+        "name" : "F5FullyFilledRebillTradesTest",
+        "uid" : "99fee57bb842e1c1",
+        "parentUid" : "66c96c5c9a4f955ce1ca7158247fa43d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1539022357880,
+          "stop" : 1539022738194,
+          "duration" : 380314
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "66c96c5c9a4f955ce1ca7158247fa43d"
+    }, {
+      "name" : "Assert.IsTrue failed. Query did not return expected number of rows: Expected = '1', Actual = '0', Query = 'SELECT t_tradeid FROM tc_trade WHERE  t_statusbreak = 'A' AND t_originalTrdID='201810080002''.",
+      "children" : [ {
+        "name" : "RebillF5TradeWithSetting_DiscardTargetAllocation",
+        "uid" : "f1c25b91a1c0aaab",
+        "parentUid" : "bdb5f765817fa6828fa0de911ad8724f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1539022738197,
+          "stop" : 1539022817067,
+          "duration" : 78870
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bdb5f765817fa6828fa0de911ad8724f"
+    }, {
+      "name" : "Assert.AreEqual failed. Expected:<Failed>. Actual:<Succeeded>. ProcessBrokerAction not succeed, ResponseCode = Failed --ErrorMessage: The trade(s) sent to trade rules engine are out of date: \n\nBuy 500.0000000000 VZ, TradeID: 2018100800B9\n",
+      "children" : [ {
+        "name" : "BomAddBrokerUDF",
+        "uid" : "752c9bfebbfd7dce",
+        "parentUid" : "4c723be4de00fcd8c3d85a044b2a3d63",
+        "status" : "failed",
+        "time" : {
+          "start" : 1539023456269,
+          "stop" : 1539023497450,
+          "duration" : 41181
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4c723be4de00fcd8c3d85a044b2a3d63"
+    }, {
+      "name" : "Assert.AreEqual failed. Expected:<Failed>. Actual:<Succeeded>. ProcessBrokerAction not succeed, ResponseCode = Failed --ErrorMessage: The trade(s) sent to trade rules engine are out of date: \n\nBuy 5000.0000000000 HI, TradeID: 2018100800J2\n",
+      "children" : [ {
+        "name" : "Verify_Replace",
+        "uid" : "4d6764fe53457a6d",
+        "parentUid" : "37a0f395f026f4eb0d5d0745a6d420f9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1539024886985,
+          "stop" : 1539024888315,
+          "duration" : 1330
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "37a0f395f026f4eb0d5d0745a6d420f9"
+    }, {
+      "name" : "Assert.IsTrue failed. Error: expecting the latest CustomFIXTag in  table to be 1=UDFORG not 38=2000|207=NASDAQ GS|44=0|59=0|1=MSFT|20013=KDPLGJJMKVGFAUJWGVMR|20012=T1",
+      "children" : [ {
+        "name" : "Verify_NewF9Trade_WithBrokerUDF",
+        "uid" : "10f7c2bd219c8d7d",
+        "parentUid" : "0130c33abec462fa4565f79df537c0e8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1539025295920,
+          "stop" : 1539025316783,
+          "duration" : 20863
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0130c33abec462fa4565f79df537c0e8"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

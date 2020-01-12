@@ -1,0 +1,45 @@
+{
+  "uid" : "f8edf26fe6a176cd",
+  "name" : "DeleteLocateRows",
+  "fullName" : "unknown.DeleteLocateRows",
+  "historyId" : "406b7d6a1e2e4cb52b669e2b3c855d91",
+  "time" : {
+    "start" : 1549635668709,
+    "stop" : 1549635672870,
+    "duration" : 4161
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteLocateRows"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8edf26fe6a176cd.json",
+  "parameterValues" : [ ]
+}

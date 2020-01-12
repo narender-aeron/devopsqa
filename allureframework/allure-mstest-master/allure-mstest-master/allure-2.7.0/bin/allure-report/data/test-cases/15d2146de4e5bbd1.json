@@ -1,0 +1,45 @@
+{
+  "uid" : "15d2146de4e5bbd1",
+  "name" : "RunBringToModel",
+  "fullName" : "unknown.RunBringToModel",
+  "historyId" : "78bce3e4d60450bad7da0f5db3e06b89",
+  "time" : {
+    "start" : 1549631257791,
+    "stop" : 1549631258874,
+    "duration" : 1083
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RunBringToModel"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "15d2146de4e5bbd1.json",
+  "parameterValues" : [ ]
+}

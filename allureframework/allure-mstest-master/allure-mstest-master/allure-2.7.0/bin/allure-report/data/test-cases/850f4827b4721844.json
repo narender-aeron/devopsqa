@@ -1,0 +1,45 @@
+{
+  "uid" : "850f4827b4721844",
+  "name" : "RetrieveTrader_Failure",
+  "fullName" : "unknown.RetrieveTrader_Failure",
+  "historyId" : "cdee4db0152f4a957681f1b3eeb1a9b",
+  "time" : {
+    "start" : 1549622240727,
+    "stop" : 1549622240746,
+    "duration" : 19
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RetrieveTrader_Failure"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "850f4827b4721844.json",
+  "parameterValues" : [ ]
+}

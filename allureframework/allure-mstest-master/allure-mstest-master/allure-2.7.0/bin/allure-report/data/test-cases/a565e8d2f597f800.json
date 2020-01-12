@@ -1,0 +1,51 @@
+{
+  "uid" : "a565e8d2f597f800",
+  "name" : "EzeIntradayXML_CompareDelphiDotNetXML_TradeWithTwoBrokersThreeFills_IDay",
+  "fullName" : "unknown.EzeIntradayXML_CompareDelphiDotNetXML_TradeWithTwoBrokersThreeFills_IDay",
+  "historyId" : "1f564197f5be4be7e6acfc0e221eedd8",
+  "time" : {
+    "start" : 1549628799125,
+    "stop" : 1549628823700,
+    "duration" : 24575
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Assert.Fail failed. Assert.Fail failed. Assert.AreEqual failed. Expected:<SUCCESS>. Actual:<FAILURE>. Exception detected in intraday process. Error: Exception detected while creating file using IntradayXML.exe: TwIntradayXML.exe : Unable to Read the Login File. Login File is corrupt. Please log in to Tradewinds and run Intraday Process.TwIntradayXML.exe : Error occure while creating SQL Connection. TwIntradayXML.exe : Login File not found. Please log in to Tradewinds and run Intraday Process.",
+  "statusTrace" : "   at Eze.Integration.Functional.Test.Tradewinds.IntradayTests.EzeIntradayXML_CompareDelphiDotNetXML_TradeWithTwoBrokersThreeFills_IDay() in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\Tradewinds\\Intraday\\IntradayTests.cs:line 1464\n",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeIntradayXML_CompareDelphiDotNetXML_TradeWithTwoBrokersThreeFills_IDay"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "a565e8d2f597f800.json",
+  "parameterValues" : [ ]
+}

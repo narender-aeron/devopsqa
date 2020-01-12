@@ -1,0 +1,45 @@
+{
+  "uid" : "e83b817dfbeea58",
+  "name" : "DeleteCustodian_IsAllorNothingTrue_Success",
+  "fullName" : "unknown.DeleteCustodian_IsAllorNothingTrue_Success",
+  "historyId" : "89f86a370ec94cb9bc2caddf10e535e8",
+  "time" : {
+    "start" : 1549622224359,
+    "stop" : 1549622224422,
+    "duration" : 63
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteCustodian_IsAllorNothingTrue_Success"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e83b817dfbeea58.json",
+  "parameterValues" : [ ]
+}

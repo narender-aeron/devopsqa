@@ -1,0 +1,45 @@
+{
+  "uid" : "66836e905100bd38",
+  "name" : "ReviewTrades",
+  "fullName" : "unknown.ReviewTrades",
+  "historyId" : "b34ce7a62587230a5845a827677274ac",
+  "time" : {
+    "start" : 1549631195708,
+    "stop" : 1549631214722,
+    "duration" : 19014
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ReviewTrades"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "66836e905100bd38.json",
+  "parameterValues" : [ ]
+}

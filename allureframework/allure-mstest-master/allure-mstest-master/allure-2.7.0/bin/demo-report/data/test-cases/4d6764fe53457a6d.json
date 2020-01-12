@@ -1,0 +1,51 @@
+{
+  "uid" : "4d6764fe53457a6d",
+  "name" : "Verify_Replace",
+  "fullName" : "unknown.Verify_Replace",
+  "historyId" : "fc54983ef05192c24c6a99e52a7c1849",
+  "time" : {
+    "start" : 1539024886985,
+    "stop" : 1539024888315,
+    "duration" : 1330
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Assert.AreEqual failed. Expected:<Failed>. Actual:<Succeeded>. ProcessBrokerAction not succeed, ResponseCode = Failed --ErrorMessage: The trade(s) sent to trade rules engine are out of date: \n\nBuy 5000.0000000000 HI, TradeID: 2018100800J2\n",
+  "statusTrace" : "   at Eze.Integration.Functional.Test.Common.Trading.AsyncTradingServiceProxyWrapper.ProcessBrokerAction(BrokerActionRequest request, Int32 timeOutinMs) in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\Common\\Trading\\AsyncTradingServiceProxyWrapper.cs:line 259\n   at Eze.Integration.Functional.Test.Common.Trading.DestinationHelper.ChangeWorkingAmount(DestinationData brokerData) in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\Common\\Trading\\DestinationHelper.cs:line 126\n   at Eze.Integration.Functional.Test.ExecutionManagement.GeneralProductCheckList.<Verify_Replace>d__181.MoveNext() in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\Trading\\ExecutionManagement\\Tests\\GeneralProductCheckList.cs:line 1618\n--- End of stack trace from previous location where exception was thrown ---\n   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\n   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()\n",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_Replace"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "4d6764fe53457a6d.json",
+  "parameterValues" : [ ]
+}

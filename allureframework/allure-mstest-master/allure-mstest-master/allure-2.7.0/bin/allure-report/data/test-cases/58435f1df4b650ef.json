@@ -1,0 +1,45 @@
+{
+  "uid" : "58435f1df4b650ef",
+  "name" : "UpdateCustodian_AllOrNothingTrue_ValidInvalid",
+  "fullName" : "unknown.UpdateCustodian_AllOrNothingTrue_ValidInvalid",
+  "historyId" : "47e52900774284c34ea58cb3658b5eeb",
+  "time" : {
+    "start" : 1549622224770,
+    "stop" : 1549622224797,
+    "duration" : 27
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateCustodian_AllOrNothingTrue_ValidInvalid"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "58435f1df4b650ef.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,6 @@
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\CommonUtils\bin\Debug\CommonUtils.dll
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\CommonUtils\bin\Debug\CommonUtils.pdb
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\CommonUtils\obj\Debug\CommonUtils.dll
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\CommonUtils\obj\Debug\CommonUtils.pdb
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\CommonUtils\obj\Debug\CommonUtils.csprojAssemblyReference.cache
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\CommonUtils\obj\Debug\CommonUtils.csproj.CoreCompileInputs.cache

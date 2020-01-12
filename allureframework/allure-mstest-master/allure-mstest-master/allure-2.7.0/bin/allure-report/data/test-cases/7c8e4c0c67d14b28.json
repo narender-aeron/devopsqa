@@ -1,0 +1,45 @@
+{
+  "uid" : "7c8e4c0c67d14b28",
+  "name" : "CheckInventoryUpdatesForNonLocateEnabledSecTypes",
+  "fullName" : "unknown.CheckInventoryUpdatesForNonLocateEnabledSecTypes",
+  "historyId" : "ff78c55df3ee7686169185b7bc2bf559",
+  "time" : {
+    "start" : 1549636386791,
+    "stop" : 1549636491064,
+    "duration" : 104273
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CheckInventoryUpdatesForNonLocateEnabledSecTypes"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c8e4c0c67d14b28.json",
+  "parameterValues" : [ ]
+}

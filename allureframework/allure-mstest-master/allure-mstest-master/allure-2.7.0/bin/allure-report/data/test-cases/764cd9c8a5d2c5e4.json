@@ -1,0 +1,45 @@
+{
+  "uid" : "764cd9c8a5d2c5e4",
+  "name" : "Verify_Exec_Broker_Column_Mapping_WithDefaultSetting_WithoutExecBroker_OverFIX42",
+  "fullName" : "unknown.Verify_Exec_Broker_Column_Mapping_WithDefaultSetting_WithoutExecBroker_OverFIX42",
+  "historyId" : "d81df0d3fb1f06aa0b8a3740bac4fc9a",
+  "time" : {
+    "start" : 1549637705405,
+    "stop" : 1549637707485,
+    "duration" : 2080
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_Exec_Broker_Column_Mapping_WithDefaultSetting_WithoutExecBroker_OverFIX42"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "764cd9c8a5d2c5e4.json",
+  "parameterValues" : [ ]
+}

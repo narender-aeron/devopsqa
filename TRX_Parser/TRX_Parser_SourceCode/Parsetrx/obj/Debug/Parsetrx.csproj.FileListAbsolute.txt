@@ -1,0 +1,15 @@
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\Parsetrx\bin\Debug\TrxResultsParser.exe.config
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\Parsetrx\bin\Debug\parameters.xml
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\Parsetrx\bin\Debug\TrxResultsParser.exe
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\Parsetrx\bin\Debug\TrxResultsParser.pdb
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\Parsetrx\bin\Debug\CommonUtils.dll
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\Parsetrx\bin\Debug\ConsoleTableExt.dll
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\Parsetrx\bin\Debug\System.Net.Http.Formatting.dll
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\Parsetrx\bin\Debug\CommonUtils.pdb
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\Parsetrx\bin\Debug\System.Net.Http.Formatting.xml
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\Parsetrx\obj\Debug\TrxResultsParser.exe
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\Parsetrx\obj\Debug\TrxResultsParser.pdb
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\Parsetrx\obj\Debug\Parsetrx.csprojAssemblyReference.cache
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\Parsetrx\obj\Debug\Parsetrx.csproj.CoreCompileInputs.cache
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\Parsetrx\obj\Debug\Parsetrx.csproj.CopyComplete
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\Parsetrx\bin\Debug\Newtonsoft.Json.dll

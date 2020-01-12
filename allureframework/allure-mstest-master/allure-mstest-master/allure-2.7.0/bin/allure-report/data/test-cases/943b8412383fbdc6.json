@@ -1,0 +1,45 @@
+{
+  "uid" : "943b8412383fbdc6",
+  "name" : "Verify_BrokerIncomingOverrideOnDropCopyForAROLL",
+  "fullName" : "unknown.Verify_BrokerIncomingOverrideOnDropCopyForAROLL",
+  "historyId" : "9efee51b68a58643d12f680cf40981d1",
+  "time" : {
+    "start" : 1549639026731,
+    "stop" : 1549639133406,
+    "duration" : 106675
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_BrokerIncomingOverrideOnDropCopyForAROLL"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "943b8412383fbdc6.json",
+  "parameterValues" : [ ]
+}

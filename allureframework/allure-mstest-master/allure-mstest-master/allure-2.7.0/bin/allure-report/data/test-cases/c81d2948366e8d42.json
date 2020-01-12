@@ -1,0 +1,45 @@
+{
+  "uid" : "c81d2948366e8d42",
+  "name" : "GetTradesTest_ReturnWithField",
+  "fullName" : "unknown.GetTradesTest_ReturnWithField",
+  "historyId" : "e79cd8f876a66a97101f68342a48d3",
+  "time" : {
+    "start" : 1549646267462,
+    "stop" : 1549646267498,
+    "duration" : 36
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetTradesTest_ReturnWithField"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c81d2948366e8d42.json",
+  "parameterValues" : [ ]
+}

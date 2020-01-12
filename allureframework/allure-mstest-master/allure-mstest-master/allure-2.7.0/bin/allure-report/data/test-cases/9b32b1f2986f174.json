@@ -1,0 +1,45 @@
+{
+  "uid" : "9b32b1f2986f174",
+  "name" : "WhenGettingPositionProperties",
+  "fullName" : "unknown.WhenGettingPositionProperties",
+  "historyId" : "f673857d0be42fb7b886558c8682111a",
+  "time" : {
+    "start" : 1549630329037,
+    "stop" : 1549630330045,
+    "duration" : 1008
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingPositionProperties"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b32b1f2986f174.json",
+  "parameterValues" : [ ]
+}

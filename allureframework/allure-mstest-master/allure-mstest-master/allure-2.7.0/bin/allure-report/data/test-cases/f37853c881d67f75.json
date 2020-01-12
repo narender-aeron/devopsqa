@@ -1,0 +1,45 @@
+{
+  "uid" : "f37853c881d67f75",
+  "name" : "TestGetAllocationTargetLot_SellTrade_PercentTo_BasisPosition_ForCurrentShares_WithExistingTrades_ValidateResponse",
+  "fullName" : "unknown.TestGetAllocationTargetLot_SellTrade_PercentTo_BasisPosition_ForCurrentShares_WithExistingTrades_ValidateResponse",
+  "historyId" : "53c6652b42d5661fac048db311d7caed",
+  "time" : {
+    "start" : 1549645156969,
+    "stop" : 1549645164048,
+    "duration" : 7079
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestGetAllocationTargetLot_SellTrade_PercentTo_BasisPosition_ForCurrentShares_WithExistingTrades_ValidateResponse"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f37853c881d67f75.json",
+  "parameterValues" : [ ]
+}

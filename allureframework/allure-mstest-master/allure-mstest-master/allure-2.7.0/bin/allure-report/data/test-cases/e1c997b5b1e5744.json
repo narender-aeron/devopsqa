@@ -1,0 +1,45 @@
+{
+  "uid" : "e1c997b5b1e5744",
+  "name" : "BatchSelectTradeCalcAccruedInterest",
+  "fullName" : "unknown.BatchSelectTradeCalcAccruedInterest",
+  "historyId" : "969de1c66295412ef46c570d1a7a2b4f",
+  "time" : {
+    "start" : 1549645267083,
+    "stop" : 1549645274487,
+    "duration" : 7404
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "BatchSelectTradeCalcAccruedInterest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e1c997b5b1e5744.json",
+  "parameterValues" : [ ]
+}

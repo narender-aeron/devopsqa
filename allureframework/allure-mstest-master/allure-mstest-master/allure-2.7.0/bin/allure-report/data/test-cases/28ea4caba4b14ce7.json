@@ -1,0 +1,45 @@
+{
+  "uid" : "28ea4caba4b14ce7",
+  "name" : "F5FullyFilledRebillTradesTest",
+  "fullName" : "unknown.F5FullyFilledRebillTradesTest",
+  "historyId" : "3140922687340d80e7df7f2ee549610b",
+  "time" : {
+    "start" : 1549629259644,
+    "stop" : 1549629574304,
+    "duration" : 314660
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "F5FullyFilledRebillTradesTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28ea4caba4b14ce7.json",
+  "parameterValues" : [ ]
+}

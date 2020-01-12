@@ -1,0 +1,45 @@
+{
+  "uid" : "6dd61a8bda310ecf",
+  "name" : "Test_IgnoreRebilledTradesInPositionCheck_True",
+  "fullName" : "unknown.Test_IgnoreRebilledTradesInPositionCheck_True",
+  "historyId" : "66edfde7f8e514b4f2e0037aa15ebd44",
+  "time" : {
+    "start" : 1549629735851,
+    "stop" : 1549629833174,
+    "duration" : 97323
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_IgnoreRebilledTradesInPositionCheck_True"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6dd61a8bda310ecf.json",
+  "parameterValues" : [ ]
+}

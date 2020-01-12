@@ -1,0 +1,45 @@
+{
+  "uid" : "6c21aa796f7d7e3d",
+  "name" : "UpdateTradeApiStatusTest",
+  "fullName" : "unknown.UpdateTradeApiStatusTest",
+  "historyId" : "83ff6d8299305915380f32c164064f43",
+  "time" : {
+    "start" : 1549646270372,
+    "stop" : 1549646270411,
+    "duration" : 39
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateTradeApiStatusTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c21aa796f7d7e3d.json",
+  "parameterValues" : [ ]
+}

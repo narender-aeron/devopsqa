@@ -1,0 +1,45 @@
+{
+  "uid" : "34bd914bf9fdff48",
+  "name" : "VerifyRenameSecurity",
+  "fullName" : "unknown.VerifyRenameSecurity",
+  "historyId" : "d158dd31e5375f4b8002c515682dc8c7",
+  "time" : {
+    "start" : 1549626824764,
+    "stop" : 1549626825049,
+    "duration" : 285
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "VerifyRenameSecurity"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "34bd914bf9fdff48.json",
+  "parameterValues" : [ ]
+}

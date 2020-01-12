@@ -1,0 +1,45 @@
+{
+  "uid" : "792755c39303272c",
+  "name" : "WhenMovingMmtTradesFromTradingToStaging_ComplianceViolationIsTriggered_SecondCallFromTradingToStagingSucceeds",
+  "fullName" : "unknown.WhenMovingMmtTradesFromTradingToStaging_ComplianceViolationIsTriggered_SecondCallFromTradingToStagingSucceeds",
+  "historyId" : "d123fbb4094be1f6ae2a11deba2acf91",
+  "time" : {
+    "start" : 1549647125832,
+    "stop" : 1549647136797,
+    "duration" : 10965
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenMovingMmtTradesFromTradingToStaging_ComplianceViolationIsTriggered_SecondCallFromTradingToStagingSucceeds"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "792755c39303272c.json",
+  "parameterValues" : [ ]
+}

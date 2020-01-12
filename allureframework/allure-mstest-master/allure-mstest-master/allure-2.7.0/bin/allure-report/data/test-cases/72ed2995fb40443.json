@@ -1,0 +1,45 @@
+{
+  "uid" : "72ed2995fb40443",
+  "name" : "SFTPPUT_RemoteFileName",
+  "fullName" : "unknown.SFTPPUT_RemoteFileName",
+  "historyId" : "ccea3b935ef309333cc1850b9157fca",
+  "time" : {
+    "start" : 1549629016979,
+    "stop" : 1549629022464,
+    "duration" : 5485
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SFTPPUT_RemoteFileName"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72ed2995fb40443.json",
+  "parameterValues" : [ ]
+}

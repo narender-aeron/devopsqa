@@ -1,0 +1,45 @@
+{
+  "uid" : "bcaaf709dc4c40d3",
+  "name" : "WhenLoadingAdjustHedge_LTTrue_DetailsPaneKeyedByCompositeSymbol",
+  "fullName" : "unknown.WhenLoadingAdjustHedge_LTTrue_DetailsPaneKeyedByCompositeSymbol",
+  "historyId" : "74c5463d107e36a188f473f4f9926097",
+  "time" : {
+    "start" : 1549621473290,
+    "stop" : 1549621473630,
+    "duration" : 340
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenLoadingAdjustHedge_LTTrue_DetailsPaneKeyedByCompositeSymbol"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bcaaf709dc4c40d3.json",
+  "parameterValues" : [ ]
+}

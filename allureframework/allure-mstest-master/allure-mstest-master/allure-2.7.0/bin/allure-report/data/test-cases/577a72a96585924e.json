@@ -1,0 +1,45 @@
+{
+  "uid" : "577a72a96585924e",
+  "name" : "FinalizeTradeWithMultipleBrokers",
+  "fullName" : "unknown.FinalizeTradeWithMultipleBrokers",
+  "historyId" : "ea9bdf6b661e124d366bbc85eaf8ae89",
+  "time" : {
+    "start" : 1549645825469,
+    "stop" : 1549645877145,
+    "duration" : 51676
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "FinalizeTradeWithMultipleBrokers"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "577a72a96585924e.json",
+  "parameterValues" : [ ]
+}

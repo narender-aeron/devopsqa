@@ -1,0 +1,45 @@
+{
+  "uid" : "21868f63fef022ad",
+  "name" : "PreUpgradeAnalyticsTemplates",
+  "fullName" : "unknown.PreUpgradeAnalyticsTemplates",
+  "historyId" : "aca86c30d3561fcf7e26b8fb4d621c30",
+  "time" : {
+    "start" : 1549626674969,
+    "stop" : 1549626674980,
+    "duration" : 11
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "PreUpgradeAnalyticsTemplates"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21868f63fef022ad.json",
+  "parameterValues" : [ ]
+}

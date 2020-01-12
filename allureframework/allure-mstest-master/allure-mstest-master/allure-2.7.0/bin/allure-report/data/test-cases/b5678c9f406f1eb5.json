@@ -1,0 +1,45 @@
+{
+  "uid" : "b5678c9f406f1eb5",
+  "name" : "UpdateClearingBrokerAllocationLot_ByCheckingFinalizedAlloc",
+  "fullName" : "unknown.UpdateClearingBrokerAllocationLot_ByCheckingFinalizedAlloc",
+  "historyId" : "b591a975a625f09d9ae4a6900aac789f",
+  "time" : {
+    "start" : 1549646265170,
+    "stop" : 1549646265195,
+    "duration" : 25
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateClearingBrokerAllocationLot_ByCheckingFinalizedAlloc"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5678c9f406f1eb5.json",
+  "parameterValues" : [ ]
+}

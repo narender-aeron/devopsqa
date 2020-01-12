@@ -1,0 +1,45 @@
+{
+  "uid" : "2117f483b1a9af4e",
+  "name" : "WhenRunningAScenario_DatafeedHasNoPriceForUnderlying_RiskServiceGetsUnderlyingPriceFromAnalyticsInAnalytics",
+  "fullName" : "unknown.WhenRunningAScenario_DatafeedHasNoPriceForUnderlying_RiskServiceGetsUnderlyingPriceFromAnalyticsInAnalytics",
+  "historyId" : "3545509e4d52c0ee297130251846eb1",
+  "time" : {
+    "start" : 1549647996104,
+    "stop" : 1549647998832,
+    "duration" : 2728
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenRunningAScenario_DatafeedHasNoPriceForUnderlying_RiskServiceGetsUnderlyingPriceFromAnalyticsInAnalytics"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2117f483b1a9af4e.json",
+  "parameterValues" : [ ]
+}

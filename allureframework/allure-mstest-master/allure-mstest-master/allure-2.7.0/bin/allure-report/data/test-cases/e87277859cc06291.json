@@ -1,0 +1,45 @@
+{
+  "uid" : "e87277859cc06291",
+  "name" : "WhenDoingDataValidationUSOptionNoOptionTypeErrorReported",
+  "fullName" : "unknown.WhenDoingDataValidationUSOptionNoOptionTypeErrorReported",
+  "historyId" : "55275c788b9d5daf65f550e412fa29ac",
+  "time" : {
+    "start" : 1549647960290,
+    "stop" : 1549647961746,
+    "duration" : 1456
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenDoingDataValidationUSOptionNoOptionTypeErrorReported"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e87277859cc06291.json",
+  "parameterValues" : [ ]
+}

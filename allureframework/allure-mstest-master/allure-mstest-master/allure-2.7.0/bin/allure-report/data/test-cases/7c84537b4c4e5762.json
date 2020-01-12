@@ -1,0 +1,45 @@
+{
+  "uid" : "7c84537b4c4e5762",
+  "name" : "RetrieveTrader_Success",
+  "fullName" : "unknown.RetrieveTrader_Success",
+  "historyId" : "b2b2c0e37bee6450f0f5b777fe5ed251",
+  "time" : {
+    "start" : 1549622240668,
+    "stop" : 1549622240724,
+    "duration" : 56
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RetrieveTrader_Success"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c84537b4c4e5762.json",
+  "parameterValues" : [ ]
+}

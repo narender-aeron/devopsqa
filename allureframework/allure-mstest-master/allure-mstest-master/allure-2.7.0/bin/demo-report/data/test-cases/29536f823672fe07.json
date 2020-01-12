@@ -1,0 +1,45 @@
+{
+  "uid" : "29536f823672fe07",
+  "name" : "InsertAllocatedTradeData_InsertTradeWithSymbolWithExchange",
+  "fullName" : "unknown.InsertAllocatedTradeData_InsertTradeWithSymbolWithExchange",
+  "historyId" : "3853be835bde647741eb56db64536ad9",
+  "time" : {
+    "start" : 1539021646945,
+    "stop" : 1539021648088,
+    "duration" : 1143
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "InsertAllocatedTradeData_InsertTradeWithSymbolWithExchange"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29536f823672fe07.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "9d560e7fc4cae6c",
+  "name" : "FinCalcAccruedInterest",
+  "fullName" : "unknown.FinCalcAccruedInterest",
+  "historyId" : "3d00b377b1010d1f017abe3c25003cde",
+  "time" : {
+    "start" : 1549645524534,
+    "stop" : 1549645526253,
+    "duration" : 1719
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "FinCalcAccruedInterest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d560e7fc4cae6c.json",
+  "parameterValues" : [ ]
+}

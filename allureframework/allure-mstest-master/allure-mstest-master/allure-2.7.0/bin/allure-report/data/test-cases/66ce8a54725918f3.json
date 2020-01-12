@@ -1,0 +1,45 @@
+{
+  "uid" : "66ce8a54725918f3",
+  "name" : "CreateSecurityTest_Invalid_Data_Failure",
+  "fullName" : "unknown.CreateSecurityTest_Invalid_Data_Failure",
+  "historyId" : "e863e3d90888f00c650cc4f7bf1af971",
+  "time" : {
+    "start" : 1549624301897,
+    "stop" : 1549624302650,
+    "duration" : 753
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreateSecurityTest_Invalid_Data_Failure"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "66ce8a54725918f3.json",
+  "parameterValues" : [ ]
+}

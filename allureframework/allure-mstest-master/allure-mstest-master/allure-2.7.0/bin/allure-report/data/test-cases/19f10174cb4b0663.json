@@ -1,0 +1,45 @@
+{
+  "uid" : "19f10174cb4b0663",
+  "name" : "WhenCallingNotify_EnsureOrderIsMaintained",
+  "fullName" : "unknown.WhenCallingNotify_EnsureOrderIsMaintained",
+  "historyId" : "165fbd2802d52d0f7eeed905d3292f60",
+  "time" : {
+    "start" : 1549632612044,
+    "stop" : 1549632613349,
+    "duration" : 1305
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCallingNotify_EnsureOrderIsMaintained"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19f10174cb4b0663.json",
+  "parameterValues" : [ ]
+}

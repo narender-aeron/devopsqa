@@ -1,0 +1,45 @@
+{
+  "uid" : "703c7ba2a38e0c06",
+  "name" : "WhenGettingCustomColumnDependencyList",
+  "fullName" : "unknown.WhenGettingCustomColumnDependencyList",
+  "historyId" : "4d3d41fdca520b6b4268ef4617fb449e",
+  "time" : {
+    "start" : 1549630274031,
+    "stop" : 1549630275071,
+    "duration" : 1040
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingCustomColumnDependencyList"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "703c7ba2a38e0c06.json",
+  "parameterValues" : [ ]
+}

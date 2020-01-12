@@ -1,0 +1,45 @@
+{
+  "uid" : "2b3be0f2f35a42e1",
+  "name" : "GetPortfolioUserDefinedFields_ForSixthPosOfCode_WithDValue",
+  "fullName" : "unknown.GetPortfolioUserDefinedFields_ForSixthPosOfCode_WithDValue",
+  "historyId" : "5f5c757fb0ef079f62856d7e4a8695ee",
+  "time" : {
+    "start" : 1549646271333,
+    "stop" : 1549646271339,
+    "duration" : 6
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetPortfolioUserDefinedFields_ForSixthPosOfCode_WithDValue"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b3be0f2f35a42e1.json",
+  "parameterValues" : [ ]
+}

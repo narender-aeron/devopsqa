@@ -1,0 +1,45 @@
+{
+  "uid" : "1814992e6b6777e0",
+  "name" : "FTPPUT_TransferToPriAndSecSite",
+  "fullName" : "unknown.FTPPUT_TransferToPriAndSecSite",
+  "historyId" : "6655349b6f4ac419bbb10e5b29aa3171",
+  "time" : {
+    "start" : 1549627735225,
+    "stop" : 1549627738566,
+    "duration" : 3341
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "FTPPUT_TransferToPriAndSecSite"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1814992e6b6777e0.json",
+  "parameterValues" : [ ]
+}

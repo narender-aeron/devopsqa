@@ -1,0 +1,45 @@
+{
+  "uid" : "9b8a04833c941f8a",
+  "name" : "UpdateCurrency__success",
+  "fullName" : "unknown.UpdateCurrency__success",
+  "historyId" : "90ed1aed1c775cc921320ce1ae05d5a",
+  "time" : {
+    "start" : 1549622223354,
+    "stop" : 1549622223696,
+    "duration" : 342
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateCurrency__success"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b8a04833c941f8a.json",
+  "parameterValues" : [ ]
+}

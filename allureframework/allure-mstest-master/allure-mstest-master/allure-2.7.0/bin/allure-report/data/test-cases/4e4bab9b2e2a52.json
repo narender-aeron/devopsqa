@@ -1,0 +1,45 @@
+{
+  "uid" : "4e4bab9b2e2a52",
+  "name" : "GetPortfolioUserDefinedFields_ForAddingToTheList",
+  "fullName" : "unknown.GetPortfolioUserDefinedFields_ForAddingToTheList",
+  "historyId" : "e78151dcf37ea77c8c95843c1c80f03a",
+  "time" : {
+    "start" : 1549646271325,
+    "stop" : 1549646271333,
+    "duration" : 8
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetPortfolioUserDefinedFields_ForAddingToTheList"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e4bab9b2e2a52.json",
+  "parameterValues" : [ ]
+}

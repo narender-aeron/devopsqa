@@ -1,0 +1,45 @@
+{
+  "uid" : "b3d56f82c9c3d500",
+  "name" : "Verify_ExchangeFieldOnBlotter_With_Tradegen_Appned",
+  "fullName" : "unknown.Verify_ExchangeFieldOnBlotter_With_Tradegen_Appned",
+  "historyId" : "fa58d8ce5d6a424b6e015482c42b7316",
+  "time" : {
+    "start" : 1549642032172,
+    "stop" : 1549642046307,
+    "duration" : 14135
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_ExchangeFieldOnBlotter_With_Tradegen_Appned"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b3d56f82c9c3d500.json",
+  "parameterValues" : [ ]
+}

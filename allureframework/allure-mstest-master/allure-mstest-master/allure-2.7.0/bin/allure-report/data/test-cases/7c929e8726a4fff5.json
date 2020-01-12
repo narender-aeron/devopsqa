@@ -1,0 +1,45 @@
+{
+  "uid" : "7c929e8726a4fff5",
+  "name" : "CheckTradeExistsTest",
+  "fullName" : "unknown.CheckTradeExistsTest",
+  "historyId" : "7f92246f0773947c968b095bca654a73",
+  "time" : {
+    "start" : 1549646267498,
+    "stop" : 1549646267526,
+    "duration" : 28
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CheckTradeExistsTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c929e8726a4fff5.json",
+  "parameterValues" : [ ]
+}

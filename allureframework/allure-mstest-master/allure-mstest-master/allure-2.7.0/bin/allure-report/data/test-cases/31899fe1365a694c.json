@@ -1,0 +1,45 @@
+{
+  "uid" : "31899fe1365a694c",
+  "name" : "TradeMerge_BatchSelect_MMT_Trades_RunCompliance_ViolationReported",
+  "fullName" : "unknown.TradeMerge_BatchSelect_MMT_Trades_RunCompliance_ViolationReported",
+  "historyId" : "b82c784849494c7c586d5cbcbc6e0310",
+  "time" : {
+    "start" : 1549646598075,
+    "stop" : 1549646603517,
+    "duration" : 5442
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TradeMerge_BatchSelect_MMT_Trades_RunCompliance_ViolationReported"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "31899fe1365a694c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "21aec8a7b9fc96f2",
+  "name" : "RenameSecurity_RenameSecurityInMifidTable",
+  "fullName" : "unknown.RenameSecurity_RenameSecurityInMifidTable",
+  "historyId" : "909f65f7e07cc77f5a87703cb52c645b",
+  "time" : {
+    "start" : 1539021652373,
+    "stop" : 1539021652843,
+    "duration" : 470
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RenameSecurity_RenameSecurityInMifidTable"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21aec8a7b9fc96f2.json",
+  "parameterValues" : [ ]
+}

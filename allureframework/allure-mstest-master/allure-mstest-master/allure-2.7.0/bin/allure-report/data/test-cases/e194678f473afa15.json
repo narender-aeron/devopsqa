@@ -1,0 +1,45 @@
+{
+  "uid" : "e194678f473afa15",
+  "name" : "WhenMovingTargetedTradesFromStagingToTrading_InvalidTradesSelected_DefaultCustodianRuns_Sending100Percent",
+  "fullName" : "unknown.WhenMovingTargetedTradesFromStagingToTrading_InvalidTradesSelected_DefaultCustodianRuns_Sending100Percent",
+  "historyId" : "b46e8eb0149e5c4c574e00942060f2",
+  "time" : {
+    "start" : 1549647015844,
+    "stop" : 1549647030270,
+    "duration" : 14426
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenMovingTargetedTradesFromStagingToTrading_InvalidTradesSelected_DefaultCustodianRuns_Sending100Percent"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e194678f473afa15.json",
+  "parameterValues" : [ ]
+}

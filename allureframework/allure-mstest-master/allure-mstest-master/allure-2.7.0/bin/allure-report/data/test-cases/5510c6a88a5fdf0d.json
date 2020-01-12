@@ -1,0 +1,45 @@
+{
+  "uid" : "5510c6a88a5fdf0d",
+  "name" : "Verify_Execution_Cancellation_Append_TradeExistsOnBlotterAndCommitedToBroker",
+  "fullName" : "unknown.Verify_Execution_Cancellation_Append_TradeExistsOnBlotterAndCommitedToBroker",
+  "historyId" : "c1e5be5ab1c9294ffaad0f9594fb9082",
+  "time" : {
+    "start" : 1549641872868,
+    "stop" : 1549641890874,
+    "duration" : 18006
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_Execution_Cancellation_Append_TradeExistsOnBlotterAndCommitedToBroker"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5510c6a88a5fdf0d.json",
+  "parameterValues" : [ ]
+}

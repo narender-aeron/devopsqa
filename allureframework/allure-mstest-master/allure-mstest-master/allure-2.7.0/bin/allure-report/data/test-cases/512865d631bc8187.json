@@ -1,0 +1,45 @@
+{
+  "uid" : "512865d631bc8187",
+  "name" : "UpdateAllocation",
+  "fullName" : "unknown.UpdateAllocation",
+  "historyId" : "77cc0e3b4801035b0f89b1bad281fb3e",
+  "time" : {
+    "start" : 1549646264972,
+    "stop" : 1549646265123,
+    "duration" : 151
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateAllocation"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "512865d631bc8187.json",
+  "parameterValues" : [ ]
+}

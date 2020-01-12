@@ -1,0 +1,45 @@
+{
+  "uid" : "37a570f0b7c6374b",
+  "name" : "AmountIncrease_IncreaseAveragePrice",
+  "fullName" : "unknown.AmountIncrease_IncreaseAveragePrice",
+  "historyId" : "3e17956d4d535946966e78951a7bd97e",
+  "time" : {
+    "start" : 1549645500923,
+    "stop" : 1549645513408,
+    "duration" : 12485
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "AmountIncrease_IncreaseAveragePrice"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "37a570f0b7c6374b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "df278b95f67c8a5",
+  "name" : "WhenSendingTradesForRollForward_Tolerance5000_RoundingHundredths_SendTradesCorrectly",
+  "fullName" : "unknown.WhenSendingTradesForRollForward_Tolerance5000_RoundingHundredths_SendTradesCorrectly",
+  "historyId" : "e036124bddd585b3d8d7ccc8af255792",
+  "time" : {
+    "start" : 1549621459795,
+    "stop" : 1549621462133,
+    "duration" : 2338
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenSendingTradesForRollForward_Tolerance5000_RoundingHundredths_SendTradesCorrectly"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df278b95f67c8a5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "8f26ccb6ecfc7176",
+  "name" : "ChecksIfSymbolIsLocateEnabled_BasedOnSetting_UpdateLocateInventoryForSecTypes",
+  "fullName" : "unknown.ChecksIfSymbolIsLocateEnabled_BasedOnSetting_UpdateLocateInventoryForSecTypes",
+  "historyId" : "a1321ce698b525ef893d05178e176ffa",
+  "time" : {
+    "start" : 1549636115865,
+    "stop" : 1549636198484,
+    "duration" : 82619
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ChecksIfSymbolIsLocateEnabled_BasedOnSetting_UpdateLocateInventoryForSecTypes"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8f26ccb6ecfc7176.json",
+  "parameterValues" : [ ]
+}

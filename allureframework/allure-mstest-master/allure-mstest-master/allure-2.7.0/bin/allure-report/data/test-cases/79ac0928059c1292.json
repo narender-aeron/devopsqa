@@ -1,0 +1,45 @@
+{
+  "uid" : "79ac0928059c1292",
+  "name" : "WhenNotifying_CancellingAFillThatWasNotFiltered_SendsCancellation",
+  "fullName" : "unknown.WhenNotifying_CancellingAFillThatWasNotFiltered_SendsCancellation",
+  "historyId" : "fc8026ea3f5237c6b386c84cb0c5d4d7",
+  "time" : {
+    "start" : 1549632935992,
+    "stop" : 1549632938497,
+    "duration" : 2505
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenNotifying_CancellingAFillThatWasNotFiltered_SendsCancellation"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "79ac0928059c1292.json",
+  "parameterValues" : [ ]
+}

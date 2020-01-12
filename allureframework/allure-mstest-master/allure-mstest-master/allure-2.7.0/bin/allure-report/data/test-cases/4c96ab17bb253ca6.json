@@ -1,0 +1,45 @@
+{
+  "uid" : "4c96ab17bb253ca6",
+  "name" : "GetStockLoanLocateIdByTradeId_ByCheckingParticularTradeID_ReturnsCorrectRecord",
+  "fullName" : "unknown.GetStockLoanLocateIdByTradeId_ByCheckingParticularTradeID_ReturnsCorrectRecord",
+  "historyId" : "fd6b0ad131a3fbce405cb305208bdb3",
+  "time" : {
+    "start" : 1549646266032,
+    "stop" : 1549646266075,
+    "duration" : 43
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetStockLoanLocateIdByTradeId_ByCheckingParticularTradeID_ReturnsCorrectRecord"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4c96ab17bb253ca6.json",
+  "parameterValues" : [ ]
+}

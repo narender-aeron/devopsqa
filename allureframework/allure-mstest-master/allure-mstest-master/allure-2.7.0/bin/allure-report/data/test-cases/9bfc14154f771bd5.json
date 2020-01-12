@@ -1,0 +1,45 @@
+{
+  "uid" : "9bfc14154f771bd5",
+  "name" : "UpdateAllocation_ByProvidingNullUser_ThrowsException",
+  "fullName" : "unknown.UpdateAllocation_ByProvidingNullUser_ThrowsException",
+  "historyId" : "ea06e2f2c0e2aeea00eb4bd039691b8d",
+  "time" : {
+    "start" : 1549646265123,
+    "stop" : 1549646265124,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateAllocation_ByProvidingNullUser_ThrowsException"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9bfc14154f771bd5.json",
+  "parameterValues" : [ ]
+}

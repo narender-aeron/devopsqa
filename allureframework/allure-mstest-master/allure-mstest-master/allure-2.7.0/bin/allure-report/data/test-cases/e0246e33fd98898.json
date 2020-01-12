@@ -1,0 +1,45 @@
+{
+  "uid" : "e0246e33fd98898",
+  "name" : "MergeRules_AddRule_FailureScenarios",
+  "fullName" : "unknown.MergeRules_AddRule_FailureScenarios",
+  "historyId" : "f7d2e23200163de97803ac520209007d",
+  "time" : {
+    "start" : 1549646272057,
+    "stop" : 1549646272282,
+    "duration" : 225
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "MergeRules_AddRule_FailureScenarios"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0246e33fd98898.json",
+  "parameterValues" : [ ]
+}

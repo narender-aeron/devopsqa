@@ -1,0 +1,45 @@
+{
+  "uid" : "b5af809598213337",
+  "name" : "PreUpgradeOMSTemplates",
+  "fullName" : "unknown.PreUpgradeOMSTemplates",
+  "historyId" : "8ecd1a2a9525a8bccf7ea167f81fd06e",
+  "time" : {
+    "start" : 1549626566785,
+    "stop" : 1549626674968,
+    "duration" : 108183
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "PreUpgradeOMSTemplates"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5af809598213337.json",
+  "parameterValues" : [ ]
+}

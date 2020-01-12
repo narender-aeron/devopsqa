@@ -1,0 +1,51 @@
+{
+  "uid" : "80586b54f64f0bba",
+  "name" : "ValidateTradePublish_PersistSubscription_FullRefresh",
+  "fullName" : "unknown.ValidateTradePublish_PersistSubscription_FullRefresh",
+  "historyId" : "b05510d032ac688211f1688e761fd436",
+  "time" : {
+    "start" : 1549625689111,
+    "stop" : 1549625690652,
+    "duration" : 1541
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Test method Eze.Integration.Functional.Test.EzeInterface.TradePublishAPITests.TradePublishApiFullRefreshTests.ValidateTradePublish_PersistSubscription_FullRefresh threw exception: \nSystem.NullReferenceException: Object reference not set to an instance of an object.",
+  "statusTrace" : "    at Eze.Integration.Functional.Test.EzeInterface.TradePublishAPITests.TradePublishApiFullRefreshTests.ValidateTradePublish_PersistSubscription_FullRefresh() in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\EzeInterface\\TradePublishAPITests\\TradePublishApiFullRefreshTests.cs:line 564\n",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ValidateTradePublish_PersistSubscription_FullRefresh"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "80586b54f64f0bba.json",
+  "parameterValues" : [ ]
+}

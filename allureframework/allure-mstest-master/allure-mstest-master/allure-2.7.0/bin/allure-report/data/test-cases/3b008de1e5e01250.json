@@ -1,0 +1,45 @@
+{
+  "uid" : "3b008de1e5e01250",
+  "name" : "WhenNotifying_TransactTimeIsCorrect",
+  "fullName" : "unknown.WhenNotifying_TransactTimeIsCorrect",
+  "historyId" : "1f5199204931920038f482526936ceb",
+  "time" : {
+    "start" : 1549632921463,
+    "stop" : 1549632922499,
+    "duration" : 1036
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenNotifying_TransactTimeIsCorrect"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b008de1e5e01250.json",
+  "parameterValues" : [ ]
+}

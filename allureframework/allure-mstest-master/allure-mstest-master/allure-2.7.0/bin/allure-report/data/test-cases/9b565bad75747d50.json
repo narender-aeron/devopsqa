@@ -1,0 +1,45 @@
+{
+  "uid" : "9b565bad75747d50",
+  "name" : "Test_UpdateSingleExecution_UpdateDoNotSubmitToAPAasTrue_ShouldNotBeAllowed",
+  "fullName" : "unknown.Test_UpdateSingleExecution_UpdateDoNotSubmitToAPAasTrue_ShouldNotBeAllowed",
+  "historyId" : "efb5ad2cb6dd1db975e3f8065fd37372",
+  "time" : {
+    "start" : 1549622884247,
+    "stop" : 1549622895570,
+    "duration" : 11323
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_UpdateSingleExecution_UpdateDoNotSubmitToAPAasTrue_ShouldNotBeAllowed"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b565bad75747d50.json",
+  "parameterValues" : [ ]
+}

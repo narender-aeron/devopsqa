@@ -1,0 +1,45 @@
+{
+  "uid" : "3b1e4123e87d7bc6",
+  "name" : "Verify_Ability_To_Add_Tags_To_HTFIX_Via_MMC",
+  "fullName" : "unknown.Verify_Ability_To_Add_Tags_To_HTFIX_Via_MMC",
+  "historyId" : "c62c555db1b0e44931b166acc0be656b",
+  "time" : {
+    "start" : 1539023977177,
+    "stop" : 1539023988835,
+    "duration" : 11658
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_Ability_To_Add_Tags_To_HTFIX_Via_MMC"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b1e4123e87d7bc6.json",
+  "parameterValues" : [ ]
+}

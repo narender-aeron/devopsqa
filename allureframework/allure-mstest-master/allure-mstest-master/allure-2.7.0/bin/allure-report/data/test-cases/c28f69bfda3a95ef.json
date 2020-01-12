@@ -1,0 +1,45 @@
+{
+  "uid" : "c28f69bfda3a95ef",
+  "name" : "Verify_OutBound_Broker_Override",
+  "fullName" : "unknown.Verify_OutBound_Broker_Override",
+  "historyId" : "dc422322daffdf36826bf98cdbd6458b",
+  "time" : {
+    "start" : 1549637169210,
+    "stop" : 1549637189783,
+    "duration" : 20573
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_OutBound_Broker_Override"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c28f69bfda3a95ef.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "621af8c37ba94a1c",
+  "name" : "Verify_TransactTime_Microsecond_Precision",
+  "fullName" : "unknown.Verify_TransactTime_Microsecond_Precision",
+  "historyId" : "fc6e8507d369ee1eb1eec3cf9a76a188",
+  "time" : {
+    "start" : 1549638271895,
+    "stop" : 1549638274196,
+    "duration" : 2301
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_TransactTime_Microsecond_Precision"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "621af8c37ba94a1c.json",
+  "parameterValues" : [ ]
+}

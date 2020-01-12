@@ -1,0 +1,45 @@
+{
+  "uid" : "f1148a28dc6d8d11",
+  "name" : "TestGetAllocationTargetLotForBuyTrade_ModelLevelerBuy_BasisPosition_CurrentPositions_WithExistingTrades_ReturnSuccessResponse",
+  "fullName" : "unknown.TestGetAllocationTargetLotForBuyTrade_ModelLevelerBuy_BasisPosition_CurrentPositions_WithExistingTrades_ReturnSuccessResponse",
+  "historyId" : "322f51da863b1008e0305b8d185d9d02",
+  "time" : {
+    "start" : 1549645132245,
+    "stop" : 1549645138260,
+    "duration" : 6015
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestGetAllocationTargetLotForBuyTrade_ModelLevelerBuy_BasisPosition_CurrentPositions_WithExistingTrades_ReturnSuccessResponse"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f1148a28dc6d8d11.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "c4cbfc47b3ab79f1",
+  "name" : "InsertSecUDF_AcceptsUserDefinedField_ForTimestampType",
+  "fullName" : "unknown.InsertSecUDF_AcceptsUserDefinedField_ForTimestampType",
+  "historyId" : "247bb17be09417309d3cfd440e3938d7",
+  "time" : {
+    "start" : 1549646271419,
+    "stop" : 1549646271426,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "InsertSecUDF_AcceptsUserDefinedField_ForTimestampType"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c4cbfc47b3ab79f1.json",
+  "parameterValues" : [ ]
+}

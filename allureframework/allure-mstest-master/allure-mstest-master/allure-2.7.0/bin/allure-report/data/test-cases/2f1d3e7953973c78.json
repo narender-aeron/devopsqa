@@ -1,0 +1,45 @@
+{
+  "uid" : "2f1d3e7953973c78",
+  "name" : "WhenGettingGrpPrtRelations",
+  "fullName" : "unknown.WhenGettingGrpPrtRelations",
+  "historyId" : "e3b92e5789b8030b340c446ef9d37dcf",
+  "time" : {
+    "start" : 1549630347030,
+    "stop" : 1549630348053,
+    "duration" : 1023
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingGrpPrtRelations"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f1d3e7953973c78.json",
+  "parameterValues" : [ ]
+}

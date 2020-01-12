@@ -1,0 +1,45 @@
+{
+  "uid" : "7c028c39ce4cfbf3",
+  "name" : "CreateCurrency__IsAllNothingTrue_Failure",
+  "fullName" : "unknown.CreateCurrency__IsAllNothingTrue_Failure",
+  "historyId" : "80a2f4a5e10802fa84034770707e7e0f",
+  "time" : {
+    "start" : 1549622222710,
+    "stop" : 1549622222725,
+    "duration" : 15
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreateCurrency__IsAllNothingTrue_Failure"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c028c39ce4cfbf3.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "dfaf9d1a79aca067",
+  "name" : "WhenNotifying_LastCapacityIsCorrect",
+  "fullName" : "unknown.WhenNotifying_LastCapacityIsCorrect",
+  "historyId" : "ee8b6c0837fc90ca9f5a5dc024485db6",
+  "time" : {
+    "start" : 1549632924578,
+    "stop" : 1549632925613,
+    "duration" : 1035
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenNotifying_LastCapacityIsCorrect"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dfaf9d1a79aca067.json",
+  "parameterValues" : [ ]
+}

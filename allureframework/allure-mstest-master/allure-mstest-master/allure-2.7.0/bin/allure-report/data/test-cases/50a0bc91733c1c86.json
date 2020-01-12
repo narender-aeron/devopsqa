@@ -1,0 +1,45 @@
+{
+  "uid" : "50a0bc91733c1c86",
+  "name" : "WhenGettingCurrencyData",
+  "fullName" : "unknown.WhenGettingCurrencyData",
+  "historyId" : "7152756c2fa4d923b794d451a7580911",
+  "time" : {
+    "start" : 1549630337353,
+    "stop" : 1549630338374,
+    "duration" : 1021
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingCurrencyData"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "50a0bc91733c1c86.json",
+  "parameterValues" : [ ]
+}

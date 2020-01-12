@@ -1,0 +1,45 @@
+{
+  "uid" : "25138b161ac24cad",
+  "name" : "WhenRunningPostTradeCompliance_ForAllPositions_ViolationsReturned",
+  "fullName" : "unknown.WhenRunningPostTradeCompliance_ForAllPositions_ViolationsReturned",
+  "historyId" : "37ccf83325685c4c85f49e0616bdf15d",
+  "time" : {
+    "start" : 1549644829080,
+    "stop" : 1549644833608,
+    "duration" : 4528
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenRunningPostTradeCompliance_ForAllPositions_ViolationsReturned"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25138b161ac24cad.json",
+  "parameterValues" : [ ]
+}

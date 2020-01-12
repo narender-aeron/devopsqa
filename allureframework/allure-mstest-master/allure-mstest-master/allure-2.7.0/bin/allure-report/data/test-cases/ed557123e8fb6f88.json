@@ -1,0 +1,45 @@
+{
+  "uid" : "ed557123e8fb6f88",
+  "name" : "UpdateTradeUserDefinedField_ByCheckingParticularUser_RecoredUpdatedCorrectly",
+  "fullName" : "unknown.UpdateTradeUserDefinedField_ByCheckingParticularUser_RecoredUpdatedCorrectly",
+  "historyId" : "3ffe8e76e79ba3887b144751f5145638",
+  "time" : {
+    "start" : 1549646271252,
+    "stop" : 1549646271260,
+    "duration" : 8
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateTradeUserDefinedField_ByCheckingParticularUser_RecoredUpdatedCorrectly"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ed557123e8fb6f88.json",
+  "parameterValues" : [ ]
+}

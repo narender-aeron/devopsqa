@@ -1,0 +1,45 @@
+{
+  "uid" : "146690c03822db71",
+  "name" : "VerifyCreateUpdateSecurity",
+  "fullName" : "unknown.VerifyCreateUpdateSecurity",
+  "historyId" : "2965328ec5293d25d80007dd0a32f0a0",
+  "time" : {
+    "start" : 1549626817412,
+    "stop" : 1549626821645,
+    "duration" : 4233
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "VerifyCreateUpdateSecurity"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "146690c03822db71.json",
+  "parameterValues" : [ ]
+}

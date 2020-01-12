@@ -1,0 +1,45 @@
+{
+  "uid" : "547048cf33077f9f",
+  "name" : "TestGetAllocationTargetLotForBuyTrade_WithValidRequest_ReturnSuccessResponse",
+  "fullName" : "unknown.TestGetAllocationTargetLotForBuyTrade_WithValidRequest_ReturnSuccessResponse",
+  "historyId" : "1fba888e8cf6522c1438601bb7c8a9c1",
+  "time" : {
+    "start" : 1549645104761,
+    "stop" : 1549645105180,
+    "duration" : 419
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestGetAllocationTargetLotForBuyTrade_WithValidRequest_ReturnSuccessResponse"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "547048cf33077f9f.json",
+  "parameterValues" : [ ]
+}

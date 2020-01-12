@@ -1,0 +1,45 @@
+{
+  "uid" : "2c5776f540fbe032",
+  "name" : "TestGetAllocationTargetLotForBuyTrade_ModelLevelerBuy_BasisP4_ForTheoShares_WithExistingTrades_ReturnSuccessResponse",
+  "fullName" : "unknown.TestGetAllocationTargetLotForBuyTrade_ModelLevelerBuy_BasisP4_ForTheoShares_WithExistingTrades_ReturnSuccessResponse",
+  "historyId" : "ac343282159116edc05e91bfde24c3a6",
+  "time" : {
+    "start" : 1549645114848,
+    "stop" : 1549645120142,
+    "duration" : 5294
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestGetAllocationTargetLotForBuyTrade_ModelLevelerBuy_BasisP4_ForTheoShares_WithExistingTrades_ReturnSuccessResponse"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c5776f540fbe032.json",
+  "parameterValues" : [ ]
+}

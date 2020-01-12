@@ -1,0 +1,45 @@
+{
+  "uid" : "609c6cfece070cf8",
+  "name" : "WhenChildOrderEditWithPermOffAndEMSComplianceOnlyFalse_TsValidation_ExpectReject",
+  "fullName" : "unknown.WhenChildOrderEditWithPermOffAndEMSComplianceOnlyFalse_TsValidation_ExpectReject",
+  "historyId" : "ffbbd10482d2fd227f10a37c228c2b43",
+  "time" : {
+    "start" : 1549643691027,
+    "stop" : 1549643697044,
+    "duration" : 6017
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenChildOrderEditWithPermOffAndEMSComplianceOnlyFalse_TsValidation_ExpectReject"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "609c6cfece070cf8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "5d7cf2e0a00f6422",
+  "name" : "EzeXmlTransformDetail_WithXSLTEnabledAndNormalXSL",
+  "fullName" : "unknown.EzeXmlTransformDetail_WithXSLTEnabledAndNormalXSL",
+  "historyId" : "fee7b4f3ea6ff78e18e94410cbf52786",
+  "time" : {
+    "start" : 1549629249302,
+    "stop" : 1549629251471,
+    "duration" : 2169
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeXmlTransformDetail_WithXSLTEnabledAndNormalXSL"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d7cf2e0a00f6422.json",
+  "parameterValues" : [ ]
+}

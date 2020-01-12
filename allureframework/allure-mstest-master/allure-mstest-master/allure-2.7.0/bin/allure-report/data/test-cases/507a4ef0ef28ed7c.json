@@ -1,0 +1,45 @@
+{
+  "uid" : "507a4ef0ef28ed7c",
+  "name" : "Test_DeleteExecution_WithOneCorrectParameter_OtherWrongParameter",
+  "fullName" : "unknown.Test_DeleteExecution_WithOneCorrectParameter_OtherWrongParameter",
+  "historyId" : "dcffee6d707f28a2f82e5536b0a3934e",
+  "time" : {
+    "start" : 1549623112911,
+    "stop" : 1549623123829,
+    "duration" : 10918
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_DeleteExecution_WithOneCorrectParameter_OtherWrongParameter"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "507a4ef0ef28ed7c.json",
+  "parameterValues" : [ ]
+}

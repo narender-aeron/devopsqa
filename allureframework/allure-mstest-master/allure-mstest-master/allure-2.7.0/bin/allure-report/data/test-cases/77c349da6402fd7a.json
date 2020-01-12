@@ -1,0 +1,45 @@
+{
+  "uid" : "77c349da6402fd7a",
+  "name" : "WhenSendingTradesForRollForward_Tolerance5000_RoundingHundredths_SimplifyDates_SendTradesCorrectly",
+  "fullName" : "unknown.WhenSendingTradesForRollForward_Tolerance5000_RoundingHundredths_SimplifyDates_SendTradesCorrectly",
+  "historyId" : "a4575c20dcc9f31599073a59a8f3d56d",
+  "time" : {
+    "start" : 1549621462133,
+    "stop" : 1549621464721,
+    "duration" : 2588
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenSendingTradesForRollForward_Tolerance5000_RoundingHundredths_SimplifyDates_SendTradesCorrectly"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "77c349da6402fd7a.json",
+  "parameterValues" : [ ]
+}

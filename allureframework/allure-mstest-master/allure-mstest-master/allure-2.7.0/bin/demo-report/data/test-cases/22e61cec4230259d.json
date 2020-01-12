@@ -1,0 +1,45 @@
+{
+  "uid" : "22e61cec4230259d",
+  "name" : "Verify_CancelOrders_Broker_ListTrader",
+  "fullName" : "unknown.Verify_CancelOrders_Broker_ListTrader",
+  "historyId" : "ee344ff768dd73edd329cc6eaf11ee5",
+  "time" : {
+    "start" : 1539023501934,
+    "stop" : 1539023508454,
+    "duration" : 6520
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_CancelOrders_Broker_ListTrader"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22e61cec4230259d.json",
+  "parameterValues" : [ ]
+}

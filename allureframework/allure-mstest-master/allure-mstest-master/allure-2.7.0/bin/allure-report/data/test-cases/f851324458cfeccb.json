@@ -1,0 +1,45 @@
+{
+  "uid" : "f851324458cfeccb",
+  "name" : "TestTradeRule_ManualBreakOutManagerAllocation",
+  "fullName" : "unknown.TestTradeRule_ManualBreakOutManagerAllocation",
+  "historyId" : "87b8b5881a5ab8d60033fb42c54bc889",
+  "time" : {
+    "start" : 1549646920480,
+    "stop" : 1549646925682,
+    "duration" : 5202
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestTradeRule_ManualBreakOutManagerAllocation"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f851324458cfeccb.json",
+  "parameterValues" : [ ]
+}

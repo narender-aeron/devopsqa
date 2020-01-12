@@ -1,0 +1,45 @@
+{
+  "uid" : "8eeea5a840e10455",
+  "name" : "Verify_F9_MultipleTrades_Broker_ListTrader",
+  "fullName" : "unknown.Verify_F9_MultipleTrades_Broker_ListTrader",
+  "historyId" : "6761319c09e80cce508aeab4fbc57edf",
+  "time" : {
+    "start" : 1549637011482,
+    "stop" : 1549637016200,
+    "duration" : 4718
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_F9_MultipleTrades_Broker_ListTrader"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8eeea5a840e10455.json",
+  "parameterValues" : [ ]
+}

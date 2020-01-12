@@ -1,0 +1,45 @@
+{
+  "uid" : "575ac4103e8badd7",
+  "name" : "EnterF5ShortTrade_CheckTheoreticalAllocations",
+  "fullName" : "unknown.EnterF5ShortTrade_CheckTheoreticalAllocations",
+  "historyId" : "af532f02882b50221a7e37a68685655c",
+  "time" : {
+    "start" : 1549645315908,
+    "stop" : 1549645317676,
+    "duration" : 1768
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EnterF5ShortTrade_CheckTheoreticalAllocations"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "575ac4103e8badd7.json",
+  "parameterValues" : [ ]
+}

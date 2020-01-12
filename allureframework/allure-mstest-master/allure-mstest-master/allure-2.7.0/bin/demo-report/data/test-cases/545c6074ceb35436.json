@@ -1,0 +1,45 @@
+{
+  "uid" : "545c6074ceb35436",
+  "name" : "RollbackTStateTrade",
+  "fullName" : "unknown.RollbackTStateTrade",
+  "historyId" : "980016b2aff241150e9d09e8b8aaaea6",
+  "time" : {
+    "start" : 1539024138803,
+    "stop" : 1539024228203,
+    "duration" : 89400
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RollbackTStateTrade"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "545c6074ceb35436.json",
+  "parameterValues" : [ ]
+}

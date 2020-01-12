@@ -1,0 +1,45 @@
+{
+  "uid" : "831437330a1ea0e6",
+  "name" : "Test_InsertSingleExecution_WhenTradeIDisIncorrect",
+  "fullName" : "unknown.Test_InsertSingleExecution_WhenTradeIDisIncorrect",
+  "historyId" : "e701a880fcd74572b3a4a229dbd2881",
+  "time" : {
+    "start" : 1549622611797,
+    "stop" : 1549622622938,
+    "duration" : 11141
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_InsertSingleExecution_WhenTradeIDisIncorrect"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "831437330a1ea0e6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "d7cd940d82213373",
+  "name" : "F2NewSymbolAuthenticationTest",
+  "fullName" : "unknown.F2NewSymbolAuthenticationTest",
+  "historyId" : "b3a23ca65b0443f7ef247130efa59566",
+  "time" : {
+    "start" : 1549620929253,
+    "stop" : 1549620929425,
+    "duration" : 172
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "F2NewSymbolAuthenticationTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7cd940d82213373.json",
+  "parameterValues" : [ ]
+}

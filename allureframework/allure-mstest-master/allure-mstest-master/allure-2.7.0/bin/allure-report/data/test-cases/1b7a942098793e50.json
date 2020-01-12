@@ -1,0 +1,45 @@
+{
+  "uid" : "1b7a942098793e50",
+  "name" : "UpdateClearingBrokerAllocationLot_ByCheckingEmptyAllocLot_ReturnsFalse",
+  "fullName" : "unknown.UpdateClearingBrokerAllocationLot_ByCheckingEmptyAllocLot_ReturnsFalse",
+  "historyId" : "fc4a736acc869ee28c229ecbbd4f7ebc",
+  "time" : {
+    "start" : 1549646265198,
+    "stop" : 1549646265200,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateClearingBrokerAllocationLot_ByCheckingEmptyAllocLot_ReturnsFalse"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1b7a942098793e50.json",
+  "parameterValues" : [ ]
+}

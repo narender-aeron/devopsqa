@@ -1,0 +1,45 @@
+{
+  "uid" : "f7a9978f3f02dc43",
+  "name" : "WhenDoingDataValidationFutureNoBaseSymbolErrorReported",
+  "fullName" : "unknown.WhenDoingDataValidationFutureNoBaseSymbolErrorReported",
+  "historyId" : "9d95e30c7263c34824e199fe2d4eb0c0",
+  "time" : {
+    "start" : 1549647948454,
+    "stop" : 1549647949928,
+    "duration" : 1474
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenDoingDataValidationFutureNoBaseSymbolErrorReported"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7a9978f3f02dc43.json",
+  "parameterValues" : [ ]
+}

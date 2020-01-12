@@ -1,0 +1,45 @@
+{
+  "uid" : "dc74a5cdc6c01996",
+  "name" : "WhenCreate_SC1TargetTrade_NoAutoEx",
+  "fullName" : "unknown.WhenCreate_SC1TargetTrade_NoAutoEx",
+  "historyId" : "c7d485c9ac0d56f54f508db5203e8b61",
+  "time" : {
+    "start" : 1549642658558,
+    "stop" : 1549642660704,
+    "duration" : 2146
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCreate_SC1TargetTrade_NoAutoEx"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc74a5cdc6c01996.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "fc9704befeafc9ee",
+  "name" : "UpdateBrokerDestination_ErrorMessage",
+  "fullName" : "unknown.UpdateBrokerDestination_ErrorMessage",
+  "historyId" : "cbf616f8b2f190c5f79f0e442dc61782",
+  "time" : {
+    "start" : 1549625035759,
+    "stop" : 1549625040537,
+    "duration" : 4778
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateBrokerDestination_ErrorMessage"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fc9704befeafc9ee.json",
+  "parameterValues" : [ ]
+}

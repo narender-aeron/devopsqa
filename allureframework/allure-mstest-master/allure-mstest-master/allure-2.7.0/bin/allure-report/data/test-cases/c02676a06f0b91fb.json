@@ -1,0 +1,45 @@
+{
+  "uid" : "c02676a06f0b91fb",
+  "name" : "CheckContingentTradesTest",
+  "fullName" : "unknown.CheckContingentTradesTest",
+  "historyId" : "6f4d405390884b418bfb65eb1fbc7c0",
+  "time" : {
+    "start" : 1549646267531,
+    "stop" : 1549646268009,
+    "duration" : 478
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CheckContingentTradesTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c02676a06f0b91fb.json",
+  "parameterValues" : [ ]
+}

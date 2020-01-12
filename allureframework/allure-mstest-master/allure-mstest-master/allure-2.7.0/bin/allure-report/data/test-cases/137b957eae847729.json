@@ -1,0 +1,45 @@
+{
+  "uid" : "137b957eae847729",
+  "name" : "DeleteStrategy_AllOrNothingTrue_ValidInvalidData",
+  "fullName" : "unknown.DeleteStrategy_AllOrNothingTrue_ValidInvalidData",
+  "historyId" : "5f1b0ad9c06e5534a956fc555bc9f829",
+  "time" : {
+    "start" : 1549622238718,
+    "stop" : 1549622238770,
+    "duration" : 52
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteStrategy_AllOrNothingTrue_ValidInvalidData"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "137b957eae847729.json",
+  "parameterValues" : [ ]
+}

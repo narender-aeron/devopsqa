@@ -1,0 +1,45 @@
+{
+  "uid" : "fa0df6d1eb3661b8",
+  "name" : "MailServer_SendEmailWithAttach",
+  "fullName" : "unknown.MailServer_SendEmailWithAttach",
+  "historyId" : "a1bba26bef26c8035b87fe4efd3c8b6c",
+  "time" : {
+    "start" : 1549628994446,
+    "stop" : 1549628996644,
+    "duration" : 2198
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "MailServer_SendEmailWithAttach"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa0df6d1eb3661b8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "29159a4ee35fc10f",
+  "name" : "WhenMovingMmtTradesFromStagingToTradingTradesMerge_AutoMergeEnabled",
+  "fullName" : "unknown.WhenMovingMmtTradesFromStagingToTradingTradesMerge_AutoMergeEnabled",
+  "historyId" : "25c723bb6766ac7f8d0cfb6cfa52c410",
+  "time" : {
+    "start" : 1549646947397,
+    "stop" : 1549646968840,
+    "duration" : 21443
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenMovingMmtTradesFromStagingToTradingTradesMerge_AutoMergeEnabled"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29159a4ee35fc10f.json",
+  "parameterValues" : [ ]
+}

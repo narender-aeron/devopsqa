@@ -1,0 +1,45 @@
+{
+  "uid" : "4809ab465ff2adf8",
+  "name" : "WhenCreate_Sc1Trades_Oversell_VerifyAnalyticsGrid_Success",
+  "fullName" : "unknown.WhenCreate_Sc1Trades_Oversell_VerifyAnalyticsGrid_Success",
+  "historyId" : "fe39501b5a57d467a6ee1ff06e98fd32",
+  "time" : {
+    "start" : 1549642655214,
+    "stop" : 1549642658490,
+    "duration" : 3276
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCreate_Sc1Trades_Oversell_VerifyAnalyticsGrid_Success"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4809ab465ff2adf8.json",
+  "parameterValues" : [ ]
+}

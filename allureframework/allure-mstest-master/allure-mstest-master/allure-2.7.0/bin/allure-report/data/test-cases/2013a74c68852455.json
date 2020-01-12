@@ -1,0 +1,45 @@
+{
+  "uid" : "2013a74c68852455",
+  "name" : "WhenBatchingProcessWhatIfPositions",
+  "fullName" : "unknown.WhenBatchingProcessWhatIfPositions",
+  "historyId" : "fb30af406b2506daf26982edeb0e3030",
+  "time" : {
+    "start" : 1549630358567,
+    "stop" : 1549630360924,
+    "duration" : 2357
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenBatchingProcessWhatIfPositions"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2013a74c68852455.json",
+  "parameterValues" : [ ]
+}

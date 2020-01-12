@@ -1,0 +1,45 @@
+{
+  "uid" : "59c89b21a69b3500",
+  "name" : "Verify_OutboundOverrideRule_ForCachedData",
+  "fullName" : "unknown.Verify_OutboundOverrideRule_ForCachedData",
+  "historyId" : "1223b2811d6090710c0a29317f3277a2",
+  "time" : {
+    "start" : 1539023543115,
+    "stop" : 1539023594357,
+    "duration" : 51242
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_OutboundOverrideRule_ForCachedData"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "59c89b21a69b3500.json",
+  "parameterValues" : [ ]
+}

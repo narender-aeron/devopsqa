@@ -1,0 +1,45 @@
+{
+  "uid" : "5de47581f939596a",
+  "name" : "Verify_DelphiAlgoRoutingRule",
+  "fullName" : "unknown.Verify_DelphiAlgoRoutingRule",
+  "historyId" : "4186046328ed026a85987f9ba0076421",
+  "time" : {
+    "start" : 1539025868890,
+    "stop" : 1539025879878,
+    "duration" : 10988
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_DelphiAlgoRoutingRule"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5de47581f939596a.json",
+  "parameterValues" : [ ]
+}

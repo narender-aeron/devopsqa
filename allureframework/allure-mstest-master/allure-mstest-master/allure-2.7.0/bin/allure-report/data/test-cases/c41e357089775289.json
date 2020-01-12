@@ -1,0 +1,45 @@
+{
+  "uid" : "c41e357089775289",
+  "name" : "AmountSame_IncreaseAveragePrice",
+  "fullName" : "unknown.AmountSame_IncreaseAveragePrice",
+  "historyId" : "520f1c090c65848533526a62d7c989f1",
+  "time" : {
+    "start" : 1549645457858,
+    "stop" : 1549645469043,
+    "duration" : 11185
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "AmountSame_IncreaseAveragePrice"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c41e357089775289.json",
+  "parameterValues" : [ ]
+}

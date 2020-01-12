@@ -1,0 +1,45 @@
+{
+  "uid" : "ae7d01bf01c09485",
+  "name" : "SSFTPPUT_TrasnferToPrimAndSec",
+  "fullName" : "unknown.SSFTPPUT_TrasnferToPrimAndSec",
+  "historyId" : "483cb5e107ca4dc9cee2372b8e3af8ec",
+  "time" : {
+    "start" : 1549629004450,
+    "stop" : 1549629013050,
+    "duration" : 8600
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SSFTPPUT_TrasnferToPrimAndSec"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae7d01bf01c09485.json",
+  "parameterValues" : [ ]
+}

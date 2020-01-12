@@ -1,0 +1,45 @@
+{
+  "uid" : "9616a4ef17d38de9",
+  "name" : "GetServerTime_ByCheckingCurrentTime_ReturnsCurrectTime",
+  "fullName" : "unknown.GetServerTime_ByCheckingCurrentTime_ReturnsCurrectTime",
+  "historyId" : "623c3f4a2a63016ac4934352f739853b",
+  "time" : {
+    "start" : 1549646266029,
+    "stop" : 1549646266032,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetServerTime_ByCheckingCurrentTime_ReturnsCurrectTime"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9616a4ef17d38de9.json",
+  "parameterValues" : [ ]
+}

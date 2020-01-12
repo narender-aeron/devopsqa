@@ -1,0 +1,45 @@
+{
+  "uid" : "5fbc03d322adb100",
+  "name" : "GetBrokerUserDefinedFields_ByCheckingParticularUser_ReturnsCorrectList",
+  "fullName" : "unknown.GetBrokerUserDefinedFields_ByCheckingParticularUser_ReturnsCorrectList",
+  "historyId" : "b8aa11828f98a82e891f5473fb1f7da7",
+  "time" : {
+    "start" : 1549646271317,
+    "stop" : 1549646271325,
+    "duration" : 8
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetBrokerUserDefinedFields_ByCheckingParticularUser_ReturnsCorrectList"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5fbc03d322adb100.json",
+  "parameterValues" : [ ]
+}

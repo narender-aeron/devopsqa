@@ -1,0 +1,45 @@
+{
+  "uid" : "1ae563c987641e4",
+  "name" : "WhenSavingIntradayChartingSettings",
+  "fullName" : "unknown.WhenSavingIntradayChartingSettings",
+  "historyId" : "a27fc520a60c14b2249ade926b3183bf",
+  "time" : {
+    "start" : 1549630348094,
+    "stop" : 1549630349307,
+    "duration" : 1213
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenSavingIntradayChartingSettings"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ae563c987641e4.json",
+  "parameterValues" : [ ]
+}

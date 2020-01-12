@@ -1,0 +1,45 @@
+{
+  "uid" : "5b4e75a26fae6cba",
+  "name" : "Verify_ApprovalList_ExecBroker_Not_In_ApprovalList_TradeGen_Expect_Fill_DK",
+  "fullName" : "unknown.Verify_ApprovalList_ExecBroker_Not_In_ApprovalList_TradeGen_Expect_Fill_DK",
+  "historyId" : "67a7fa8b7153f2e0e5f2d05f67a844dd",
+  "time" : {
+    "start" : 1539025384524,
+    "stop" : 1539025409676,
+    "duration" : 25152
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_ApprovalList_ExecBroker_Not_In_ApprovalList_TradeGen_Expect_Fill_DK"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5b4e75a26fae6cba.json",
+  "parameterValues" : [ ]
+}

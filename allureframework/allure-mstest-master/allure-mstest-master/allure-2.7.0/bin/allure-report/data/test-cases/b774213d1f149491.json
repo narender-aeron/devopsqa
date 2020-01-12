@@ -1,0 +1,45 @@
+{
+  "uid" : "b774213d1f149491",
+  "name" : "WhenCowboyTradeEditFailEDIValidationExpectComplianceViolation",
+  "fullName" : "unknown.WhenCowboyTradeEditFailEDIValidationExpectComplianceViolation",
+  "historyId" : "209f8b8842cdcef412313bc13602b23f",
+  "time" : {
+    "start" : 1549643749209,
+    "stop" : 1549643753216,
+    "duration" : 4007
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCowboyTradeEditFailEDIValidationExpectComplianceViolation"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b774213d1f149491.json",
+  "parameterValues" : [ ]
+}

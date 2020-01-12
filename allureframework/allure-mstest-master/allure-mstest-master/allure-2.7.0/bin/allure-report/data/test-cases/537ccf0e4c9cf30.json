@@ -1,0 +1,45 @@
+{
+  "uid" : "537ccf0e4c9cf30",
+  "name" : "Test_TradeCancel_CancelledTrade",
+  "fullName" : "unknown.Test_TradeCancel_CancelledTrade",
+  "historyId" : "fa8d4c02c7657fc6025a582bc7971d10",
+  "time" : {
+    "start" : 1549623622006,
+    "stop" : 1549623634527,
+    "duration" : 12521
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_TradeCancel_CancelledTrade"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "537ccf0e4c9cf30.json",
+  "parameterValues" : [ ]
+}

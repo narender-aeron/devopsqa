@@ -1,0 +1,45 @@
+{
+  "uid" : "788c42aa077e01ea",
+  "name" : "Verify_MBS_DropModel_Br_status_changes",
+  "fullName" : "unknown.Verify_MBS_DropModel_Br_status_changes",
+  "historyId" : "a4543eeab1287b5e211e85db89b63fe2",
+  "time" : {
+    "start" : 1549637162283,
+    "stop" : 1549637169209,
+    "duration" : 6926
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_MBS_DropModel_Br_status_changes"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "788c42aa077e01ea.json",
+  "parameterValues" : [ ]
+}

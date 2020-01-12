@@ -1,0 +1,45 @@
+{
+  "uid" : "279f4a35985d6cd6",
+  "name" : "CdmsOmsSqlSchemaComparison",
+  "fullName" : "unknown.CdmsOmsSqlSchemaComparison",
+  "historyId" : "7bd698961df6e8295797e8cc8cd19108",
+  "time" : {
+    "start" : 1539026430818,
+    "stop" : 1539026525441,
+    "duration" : 94623
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CdmsOmsSqlSchemaComparison"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "279f4a35985d6cd6.json",
+  "parameterValues" : [ ]
+}

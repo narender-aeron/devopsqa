@@ -1,0 +1,45 @@
+{
+  "uid" : "98fdaf0436ce7c15",
+  "name" : "UpdateTradeCounterAmountTest",
+  "fullName" : "unknown.UpdateTradeCounterAmountTest",
+  "historyId" : "4605359c6b2a09782be6d8780b6cfa32",
+  "time" : {
+    "start" : 1549646270411,
+    "stop" : 1549646270486,
+    "duration" : 75
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateTradeCounterAmountTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "98fdaf0436ce7c15.json",
+  "parameterValues" : [ ]
+}

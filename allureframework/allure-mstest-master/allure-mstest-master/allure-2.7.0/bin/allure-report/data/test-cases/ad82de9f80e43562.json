@@ -1,0 +1,45 @@
+{
+  "uid" : "ad82de9f80e43562",
+  "name" : "EditAllocationCustodianEditsTheCustodianOnAllocationsAndLots",
+  "fullName" : "unknown.EditAllocationCustodianEditsTheCustodianOnAllocationsAndLots",
+  "historyId" : "adf176441c6ddd2045a02eb5f7eb971e",
+  "time" : {
+    "start" : 1549647360826,
+    "stop" : 1549647372433,
+    "duration" : 11607
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EditAllocationCustodianEditsTheCustodianOnAllocationsAndLots"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad82de9f80e43562.json",
+  "parameterValues" : [ ]
+}

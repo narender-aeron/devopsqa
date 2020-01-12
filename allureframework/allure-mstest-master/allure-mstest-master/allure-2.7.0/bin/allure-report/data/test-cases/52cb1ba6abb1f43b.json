@@ -1,0 +1,45 @@
+{
+  "uid" : "52cb1ba6abb1f43b",
+  "name" : "FillsAppear",
+  "fullName" : "unknown.FillsAppear",
+  "historyId" : "4e5d8bc10b03f2018742af981625b08e",
+  "time" : {
+    "start" : 1549630155250,
+    "stop" : 1549630157843,
+    "duration" : 2593
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "FillsAppear"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52cb1ba6abb1f43b.json",
+  "parameterValues" : [ ]
+}

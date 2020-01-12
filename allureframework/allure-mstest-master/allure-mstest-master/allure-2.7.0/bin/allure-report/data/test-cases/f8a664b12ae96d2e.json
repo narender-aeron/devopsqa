@@ -1,0 +1,45 @@
+{
+  "uid" : "f8a664b12ae96d2e",
+  "name" : "WhenParentOrderEntrySwapFailTradingServiceValidation",
+  "fullName" : "unknown.WhenParentOrderEntrySwapFailTradingServiceValidation",
+  "historyId" : "85b54facca639c807b1ace993fcc2674",
+  "time" : {
+    "start" : 1549642998820,
+    "stop" : 1549643000828,
+    "duration" : 2008
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenParentOrderEntrySwapFailTradingServiceValidation"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8a664b12ae96d2e.json",
+  "parameterValues" : [ ]
+}

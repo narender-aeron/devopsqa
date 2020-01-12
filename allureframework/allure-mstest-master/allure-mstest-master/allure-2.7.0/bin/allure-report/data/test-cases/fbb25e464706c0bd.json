@@ -1,0 +1,45 @@
+{
+  "uid" : "fbb25e464706c0bd",
+  "name" : "EzeIntradayXML_CheckForCancelForFullIntraday",
+  "fullName" : "unknown.EzeIntradayXML_CheckForCancelForFullIntraday",
+  "historyId" : "f3069b8394c452504124df909fee1294",
+  "time" : {
+    "start" : 1549628145825,
+    "stop" : 1549628173277,
+    "duration" : 27452
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeIntradayXML_CheckForCancelForFullIntraday"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fbb25e464706c0bd.json",
+  "parameterValues" : [ ]
+}

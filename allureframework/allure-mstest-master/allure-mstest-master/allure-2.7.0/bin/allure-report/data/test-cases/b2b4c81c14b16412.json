@@ -1,0 +1,45 @@
+{
+  "uid" : "b2b4c81c14b16412",
+  "name" : "ChangeTradeDetails_TargetedTrade_Buy",
+  "fullName" : "unknown.ChangeTradeDetails_TargetedTrade_Buy",
+  "historyId" : "8b7ce70178f074b4721241425062698d",
+  "time" : {
+    "start" : 1549646198943,
+    "stop" : 1549646204283,
+    "duration" : 5340
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ChangeTradeDetails_TargetedTrade_Buy"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b2b4c81c14b16412.json",
+  "parameterValues" : [ ]
+}

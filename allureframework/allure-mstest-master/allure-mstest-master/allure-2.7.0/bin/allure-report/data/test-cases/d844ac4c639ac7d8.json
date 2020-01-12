@@ -1,0 +1,51 @@
+{
+  "uid" : "d844ac4c639ac7d8",
+  "name" : "EzeIntradayXML_CompareDelphiDotNetXML_TradeWithDifferentUnderlyingSecurity_IDAY",
+  "fullName" : "unknown.EzeIntradayXML_CompareDelphiDotNetXML_TradeWithDifferentUnderlyingSecurity_IDAY",
+  "historyId" : "9c3096a91bfa08a96b12535e41d9b143",
+  "time" : {
+    "start" : 1549628937238,
+    "stop" : 1549628965496,
+    "duration" : 28258
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Assert.Fail failed. Assert.Fail failed. Assert.AreEqual failed. Expected:<SUCCESS>. Actual:<FAILURE>. Exception detected in intraday process. Error: Exception detected while creating file using IntradayXML.exe: TwIntradayXML.exe : Unable to Read the Login File. Login File is corrupt. Please log in to Tradewinds and run Intraday Process.TwIntradayXML.exe : Error occure while creating SQL Connection. TwIntradayXML.exe : Login File not found. Please log in to Tradewinds and run Intraday Process.",
+  "statusTrace" : "   at Eze.Integration.Functional.Test.Tradewinds.IntradayTests.EzeIntradayXML_CompareDelphiDotNetXML_TradeWithDifferentUnderlyingSecurity_IDAY() in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\Tradewinds\\Intraday\\IntradayTests.cs:line 1668\n",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeIntradayXML_CompareDelphiDotNetXML_TradeWithDifferentUnderlyingSecurity_IDAY"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "d844ac4c639ac7d8.json",
+  "parameterValues" : [ ]
+}

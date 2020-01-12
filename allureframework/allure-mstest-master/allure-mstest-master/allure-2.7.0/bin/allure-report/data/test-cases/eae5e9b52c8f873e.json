@@ -1,0 +1,45 @@
+{
+  "uid" : "eae5e9b52c8f873e",
+  "name" : "UpdateTrade_TradeFinalize_Error_MultipleTrade_2_AllOrNothing_False_MState",
+  "fullName" : "unknown.UpdateTrade_TradeFinalize_Error_MultipleTrade_2_AllOrNothing_False_MState",
+  "historyId" : "9ebc9d86d9b8a6231f1a093b8d0a1ff6",
+  "time" : {
+    "start" : 1549625131132,
+    "stop" : 1549625136369,
+    "duration" : 5237
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateTrade_TradeFinalize_Error_MultipleTrade_2_AllOrNothing_False_MState"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eae5e9b52c8f873e.json",
+  "parameterValues" : [ ]
+}

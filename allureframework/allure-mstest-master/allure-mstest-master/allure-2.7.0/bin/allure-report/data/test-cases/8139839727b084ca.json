@@ -1,0 +1,45 @@
+{
+  "uid" : "8139839727b084ca",
+  "name" : "Verify_RulePriority",
+  "fullName" : "unknown.Verify_RulePriority",
+  "historyId" : "5e20d1bb1d66503fd232e11f42dfb1fc",
+  "time" : {
+    "start" : 1549641486137,
+    "stop" : 1549641501283,
+    "duration" : 15146
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_RulePriority"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8139839727b084ca.json",
+  "parameterValues" : [ ]
+}

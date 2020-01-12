@@ -1,0 +1,45 @@
+{
+  "uid" : "9578d5ad961a85c2",
+  "name" : "GetTheoreticalShares",
+  "fullName" : "unknown.GetTheoreticalShares",
+  "historyId" : "6153d77627e28143c02b47fe72a0fcee",
+  "time" : {
+    "start" : 1549646264700,
+    "stop" : 1549646264759,
+    "duration" : 59
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetTheoreticalShares"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9578d5ad961a85c2.json",
+  "parameterValues" : [ ]
+}

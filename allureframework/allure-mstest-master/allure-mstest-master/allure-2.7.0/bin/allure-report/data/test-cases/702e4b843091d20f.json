@@ -1,0 +1,45 @@
+{
+  "uid" : "702e4b843091d20f",
+  "name" : "AttemptToOversellandOvercover",
+  "fullName" : "unknown.AttemptToOversellandOvercover",
+  "historyId" : "576bbb56e06d9ce1aa2dcf211a37d10e",
+  "time" : {
+    "start" : 1549631245361,
+    "stop" : 1549631245957,
+    "duration" : 596
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "AttemptToOversellandOvercover"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "702e4b843091d20f.json",
+  "parameterValues" : [ ]
+}

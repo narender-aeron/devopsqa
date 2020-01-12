@@ -1,0 +1,45 @@
+{
+  "uid" : "52452f732b64ec3",
+  "name" : "InsertTradeIgnoreTriggers_TestForTotalFunctionality",
+  "fullName" : "unknown.InsertTradeIgnoreTriggers_TestForTotalFunctionality",
+  "historyId" : "7be701dc8a137934ab0b8997d194470b",
+  "time" : {
+    "start" : 1549646270661,
+    "stop" : 1549646270789,
+    "duration" : 128
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "InsertTradeIgnoreTriggers_TestForTotalFunctionality"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52452f732b64ec3.json",
+  "parameterValues" : [ ]
+}

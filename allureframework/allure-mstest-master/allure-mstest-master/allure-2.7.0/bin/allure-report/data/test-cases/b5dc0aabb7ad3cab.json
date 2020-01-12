@@ -1,0 +1,45 @@
+{
+  "uid" : "b5dc0aabb7ad3cab",
+  "name" : "BuySellShortCover_AllRuleTypesFire",
+  "fullName" : "unknown.BuySellShortCover_AllRuleTypesFire",
+  "historyId" : "54dc9daaf1fae13c2eaa534feaea1f9d",
+  "time" : {
+    "start" : 1549644740301,
+    "stop" : 1549644772454,
+    "duration" : 32153
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "BuySellShortCover_AllRuleTypesFire"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5dc0aabb7ad3cab.json",
+  "parameterValues" : [ ]
+}

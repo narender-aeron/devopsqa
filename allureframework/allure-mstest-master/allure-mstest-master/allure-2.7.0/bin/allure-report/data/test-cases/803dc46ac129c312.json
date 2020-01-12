@@ -1,0 +1,45 @@
+{
+  "uid" : "803dc46ac129c312",
+  "name" : "Test_InsertSingleExecution_NotAvailableAllDataInRequest",
+  "fullName" : "unknown.Test_InsertSingleExecution_NotAvailableAllDataInRequest",
+  "historyId" : "27fe01b1c6b7dd67b3abac6c180f0756",
+  "time" : {
+    "start" : 1549622545553,
+    "stop" : 1549622556615,
+    "duration" : 11062
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_InsertSingleExecution_NotAvailableAllDataInRequest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "803dc46ac129c312.json",
+  "parameterValues" : [ ]
+}

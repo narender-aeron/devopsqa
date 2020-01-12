@@ -1,0 +1,45 @@
+{
+  "uid" : "6f113e10886a3b3",
+  "name" : "Test_TradeCancel_ActionOnCancelWithCommitmentsAsRestrict",
+  "fullName" : "unknown.Test_TradeCancel_ActionOnCancelWithCommitmentsAsRestrict",
+  "historyId" : "c8bb58edbc96cb080fa802e74624349",
+  "time" : {
+    "start" : 1549623908136,
+    "stop" : 1549624163716,
+    "duration" : 255580
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_TradeCancel_ActionOnCancelWithCommitmentsAsRestrict"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f113e10886a3b3.json",
+  "parameterValues" : [ ]
+}

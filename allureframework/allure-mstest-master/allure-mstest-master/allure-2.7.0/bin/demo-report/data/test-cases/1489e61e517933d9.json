@@ -1,0 +1,45 @@
+{
+  "uid" : "1489e61e517933d9",
+  "name" : "TradeImporter_SendToTrading_Targeted_PartiallyCommittedAndPartiallyFilled",
+  "fullName" : "unknown.TradeImporter_SendToTrading_Targeted_PartiallyCommittedAndPartiallyFilled",
+  "historyId" : "2d7fc6c9f2fbeb8fa470b3a4408d012",
+  "time" : {
+    "start" : 1539022563926,
+    "stop" : 1539022564111,
+    "duration" : 185
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TradeImporter_SendToTrading_Targeted_PartiallyCommittedAndPartiallyFilled"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1489e61e517933d9.json",
+  "parameterValues" : [ ]
+}

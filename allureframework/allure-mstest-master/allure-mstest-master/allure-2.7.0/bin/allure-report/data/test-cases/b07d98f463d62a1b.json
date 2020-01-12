@@ -1,0 +1,45 @@
+{
+  "uid" : "b07d98f463d62a1b",
+  "name" : "WhenParentOrderEditSwapWithAllocationSchemeNotDefinedExpectsComplianceViolationResponse",
+  "fullName" : "unknown.WhenParentOrderEditSwapWithAllocationSchemeNotDefinedExpectsComplianceViolationResponse",
+  "historyId" : "1e01a99244062be6dcfe058bf9b4df3b",
+  "time" : {
+    "start" : 1549642979562,
+    "stop" : 1549642983572,
+    "duration" : 4010
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenParentOrderEditSwapWithAllocationSchemeNotDefinedExpectsComplianceViolationResponse"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b07d98f463d62a1b.json",
+  "parameterValues" : [ ]
+}

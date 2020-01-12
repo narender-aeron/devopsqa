@@ -1,0 +1,45 @@
+{
+  "uid" : "6a0e917d4d5a492b",
+  "name" : "TestGetAllocationTargetLotForBuyTrade_ModelLevelerBuy_BasisPosition_ForSODShares_WithExistingTrades_ReturnSuccessResponse",
+  "fullName" : "unknown.TestGetAllocationTargetLotForBuyTrade_ModelLevelerBuy_BasisPosition_ForSODShares_WithExistingTrades_ReturnSuccessResponse",
+  "historyId" : "a146a587fcca1f9c675ff8d00c7ae641",
+  "time" : {
+    "start" : 1549645138262,
+    "stop" : 1549645144313,
+    "duration" : 6051
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestGetAllocationTargetLotForBuyTrade_ModelLevelerBuy_BasisPosition_ForSODShares_WithExistingTrades_ReturnSuccessResponse"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a0e917d4d5a492b.json",
+  "parameterValues" : [ ]
+}

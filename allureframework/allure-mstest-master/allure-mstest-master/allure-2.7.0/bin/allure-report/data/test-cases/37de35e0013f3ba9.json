@@ -1,0 +1,45 @@
+{
+  "uid" : "37de35e0013f3ba9",
+  "name" : "SingleBrokerFullyFilledF5Trade",
+  "fullName" : "unknown.SingleBrokerFullyFilledF5Trade",
+  "historyId" : "b767a65927d9274f8f946cbf1145abbc",
+  "time" : {
+    "start" : 1549634129373,
+    "stop" : 1549634490439,
+    "duration" : 361066
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SingleBrokerFullyFilledF5Trade"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "37de35e0013f3ba9.json",
+  "parameterValues" : [ ]
+}

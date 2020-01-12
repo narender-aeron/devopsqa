@@ -1,0 +1,45 @@
+{
+  "uid" : "566882751f6c82a",
+  "name" : "RunAdjustByPercent",
+  "fullName" : "unknown.RunAdjustByPercent",
+  "historyId" : "9e345b6478c2ea11b9cc1e9d7d19b32e",
+  "time" : {
+    "start" : 1549631256589,
+    "stop" : 1549631257181,
+    "duration" : 592
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RunAdjustByPercent"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "566882751f6c82a.json",
+  "parameterValues" : [ ]
+}

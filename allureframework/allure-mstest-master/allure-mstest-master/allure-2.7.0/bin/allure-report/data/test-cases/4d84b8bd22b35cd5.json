@@ -1,0 +1,45 @@
+{
+  "uid" : "4d84b8bd22b35cd5",
+  "name" : "ValidateTradePublish_CreateTSateTrade_PersistSubscription",
+  "fullName" : "unknown.ValidateTradePublish_CreateTSateTrade_PersistSubscription",
+  "historyId" : "826943c0a56426cb8fb94aaf0c48b8ac",
+  "time" : {
+    "start" : 1549626346473,
+    "stop" : 1549626518144,
+    "duration" : 171671
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ValidateTradePublish_CreateTSateTrade_PersistSubscription"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d84b8bd22b35cd5.json",
+  "parameterValues" : [ ]
+}

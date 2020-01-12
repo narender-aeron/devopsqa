@@ -1,0 +1,45 @@
+{
+  "uid" : "ded2363021033ba6",
+  "name" : "WhenMovingTargetedTradesFromStagingToTrading_InvalidTradesSelected_DefaultCustodianRuns_SendingLessThan100Percent",
+  "fullName" : "unknown.WhenMovingTargetedTradesFromStagingToTrading_InvalidTradesSelected_DefaultCustodianRuns_SendingLessThan100Percent",
+  "historyId" : "1383055d1ce72f752139f27583e679d",
+  "time" : {
+    "start" : 1549647030272,
+    "stop" : 1549647048215,
+    "duration" : 17943
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenMovingTargetedTradesFromStagingToTrading_InvalidTradesSelected_DefaultCustodianRuns_SendingLessThan100Percent"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ded2363021033ba6.json",
+  "parameterValues" : [ ]
+}

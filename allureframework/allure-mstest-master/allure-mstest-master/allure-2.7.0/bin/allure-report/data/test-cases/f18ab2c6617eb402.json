@@ -1,0 +1,45 @@
+{
+  "uid" : "f18ab2c6617eb402",
+  "name" : "Verify_MDO_MATCH",
+  "fullName" : "unknown.Verify_MDO_MATCH",
+  "historyId" : "c156880fc1dcb2223aee77d1ddfec5ad",
+  "time" : {
+    "start" : 1549640980783,
+    "stop" : 1549641114295,
+    "duration" : 133512
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_MDO_MATCH"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f18ab2c6617eb402.json",
+  "parameterValues" : [ ]
+}

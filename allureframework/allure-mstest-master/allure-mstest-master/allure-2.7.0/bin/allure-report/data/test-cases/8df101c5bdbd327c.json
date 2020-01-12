@@ -1,0 +1,45 @@
+{
+  "uid" : "8df101c5bdbd327c",
+  "name" : "WhenCreate_SC1MmtTrade_BrokerLevelComplianceRule_ResponseFail",
+  "fullName" : "unknown.WhenCreate_SC1MmtTrade_BrokerLevelComplianceRule_ResponseFail",
+  "historyId" : "8f435b13fee517c7658878cf6ccf2ef6",
+  "time" : {
+    "start" : 1549642642139,
+    "stop" : 1549642643570,
+    "duration" : 1431
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCreate_SC1MmtTrade_BrokerLevelComplianceRule_ResponseFail"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8df101c5bdbd327c.json",
+  "parameterValues" : [ ]
+}

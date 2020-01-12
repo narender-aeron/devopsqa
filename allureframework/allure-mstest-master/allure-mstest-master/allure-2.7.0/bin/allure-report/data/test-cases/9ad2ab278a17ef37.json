@@ -1,0 +1,45 @@
+{
+  "uid" : "9ad2ab278a17ef37",
+  "name" : "UpdateSecurityDataBatch_UpdateMifidFieldsOfSecurities",
+  "fullName" : "unknown.UpdateSecurityDataBatch_UpdateMifidFieldsOfSecurities",
+  "historyId" : "415be6c337bf6f520f4d9b7020a74f66",
+  "time" : {
+    "start" : 1549627518108,
+    "stop" : 1549627518457,
+    "duration" : 349
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateSecurityDataBatch_UpdateMifidFieldsOfSecurities"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ad2ab278a17ef37.json",
+  "parameterValues" : [ ]
+}

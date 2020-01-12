@@ -1,0 +1,45 @@
+{
+  "uid" : "b85d090afcd87ffd",
+  "name" : "InsertOrUpdateSecurityDataBatch_InsertSecuritiesWithDefaultMifidFields",
+  "fullName" : "unknown.InsertOrUpdateSecurityDataBatch_InsertSecuritiesWithDefaultMifidFields",
+  "historyId" : "cc56e15bfc6bcf0e54c2cfe0566dac24",
+  "time" : {
+    "start" : 1549627514943,
+    "stop" : 1549627516260,
+    "duration" : 1317
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "InsertOrUpdateSecurityDataBatch_InsertSecuritiesWithDefaultMifidFields"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b85d090afcd87ffd.json",
+  "parameterValues" : [ ]
+}

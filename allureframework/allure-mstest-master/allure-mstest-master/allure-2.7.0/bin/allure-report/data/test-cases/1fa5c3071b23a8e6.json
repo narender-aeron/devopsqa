@@ -1,0 +1,45 @@
+{
+  "uid" : "1fa5c3071b23a8e6",
+  "name" : "Verify_CustomRepeatingGroup_OrderRouting",
+  "fullName" : "unknown.Verify_CustomRepeatingGroup_OrderRouting",
+  "historyId" : "f01ace4d8c0522cee6bcf285b5934488",
+  "time" : {
+    "start" : 1549639593693,
+    "stop" : 1549639610946,
+    "duration" : 17253
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_CustomRepeatingGroup_OrderRouting"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1fa5c3071b23a8e6.json",
+  "parameterValues" : [ ]
+}

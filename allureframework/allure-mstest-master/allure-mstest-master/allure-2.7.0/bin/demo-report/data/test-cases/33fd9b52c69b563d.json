@@ -1,0 +1,45 @@
+{
+  "uid" : "33fd9b52c69b563d",
+  "name" : "WhenNotifying_PriceIsCorrect",
+  "fullName" : "unknown.WhenNotifying_PriceIsCorrect",
+  "historyId" : "329e89ba33b0d5378e94f99ff2cdb10",
+  "time" : {
+    "start" : 1539024476381,
+    "stop" : 1539024477417,
+    "duration" : 1036
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenNotifying_PriceIsCorrect"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33fd9b52c69b563d.json",
+  "parameterValues" : [ ]
+}

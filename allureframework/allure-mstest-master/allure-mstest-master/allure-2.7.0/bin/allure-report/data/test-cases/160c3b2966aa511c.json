@@ -1,0 +1,45 @@
+{
+  "uid" : "160c3b2966aa511c",
+  "name" : "WhenExecutingRelativeColumnOperationOfRemove",
+  "fullName" : "unknown.WhenExecutingRelativeColumnOperationOfRemove",
+  "historyId" : "a873ab8e4c7d8859ffab380cd6d45b69",
+  "time" : {
+    "start" : 1549630276175,
+    "stop" : 1549630277213,
+    "duration" : 1038
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenExecutingRelativeColumnOperationOfRemove"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "160c3b2966aa511c.json",
+  "parameterValues" : [ ]
+}

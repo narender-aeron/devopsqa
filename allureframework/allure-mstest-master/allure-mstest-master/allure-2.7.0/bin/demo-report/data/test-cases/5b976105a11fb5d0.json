@@ -1,0 +1,45 @@
+{
+  "uid" : "5b976105a11fb5d0",
+  "name" : "TestTradeRule_ManualCreateNewTStateTrade_InheritAllocationsFromParent",
+  "fullName" : "unknown.TestTradeRule_ManualCreateNewTStateTrade_InheritAllocationsFromParent",
+  "historyId" : "86ac96b8efa901e0c50e3f95a31a50ca",
+  "time" : {
+    "start" : 1539022536478,
+    "stop" : 1539022542320,
+    "duration" : 5842
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestTradeRule_ManualCreateNewTStateTrade_InheritAllocationsFromParent"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5b976105a11fb5d0.json",
+  "parameterValues" : [ ]
+}

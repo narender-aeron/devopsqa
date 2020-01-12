@@ -1,0 +1,45 @@
+{
+  "uid" : "caab99266f92e2a8",
+  "name" : "WhenRMAingTrade_TradeEntersMState",
+  "fullName" : "unknown.WhenRMAingTrade_TradeEntersMState",
+  "historyId" : "b9a5e6bb8e0994ad005258d8c2974d90",
+  "time" : {
+    "start" : 1549645796053,
+    "stop" : 1549645803409,
+    "duration" : 7356
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenRMAingTrade_TradeEntersMState"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "caab99266f92e2a8.json",
+  "parameterValues" : [ ]
+}

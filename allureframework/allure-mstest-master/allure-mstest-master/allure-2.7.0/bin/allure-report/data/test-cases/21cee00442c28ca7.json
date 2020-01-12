@@ -1,0 +1,45 @@
+{
+  "uid" : "21cee00442c28ca7",
+  "name" : "WhenGettingSecurityIndexes",
+  "fullName" : "unknown.WhenGettingSecurityIndexes",
+  "historyId" : "34f35290b1d6b0a27344350794a3361",
+  "time" : {
+    "start" : 1549630327005,
+    "stop" : 1549630328019,
+    "duration" : 1014
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingSecurityIndexes"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21cee00442c28ca7.json",
+  "parameterValues" : [ ]
+}

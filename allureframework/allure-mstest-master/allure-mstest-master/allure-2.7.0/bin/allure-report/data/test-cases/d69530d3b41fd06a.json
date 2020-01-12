@@ -1,0 +1,45 @@
+{
+  "uid" : "d69530d3b41fd06a",
+  "name" : "Verify_NewF5Trade_FixIntegration",
+  "fullName" : "unknown.Verify_NewF5Trade_FixIntegration",
+  "historyId" : "a3b38f7e0a71d610c75c301c4450c24f",
+  "time" : {
+    "start" : 1549638148322,
+    "stop" : 1549638149427,
+    "duration" : 1105
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_NewF5Trade_FixIntegration"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d69530d3b41fd06a.json",
+  "parameterValues" : [ ]
+}

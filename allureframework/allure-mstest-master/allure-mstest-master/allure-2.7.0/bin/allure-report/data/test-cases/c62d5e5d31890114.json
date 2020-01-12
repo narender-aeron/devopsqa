@@ -1,0 +1,45 @@
+{
+  "uid" : "c62d5e5d31890114",
+  "name" : "CreateBenchmarkAndRunRebalancePortfolios",
+  "fullName" : "unknown.CreateBenchmarkAndRunRebalancePortfolios",
+  "historyId" : "87d33fd2cfdcab6e1fbf39b93ec8dd28",
+  "time" : {
+    "start" : 1549631226210,
+    "stop" : 1549631230467,
+    "duration" : 4257
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreateBenchmarkAndRunRebalancePortfolios"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c62d5e5d31890114.json",
+  "parameterValues" : [ ]
+}

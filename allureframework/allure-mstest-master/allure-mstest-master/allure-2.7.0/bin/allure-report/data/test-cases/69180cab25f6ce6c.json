@@ -1,0 +1,45 @@
+{
+  "uid" : "69180cab25f6ce6c",
+  "name" : "Verify_ExecBrok_PartyID_Broker_LEI_logic_1_N_454_with_the_new_PartyID_logic_in_concentration_mode",
+  "fullName" : "unknown.Verify_ExecBrok_PartyID_Broker_LEI_logic_1_N_454_with_the_new_PartyID_logic_in_concentration_mode",
+  "historyId" : "d10944de136dde2160fbb64c76b9eed2",
+  "time" : {
+    "start" : 1549637640064,
+    "stop" : 1549637654164,
+    "duration" : 14100
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_ExecBrok_PartyID_Broker_LEI_logic_1_N_454_with_the_new_PartyID_logic_in_concentration_mode"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "69180cab25f6ce6c.json",
+  "parameterValues" : [ ]
+}

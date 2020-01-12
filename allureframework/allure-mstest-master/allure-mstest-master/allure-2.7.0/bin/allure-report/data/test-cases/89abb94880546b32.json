@@ -1,0 +1,45 @@
+{
+  "uid" : "89abb94880546b32",
+  "name" : "ExecutePostNewTradeTest",
+  "fullName" : "unknown.ExecutePostNewTradeTest",
+  "historyId" : "f6010c9afb5a4f5bf2d51a6a1a0e8f7a",
+  "time" : {
+    "start" : 1549646269462,
+    "stop" : 1549646269544,
+    "duration" : 82
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ExecutePostNewTradeTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "89abb94880546b32.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "808f9193f3963c51",
+  "name" : "DeleteTrader_AllOrNothingFalse_ValidInvalid",
+  "fullName" : "unknown.DeleteTrader_AllOrNothingFalse_ValidInvalid",
+  "historyId" : "d718ffe556520d02898dc9a71f6f42b5",
+  "time" : {
+    "start" : 1549622240427,
+    "stop" : 1549622240512,
+    "duration" : 85
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteTrader_AllOrNothingFalse_ValidInvalid"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "808f9193f3963c51.json",
+  "parameterValues" : [ ]
+}

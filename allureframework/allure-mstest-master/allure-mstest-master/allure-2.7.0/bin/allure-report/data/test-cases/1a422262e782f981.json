@@ -1,0 +1,45 @@
+{
+  "uid" : "1a422262e782f981",
+  "name" : "EzeIntradayXML_CheckForDeleteForNewIntraday",
+  "fullName" : "unknown.EzeIntradayXML_CheckForDeleteForNewIntraday",
+  "historyId" : "1844d44c1f8c7cf7feb9604ffb11fe32",
+  "time" : {
+    "start" : 1549628066497,
+    "stop" : 1549628092451,
+    "duration" : 25954
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeIntradayXML_CheckForDeleteForNewIntraday"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a422262e782f981.json",
+  "parameterValues" : [ ]
+}

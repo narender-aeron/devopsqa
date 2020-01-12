@@ -1,0 +1,45 @@
+{
+  "uid" : "478a89c650596eac",
+  "name" : "RetrieveCrossCurrency__success",
+  "fullName" : "unknown.RetrieveCrossCurrency__success",
+  "historyId" : "daf07c1d39703370c7f93b06d47a4e33",
+  "time" : {
+    "start" : 1539023717316,
+    "stop" : 1539023717445,
+    "duration" : 129
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RetrieveCrossCurrency__success"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "478a89c650596eac.json",
+  "parameterValues" : [ ]
+}

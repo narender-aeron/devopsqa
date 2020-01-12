@@ -1,0 +1,45 @@
+{
+  "uid" : "33370aebca858206",
+  "name" : "Verify_ExecBroker_tc_price",
+  "fullName" : "unknown.Verify_ExecBroker_tc_price",
+  "historyId" : "16f96b4af67bf9caf9f93e7ea944b3",
+  "time" : {
+    "start" : 1549638405922,
+    "stop" : 1549638410607,
+    "duration" : 4685
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_ExecBroker_tc_price"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33370aebca858206.json",
+  "parameterValues" : [ ]
+}

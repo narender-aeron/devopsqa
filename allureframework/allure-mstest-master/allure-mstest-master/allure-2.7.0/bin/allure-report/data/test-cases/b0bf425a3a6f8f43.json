@@ -1,0 +1,45 @@
+{
+  "uid" : "b0bf425a3a6f8f43",
+  "name" : "GetNextUniqueIDIndexList_ByCheckingPriceID_ReturnsSameNumberOfRecords",
+  "fullName" : "unknown.GetNextUniqueIDIndexList_ByCheckingPriceID_ReturnsSameNumberOfRecords",
+  "historyId" : "3620fa8df8e95da1225b4773a21cfc0f",
+  "time" : {
+    "start" : 1549646266020,
+    "stop" : 1549646266029,
+    "duration" : 9
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetNextUniqueIDIndexList_ByCheckingPriceID_ReturnsSameNumberOfRecords"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0bf425a3a6f8f43.json",
+  "parameterValues" : [ ]
+}

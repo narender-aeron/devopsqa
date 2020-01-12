@@ -1,0 +1,45 @@
+{
+  "uid" : "e6e754abd32867e",
+  "name" : "Test_InsertSingleExecution_NullRequest",
+  "fullName" : "unknown.Test_InsertSingleExecution_NullRequest",
+  "historyId" : "df968230aabd6cc92416d7066ebf2a85",
+  "time" : {
+    "start" : 1549622556616,
+    "stop" : 1549622567645,
+    "duration" : 11029
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_InsertSingleExecution_NullRequest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6e754abd32867e.json",
+  "parameterValues" : [ ]
+}

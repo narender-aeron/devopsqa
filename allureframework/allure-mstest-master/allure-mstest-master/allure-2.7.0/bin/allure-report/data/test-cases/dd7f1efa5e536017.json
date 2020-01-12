@@ -1,0 +1,45 @@
+{
+  "uid" : "dd7f1efa5e536017",
+  "name" : "TestGetAllocationTargetLot_BuyTrade_IncreaseByPercent_BasisPosition_ForTheoShares_WithExistingTrades_ValidateResponse",
+  "fullName" : "unknown.TestGetAllocationTargetLot_BuyTrade_IncreaseByPercent_BasisPosition_ForTheoShares_WithExistingTrades_ValidateResponse",
+  "historyId" : "72dc82506b30229fc2343301959d7927",
+  "time" : {
+    "start" : 1549645175517,
+    "stop" : 1549645181546,
+    "duration" : 6029
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestGetAllocationTargetLot_BuyTrade_IncreaseByPercent_BasisPosition_ForTheoShares_WithExistingTrades_ValidateResponse"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dd7f1efa5e536017.json",
+  "parameterValues" : [ ]
+}

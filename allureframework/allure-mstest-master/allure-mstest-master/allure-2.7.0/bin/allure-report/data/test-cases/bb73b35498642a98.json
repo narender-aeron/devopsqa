@@ -1,0 +1,45 @@
+{
+  "uid" : "bb73b35498642a98",
+  "name" : "InitializeRealTimeSubscriptionsTest",
+  "fullName" : "unknown.InitializeRealTimeSubscriptionsTest",
+  "historyId" : "6a1bced02851d0928d2054019936652c",
+  "time" : {
+    "start" : 1549621014366,
+    "stop" : 1549621014390,
+    "duration" : 24
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "InitializeRealTimeSubscriptionsTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb73b35498642a98.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "11e683274c7faaba",
+  "name" : "Verify_TransactionTimeMilliSecondPrecisionInboundUnsolicitedCancel",
+  "fullName" : "unknown.Verify_TransactionTimeMilliSecondPrecisionInboundUnsolicitedCancel",
+  "historyId" : "cedfeccfab8fe85095f5b141f2f1b71d",
+  "time" : {
+    "start" : 1539024622154,
+    "stop" : 1539024633937,
+    "duration" : 11783
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_TransactionTimeMilliSecondPrecisionInboundUnsolicitedCancel"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11e683274c7faaba.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "56dba57993422243",
+  "name" : "TradeMerge_BatchSelect_MMT_TradesWithNonOverlappingManagerAllocations",
+  "fullName" : "unknown.TradeMerge_BatchSelect_MMT_TradesWithNonOverlappingManagerAllocations",
+  "historyId" : "ba864882eeadcb058eb12fba5556b373",
+  "time" : {
+    "start" : 1549646580722,
+    "stop" : 1549646586184,
+    "duration" : 5462
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TradeMerge_BatchSelect_MMT_TradesWithNonOverlappingManagerAllocations"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "56dba57993422243.json",
+  "parameterValues" : [ ]
+}

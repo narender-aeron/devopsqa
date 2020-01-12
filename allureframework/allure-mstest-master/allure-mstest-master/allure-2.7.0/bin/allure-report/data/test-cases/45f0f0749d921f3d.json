@@ -1,0 +1,45 @@
+{
+  "uid" : "45f0f0749d921f3d",
+  "name" : "GetLeftAmountForBroker_ByCheckingParticularLeave_ReturnsCorrectRecord",
+  "fullName" : "unknown.GetLeftAmountForBroker_ByCheckingParticularLeave_ReturnsCorrectRecord",
+  "historyId" : "dfe53f4b3841d6534509a210b1abf026",
+  "time" : {
+    "start" : 1549646265740,
+    "stop" : 1549646265929,
+    "duration" : 189
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetLeftAmountForBroker_ByCheckingParticularLeave_ReturnsCorrectRecord"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45f0f0749d921f3d.json",
+  "parameterValues" : [ ]
+}

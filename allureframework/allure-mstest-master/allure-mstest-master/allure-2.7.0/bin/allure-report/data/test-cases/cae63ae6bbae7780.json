@@ -1,0 +1,45 @@
+{
+  "uid" : "cae63ae6bbae7780",
+  "name" : "SendLocates",
+  "fullName" : "unknown.SendLocates",
+  "historyId" : "3f175d8772d01de8e32f58aee4a859d0",
+  "time" : {
+    "start" : 1549634870503,
+    "stop" : 1549634874658,
+    "duration" : 4155
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SendLocates"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cae63ae6bbae7780.json",
+  "parameterValues" : [ ]
+}

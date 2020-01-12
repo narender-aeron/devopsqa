@@ -1,0 +1,45 @@
+{
+  "uid" : "14030131d932a82d",
+  "name" : "ChangeIdmForMultipleAllocations",
+  "fullName" : "unknown.ChangeIdmForMultipleAllocations",
+  "historyId" : "787fa7858ba40d165854651323d67a02",
+  "time" : {
+    "start" : 1539023565603,
+    "stop" : 1539023568806,
+    "duration" : 3203
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ChangeIdmForMultipleAllocations"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14030131d932a82d.json",
+  "parameterValues" : [ ]
+}

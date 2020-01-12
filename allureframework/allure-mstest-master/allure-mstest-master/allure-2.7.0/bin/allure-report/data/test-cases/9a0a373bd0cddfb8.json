@@ -1,0 +1,45 @@
+{
+  "uid" : "9a0a373bd0cddfb8",
+  "name" : "EzeIntradayXML_CheckForAmendInRebillFullIntraday",
+  "fullName" : "unknown.EzeIntradayXML_CheckForAmendInRebillFullIntraday",
+  "historyId" : "a38b192b9031449422961015fa764bc5",
+  "time" : {
+    "start" : 1549628366252,
+    "stop" : 1549628451691,
+    "duration" : 85439
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeIntradayXML_CheckForAmendInRebillFullIntraday"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a0a373bd0cddfb8.json",
+  "parameterValues" : [ ]
+}

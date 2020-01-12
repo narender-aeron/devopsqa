@@ -1,0 +1,45 @@
+{
+  "uid" : "88493ce134ae9eee",
+  "name" : "GetDefTypeUnderlyingTest",
+  "fullName" : "unknown.GetDefTypeUnderlyingTest",
+  "historyId" : "f991aa4a7d07c88534f279231c703e68",
+  "time" : {
+    "start" : 1549626815320,
+    "stop" : 1549626815440,
+    "duration" : 120
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetDefTypeUnderlyingTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88493ce134ae9eee.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "43a9d83d0b1681f7",
+  "name" : "EzeXmlTransformDetail_WithMMDDYYOutFilename",
+  "fullName" : "unknown.EzeXmlTransformDetail_WithMMDDYYOutFilename",
+  "historyId" : "a071c065801e85feb5e62031571b46d2",
+  "time" : {
+    "start" : 1549629252342,
+    "stop" : 1549629253149,
+    "duration" : 807
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeXmlTransformDetail_WithMMDDYYOutFilename"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43a9d83d0b1681f7.json",
+  "parameterValues" : [ ]
+}

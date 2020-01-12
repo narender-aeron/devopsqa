@@ -1,0 +1,45 @@
+{
+  "uid" : "a4e9a100c810acd9",
+  "name" : "GetSICsTest",
+  "fullName" : "unknown.GetSICsTest",
+  "historyId" : "29d70b92e1594679c15314d16e4e88e9",
+  "time" : {
+    "start" : 1549626815209,
+    "stop" : 1549626815320,
+    "duration" : 111
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetSICsTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a4e9a100c810acd9.json",
+  "parameterValues" : [ ]
+}

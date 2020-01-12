@@ -1,0 +1,45 @@
+{
+  "uid" : "4f9783450e94c334",
+  "name" : "GetDoneCounterAmountTest",
+  "fullName" : "unknown.GetDoneCounterAmountTest",
+  "historyId" : "81346d10d8685ac5d353f75a5082b4a2",
+  "time" : {
+    "start" : 1549646268336,
+    "stop" : 1549646268347,
+    "duration" : 11
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetDoneCounterAmountTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4f9783450e94c334.json",
+  "parameterValues" : [ ]
+}

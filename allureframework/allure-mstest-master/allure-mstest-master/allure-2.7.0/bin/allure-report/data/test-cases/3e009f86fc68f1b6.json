@@ -1,0 +1,45 @@
+{
+  "uid" : "3e009f86fc68f1b6",
+  "name" : "GetGICListTest",
+  "fullName" : "unknown.GetGICListTest",
+  "historyId" : "d44411589bd94ca5923731a330f22257",
+  "time" : {
+    "start" : 1549626815082,
+    "stop" : 1549626815209,
+    "duration" : 127
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetGICListTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e009f86fc68f1b6.json",
+  "parameterValues" : [ ]
+}

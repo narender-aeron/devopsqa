@@ -1,0 +1,45 @@
+{
+  "uid" : "2004c4cfaa36c096",
+  "name" : "LoadAllPositionsInAnalyticsGrid",
+  "fullName" : "unknown.LoadAllPositionsInAnalyticsGrid",
+  "historyId" : "b6318a7426db18d584107737994d86dd",
+  "time" : {
+    "start" : 1549630124044,
+    "stop" : 1549630135915,
+    "duration" : 11871
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "LoadAllPositionsInAnalyticsGrid"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2004c4cfaa36c096.json",
+  "parameterValues" : [ ]
+}

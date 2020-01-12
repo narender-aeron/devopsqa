@@ -1,0 +1,45 @@
+{
+  "uid" : "b99e8a1961c37ffd",
+  "name" : "GetArchiveAllocations_BlotterData",
+  "fullName" : "unknown.GetArchiveAllocations_BlotterData",
+  "historyId" : "afe05a32d389323368b5b981cbf62507",
+  "time" : {
+    "start" : 1549646263643,
+    "stop" : 1549646264329,
+    "duration" : 686
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetArchiveAllocations_BlotterData"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b99e8a1961c37ffd.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "8338c901465ae879",
+  "name" : "Verify_PendingReplace_OnMBSOrderQtyDecreaseFromOMS",
+  "fullName" : "unknown.Verify_PendingReplace_OnMBSOrderQtyDecreaseFromOMS",
+  "historyId" : "93d07a2cf3fbd3e6e22f03ed58f3eb8c",
+  "time" : {
+    "start" : 1549638337197,
+    "stop" : 1549638341222,
+    "duration" : 4025
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_PendingReplace_OnMBSOrderQtyDecreaseFromOMS"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8338c901465ae879.json",
+  "parameterValues" : [ ]
+}

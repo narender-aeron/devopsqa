@@ -1,0 +1,45 @@
+{
+  "uid" : "36e19b1d7ca696f1",
+  "name" : "TradeMerge_CollapseBlotter_Targeted_Trades_MultipleBrokers_RunCompliance_ProcessUserOverridingComplianceAction",
+  "fullName" : "unknown.TradeMerge_CollapseBlotter_Targeted_Trades_MultipleBrokers_RunCompliance_ProcessUserOverridingComplianceAction",
+  "historyId" : "3ac642df8b20b94e9c78a187e4bba3fd",
+  "time" : {
+    "start" : 1549646813395,
+    "stop" : 1549646819801,
+    "duration" : 6406
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TradeMerge_CollapseBlotter_Targeted_Trades_MultipleBrokers_RunCompliance_ProcessUserOverridingComplianceAction"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36e19b1d7ca696f1.json",
+  "parameterValues" : [ ]
+}

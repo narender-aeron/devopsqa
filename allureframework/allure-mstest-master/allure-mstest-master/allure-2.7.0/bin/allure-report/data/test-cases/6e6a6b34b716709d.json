@@ -1,0 +1,45 @@
+{
+  "uid" : "6e6a6b34b716709d",
+  "name" : "WhenNotifying_TraderIsMissing_TraderRetrievedFromBrokerRow",
+  "fullName" : "unknown.WhenNotifying_TraderIsMissing_TraderRetrievedFromBrokerRow",
+  "historyId" : "4be39bcf49323681223d9154e0fe5629",
+  "time" : {
+    "start" : 1549632610660,
+    "stop" : 1549632610675,
+    "duration" : 15
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenNotifying_TraderIsMissing_TraderRetrievedFromBrokerRow"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6e6a6b34b716709d.json",
+  "parameterValues" : [ ]
+}

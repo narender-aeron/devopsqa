@@ -1,0 +1,45 @@
+{
+  "uid" : "5c6fee8eaff126d3",
+  "name" : "TradeMerge_BatchSelect_Targeted_Trades_MultipleBrokers_RunCompliance_ViolationReported",
+  "fullName" : "unknown.TradeMerge_BatchSelect_Targeted_Trades_MultipleBrokers_RunCompliance_ViolationReported",
+  "historyId" : "8ae5c06932293ebd8476aa24fda3ace9",
+  "time" : {
+    "start" : 1539022304371,
+    "stop" : 1539022311937,
+    "duration" : 7566
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TradeMerge_BatchSelect_Targeted_Trades_MultipleBrokers_RunCompliance_ViolationReported"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c6fee8eaff126d3.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "7d24b80cf148d951",
+  "name" : "SaveTradeSequenceTest_TotalAmountLessThanCommittedAmount_ReturnValidationInfo",
+  "fullName" : "unknown.SaveTradeSequenceTest_TotalAmountLessThanCommittedAmount_ReturnValidationInfo",
+  "historyId" : "65a04694634a86d284da1b3de5ef6cb4",
+  "time" : {
+    "start" : 1549645438840,
+    "stop" : 1549645445299,
+    "duration" : 6459
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SaveTradeSequenceTest_TotalAmountLessThanCommittedAmount_ReturnValidationInfo"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d24b80cf148d951.json",
+  "parameterValues" : [ ]
+}

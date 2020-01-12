@@ -1,0 +1,45 @@
+{
+  "uid" : "bc740dec01f5b15c",
+  "name" : "ProcessResidual_TradeWithSingleBroker_CreateBrokersWithLeavesIsTrue_ResidualTradeIsCreatedWithBroker",
+  "fullName" : "unknown.ProcessResidual_TradeWithSingleBroker_CreateBrokersWithLeavesIsTrue_ResidualTradeIsCreatedWithBroker",
+  "historyId" : "b4323cfe1cf2f0a359703ec8a3367c9b",
+  "time" : {
+    "start" : 1549646366388,
+    "stop" : 1549646387911,
+    "duration" : 21523
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ProcessResidual_TradeWithSingleBroker_CreateBrokersWithLeavesIsTrue_ResidualTradeIsCreatedWithBroker"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bc740dec01f5b15c.json",
+  "parameterValues" : [ ]
+}

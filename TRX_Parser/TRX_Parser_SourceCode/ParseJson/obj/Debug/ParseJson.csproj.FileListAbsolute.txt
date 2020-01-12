@@ -1,0 +1,11 @@
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\ParseJson\bin\Debug\ParseJson.exe.config
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\ParseJson\bin\Debug\ParseJson.exe
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\ParseJson\bin\Debug\ParseJson.pdb
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\ParseJson\bin\Debug\CommonUtils.dll
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\ParseJson\bin\Debug\Newtonsoft.Json.Net20.dll
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\ParseJson\bin\Debug\CommonUtils.pdb
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\ParseJson\obj\Debug\ParseJson.exe
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\ParseJson\obj\Debug\ParseJson.pdb
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\ParseJson\obj\Debug\ParseJson.csprojAssemblyReference.cache
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\ParseJson\obj\Debug\ParseJson.csproj.CoreCompileInputs.cache
+D:\thirdparty\TRX_Parser\TRX_Parser_SourceCode\ParseJson\obj\Debug\ParseJson.csproj.CopyComplete

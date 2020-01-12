@@ -1,0 +1,45 @@
+{
+  "uid" : "2c33a98b524f63ed",
+  "name" : "SendTradeToStagingBlotterFromModeling",
+  "fullName" : "unknown.SendTradeToStagingBlotterFromModeling",
+  "historyId" : "e8398b9926fbc9f36257fd1e28466fff",
+  "time" : {
+    "start" : 1539026158800,
+    "stop" : 1539026186816,
+    "duration" : 28016
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SendTradeToStagingBlotterFromModeling"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c33a98b524f63ed.json",
+  "parameterValues" : [ ]
+}

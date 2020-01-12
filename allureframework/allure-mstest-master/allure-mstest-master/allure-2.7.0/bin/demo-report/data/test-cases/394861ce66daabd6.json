@@ -1,0 +1,45 @@
+{
+  "uid" : "394861ce66daabd6",
+  "name" : "Verify_ComplianceViolation",
+  "fullName" : "unknown.Verify_ComplianceViolation",
+  "historyId" : "60a59068d1c0f7742e0d65858cfbf8c2",
+  "time" : {
+    "start" : 1539025792453,
+    "stop" : 1539025856177,
+    "duration" : 63724
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_ComplianceViolation"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "394861ce66daabd6.json",
+  "parameterValues" : [ ]
+}

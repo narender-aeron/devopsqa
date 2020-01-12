@@ -1,0 +1,45 @@
+{
+  "uid" : "495a17ae31dd5982",
+  "name" : "Verify_IOI",
+  "fullName" : "unknown.Verify_IOI",
+  "historyId" : "6bf9578f1388c242e56279e1fe3ec0ef",
+  "time" : {
+    "start" : 1549639241105,
+    "stop" : 1549639243208,
+    "duration" : 2103
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_IOI"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "495a17ae31dd5982.json",
+  "parameterValues" : [ ]
+}

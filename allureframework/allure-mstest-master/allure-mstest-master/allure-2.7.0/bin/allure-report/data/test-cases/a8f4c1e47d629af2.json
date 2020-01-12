@@ -1,0 +1,45 @@
+{
+  "uid" : "a8f4c1e47d629af2",
+  "name" : "RetrieveSecurityWithAlias1Test_Success",
+  "fullName" : "unknown.RetrieveSecurityWithAlias1Test_Success",
+  "historyId" : "2ba4a9fefadcb7100d56f698d7abf3c",
+  "time" : {
+    "start" : 1549624308107,
+    "stop" : 1549624308364,
+    "duration" : 257
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RetrieveSecurityWithAlias1Test_Success"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8f4c1e47d629af2.json",
+  "parameterValues" : [ ]
+}

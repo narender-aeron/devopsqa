@@ -1,0 +1,45 @@
+{
+  "uid" : "ecea02815a130c62",
+  "name" : "DeleteCurrency__success",
+  "fullName" : "unknown.DeleteCurrency__success",
+  "historyId" : "c95fda8635744a41e103fb5fb0852898",
+  "time" : {
+    "start" : 1549622222725,
+    "stop" : 1549622222931,
+    "duration" : 206
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteCurrency__success"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ecea02815a130c62.json",
+  "parameterValues" : [ ]
+}

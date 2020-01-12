@@ -1,0 +1,45 @@
+{
+  "uid" : "38b5c3550015cf3e",
+  "name" : "WhenEditingStagedPairOrdersFailsEDIExpectPendingClerkReject",
+  "fullName" : "unknown.WhenEditingStagedPairOrdersFailsEDIExpectPendingClerkReject",
+  "historyId" : "adfb77b825509af1ffede0ff45a42e47",
+  "time" : {
+    "start" : 1539021660936,
+    "stop" : 1539021664953,
+    "duration" : 4017
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenEditingStagedPairOrdersFailsEDIExpectPendingClerkReject"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38b5c3550015cf3e.json",
+  "parameterValues" : [ ]
+}

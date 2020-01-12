@@ -1,0 +1,45 @@
+{
+  "uid" : "235b15153087d1df",
+  "name" : "AfterRiskServiceStartUp_DiagnosticMessagesDoNotContainDuplicateMessages",
+  "fullName" : "unknown.AfterRiskServiceStartUp_DiagnosticMessagesDoNotContainDuplicateMessages",
+  "historyId" : "5291d3e15e5205df08880e37263bfdd2",
+  "time" : {
+    "start" : 1549647884330,
+    "stop" : 1549647887662,
+    "duration" : 3332
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "AfterRiskServiceStartUp_DiagnosticMessagesDoNotContainDuplicateMessages"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "235b15153087d1df.json",
+  "parameterValues" : [ ]
+}

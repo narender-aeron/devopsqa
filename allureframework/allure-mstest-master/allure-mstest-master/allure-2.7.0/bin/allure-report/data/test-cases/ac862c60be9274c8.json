@@ -1,0 +1,45 @@
+{
+  "uid" : "ac862c60be9274c8",
+  "name" : "TradeMerge_CollapseBlotter_MMT_Trades_SingleElectronicBroker",
+  "fullName" : "unknown.TradeMerge_CollapseBlotter_MMT_Trades_SingleElectronicBroker",
+  "historyId" : "4ee44b07cc5fce4795950d96309b190",
+  "time" : {
+    "start" : 1549646761589,
+    "stop" : 1549646767538,
+    "duration" : 5949
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TradeMerge_CollapseBlotter_MMT_Trades_SingleElectronicBroker"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ac862c60be9274c8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "6f96b86b8d2a32a3",
+  "name" : "TestTradeRule_AutoCreateNewMStateStagedHedge",
+  "fullName" : "unknown.TestTradeRule_AutoCreateNewMStateStagedHedge",
+  "historyId" : "ad158b81a5a249b34f737dd84e8e502a",
+  "time" : {
+    "start" : 1549646899982,
+    "stop" : 1549646905123,
+    "duration" : 5141
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestTradeRule_AutoCreateNewMStateStagedHedge"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f96b86b8d2a32a3.json",
+  "parameterValues" : [ ]
+}

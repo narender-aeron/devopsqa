@@ -1,0 +1,45 @@
+{
+  "uid" : "33a812ec2ca8f8c8",
+  "name" : "InsertIntoTradeTable_ByCheckingCountOfRows",
+  "fullName" : "unknown.InsertIntoTradeTable_ByCheckingCountOfRows",
+  "historyId" : "645f409cdc132de9568bc1ea86f2edf3",
+  "time" : {
+    "start" : 1549646266107,
+    "stop" : 1549646266875,
+    "duration" : 768
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "InsertIntoTradeTable_ByCheckingCountOfRows"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33a812ec2ca8f8c8.json",
+  "parameterValues" : [ ]
+}

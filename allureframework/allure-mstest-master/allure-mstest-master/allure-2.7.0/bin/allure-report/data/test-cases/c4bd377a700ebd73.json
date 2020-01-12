@@ -1,0 +1,45 @@
+{
+  "uid" : "c4bd377a700ebd73",
+  "name" : "InsertBrokerUDF_AcceptsUserDefinedField_ForStringType",
+  "fullName" : "unknown.InsertBrokerUDF_AcceptsUserDefinedField_ForStringType",
+  "historyId" : "f43ddd04c6498dbfba91e4435adb59d8",
+  "time" : {
+    "start" : 1549646271443,
+    "stop" : 1549646271457,
+    "duration" : 14
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "InsertBrokerUDF_AcceptsUserDefinedField_ForStringType"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c4bd377a700ebd73.json",
+  "parameterValues" : [ ]
+}

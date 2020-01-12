@@ -1,0 +1,45 @@
+{
+  "uid" : "cea297d3fdcee8a5",
+  "name" : "PerUnitBrokerFeeTest",
+  "fullName" : "unknown.PerUnitBrokerFeeTest",
+  "historyId" : "d7fad2f19fe5d188d71b53fca19d0875",
+  "time" : {
+    "start" : 1549645234334,
+    "stop" : 1549645240392,
+    "duration" : 6058
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "PerUnitBrokerFeeTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cea297d3fdcee8a5.json",
+  "parameterValues" : [ ]
+}

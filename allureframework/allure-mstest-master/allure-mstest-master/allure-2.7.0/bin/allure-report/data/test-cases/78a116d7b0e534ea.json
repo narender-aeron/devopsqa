@@ -1,0 +1,45 @@
+{
+  "uid" : "78a116d7b0e534ea",
+  "name" : "ValidateSubscriptionForBlotterSymbolsUsingRealtimeAdapter",
+  "fullName" : "unknown.ValidateSubscriptionForBlotterSymbolsUsingRealtimeAdapter",
+  "historyId" : "3bb69c3293fe8a53014154ca15a04dca",
+  "time" : {
+    "start" : 1549621037242,
+    "stop" : 1549621037276,
+    "duration" : 34
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ValidateSubscriptionForBlotterSymbolsUsingRealtimeAdapter"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "78a116d7b0e534ea.json",
+  "parameterValues" : [ ]
+}

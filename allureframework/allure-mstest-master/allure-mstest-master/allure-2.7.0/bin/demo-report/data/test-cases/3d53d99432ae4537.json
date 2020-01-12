@@ -1,0 +1,45 @@
+{
+  "uid" : "3d53d99432ae4537",
+  "name" : "WhenConnectWithServerByHeartBeat",
+  "fullName" : "unknown.WhenConnectWithServerByHeartBeat",
+  "historyId" : "cca432762ba7c71282f5c47e54f696cc",
+  "time" : {
+    "start" : 1539021040761,
+    "stop" : 1539021041827,
+    "duration" : 1066
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenConnectWithServerByHeartBeat"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d53d99432ae4537.json",
+  "parameterValues" : [ ]
+}

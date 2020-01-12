@@ -1,0 +1,45 @@
+{
+  "uid" : "3338b33739a9d9da",
+  "name" : "WhenUsingLookThroughByPortSector_LookThroughFalse",
+  "fullName" : "unknown.WhenUsingLookThroughByPortSector_LookThroughFalse",
+  "historyId" : "be2eec8e69ade33b49b72d5390f5945c",
+  "time" : {
+    "start" : 1539021190429,
+    "stop" : 1539021190479,
+    "duration" : 50
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenUsingLookThroughByPortSector_LookThroughFalse"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3338b33739a9d9da.json",
+  "parameterValues" : [ ]
+}

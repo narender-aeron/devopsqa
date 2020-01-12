@@ -1,0 +1,45 @@
+{
+  "uid" : "2076dd05d2d5c6f4",
+  "name" : "Verify_MDO_DFDUpdateQtyOnTradeGen",
+  "fullName" : "unknown.Verify_MDO_DFDUpdateQtyOnTradeGen",
+  "historyId" : "45343320540da8dfe01c4f3fd6357722",
+  "time" : {
+    "start" : 1549640129047,
+    "stop" : 1549640249534,
+    "duration" : 120487
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_MDO_DFDUpdateQtyOnTradeGen"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2076dd05d2d5c6f4.json",
+  "parameterValues" : [ ]
+}

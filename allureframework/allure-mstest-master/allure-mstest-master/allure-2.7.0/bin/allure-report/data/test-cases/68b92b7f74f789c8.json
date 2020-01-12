@@ -1,0 +1,51 @@
+{
+  "uid" : "68b92b7f74f789c8",
+  "name" : "Test_UpdateSingleExecution",
+  "fullName" : "unknown.Test_UpdateSingleExecution",
+  "historyId" : "dd835568aaba027d83c6b94e5ab03482",
+  "time" : {
+    "start" : 1549622657856,
+    "stop" : 1549622828423,
+    "duration" : 170567
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Assert.AreEqual failed. Expected:<>. Actual:<{\"errors\":[{\"tradeId\":\"20190208000D\",\"orderId\":\"20190208000D\",\"errorType\":\"ERR_ValidationFailure\",\"message\":\"The request cannot be processed. The Order cannot be overfilled. Contact your Eze client service representative if you require assistance.\"}]}>. ",
+  "statusTrace" : "   at Eze.Integration.Functional.Test.EzeInterface.RestAPITests.ExecutionsApiTests.UpdateExecutionTests.<Test_UpdateSingleExecution>d__15.MoveNext() in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\EzeInterface\\RestAPITests\\ExecutionApiTests\\UpdateExecutionTests.cs:line 166\n--- End of stack trace from previous location where exception was thrown ---\n   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\n   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()\n",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_UpdateSingleExecution"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "68b92b7f74f789c8.json",
+  "parameterValues" : [ ]
+}

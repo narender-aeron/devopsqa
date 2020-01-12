@@ -1,0 +1,45 @@
+{
+  "uid" : "7c096197757c6efc",
+  "name" : "TestGetAllocationTargetLotForBuyTrade_WithRoundTo1_MinAmount23",
+  "fullName" : "unknown.TestGetAllocationTargetLotForBuyTrade_WithRoundTo1_MinAmount23",
+  "historyId" : "5a7cbdd214ea81d99fdf6e1560871f8d",
+  "time" : {
+    "start" : 1549645199715,
+    "stop" : 1549645199735,
+    "duration" : 20
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestGetAllocationTargetLotForBuyTrade_WithRoundTo1_MinAmount23"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c096197757c6efc.json",
+  "parameterValues" : [ ]
+}

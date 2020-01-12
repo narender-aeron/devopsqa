@@ -1,0 +1,45 @@
+{
+  "uid" : "11f723499888c442",
+  "name" : "GetRatingAgencies",
+  "fullName" : "unknown.GetRatingAgencies",
+  "historyId" : "5ef5bfe686993022a245feebfe7ab58f",
+  "time" : {
+    "start" : 1549626816432,
+    "stop" : 1549626816571,
+    "duration" : 139
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetRatingAgencies"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11f723499888c442.json",
+  "parameterValues" : [ ]
+}

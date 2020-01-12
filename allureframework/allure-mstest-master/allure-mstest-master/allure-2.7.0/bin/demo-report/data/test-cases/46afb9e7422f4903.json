@@ -1,0 +1,45 @@
+{
+  "uid" : "46afb9e7422f4903",
+  "name" : "ValidateSubscriptionTest",
+  "fullName" : "unknown.ValidateSubscriptionTest",
+  "historyId" : "fe093182cec58ca5ff755adb2af0ac82",
+  "time" : {
+    "start" : 1539022004951,
+    "stop" : 1539022005192,
+    "duration" : 241
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ValidateSubscriptionTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "46afb9e7422f4903.json",
+  "parameterValues" : [ ]
+}

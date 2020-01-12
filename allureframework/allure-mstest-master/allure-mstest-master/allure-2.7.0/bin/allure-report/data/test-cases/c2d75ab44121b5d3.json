@@ -1,0 +1,45 @@
+{
+  "uid" : "c2d75ab44121b5d3",
+  "name" : "CreateForwardBuyTrade_WithDefaultDates",
+  "fullName" : "unknown.CreateForwardBuyTrade_WithDefaultDates",
+  "historyId" : "801d82bfadd4a54d0fe72812f484a49",
+  "time" : {
+    "start" : 1549624619495,
+    "stop" : 1549624623785,
+    "duration" : 4290
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreateForwardBuyTrade_WithDefaultDates"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2d75ab44121b5d3.json",
+  "parameterValues" : [ ]
+}

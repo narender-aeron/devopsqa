@@ -1,0 +1,45 @@
+{
+  "uid" : "da2dead8f74b9dd3",
+  "name" : "ClearSelectedFromGrid",
+  "fullName" : "unknown.ClearSelectedFromGrid",
+  "historyId" : "8a55673bec95a5641579ef4efb3a16db",
+  "time" : {
+    "start" : 1549631232776,
+    "stop" : 1549631241512,
+    "duration" : 8736
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ClearSelectedFromGrid"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "da2dead8f74b9dd3.json",
+  "parameterValues" : [ ]
+}

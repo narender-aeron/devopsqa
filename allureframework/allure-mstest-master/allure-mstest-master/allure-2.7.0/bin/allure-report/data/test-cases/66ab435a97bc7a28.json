@@ -1,0 +1,45 @@
+{
+  "uid" : "66ab435a97bc7a28",
+  "name" : "UpdateTrade_Error_TradingServiceNotRunning",
+  "fullName" : "unknown.UpdateTrade_Error_TradingServiceNotRunning",
+  "historyId" : "b4be6304b4654289d97cde3c741c2ac",
+  "time" : {
+    "start" : 1549625049007,
+    "stop" : 1549625090441,
+    "duration" : 41434
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateTrade_Error_TradingServiceNotRunning"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "66ab435a97bc7a28.json",
+  "parameterValues" : [ ]
+}

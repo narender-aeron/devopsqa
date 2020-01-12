@@ -1,0 +1,45 @@
+{
+  "uid" : "99b87e8b0c406ed1",
+  "name" : "WhenRunningTradeForNeed_SpotPct120_ColumnValuesAreCorrect",
+  "fullName" : "unknown.WhenRunningTradeForNeed_SpotPct120_ColumnValuesAreCorrect",
+  "historyId" : "7157f30270b6bd375955d081056125b0",
+  "time" : {
+    "start" : 1549621479398,
+    "stop" : 1549621479607,
+    "duration" : 209
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenRunningTradeForNeed_SpotPct120_ColumnValuesAreCorrect"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99b87e8b0c406ed1.json",
+  "parameterValues" : [ ]
+}

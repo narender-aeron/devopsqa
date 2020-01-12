@@ -1,0 +1,45 @@
+{
+  "uid" : "2d2503b412902d09",
+  "name" : "WhenNotifyingMRS_FilteringOnTraderFirm_ChangingTraderWritesNewFilterLogMessage",
+  "fullName" : "unknown.WhenNotifyingMRS_FilteringOnTraderFirm_ChangingTraderWritesNewFilterLogMessage",
+  "historyId" : "cb2529e829ae631d873dfc2979e992da",
+  "time" : {
+    "start" : 1539025112565,
+    "stop" : 1539025173564,
+    "duration" : 60999
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenNotifyingMRS_FilteringOnTraderFirm_ChangingTraderWritesNewFilterLogMessage"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2d2503b412902d09.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "e883de7e7204589a",
+  "name" : "CreatetradewithOrderSideasShort",
+  "fullName" : "unknown.CreatetradewithOrderSideasShort",
+  "historyId" : "7a445f2838b48832489243332eca9433",
+  "time" : {
+    "start" : 1549624489629,
+    "stop" : 1549624492648,
+    "duration" : 3019
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreatetradewithOrderSideasShort"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e883de7e7204589a.json",
+  "parameterValues" : [ ]
+}

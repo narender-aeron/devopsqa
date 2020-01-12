@@ -1,0 +1,45 @@
+{
+  "uid" : "c575973d845a61b5",
+  "name" : "TradeMerge_CollapseBlotter_MergeBrokers",
+  "fullName" : "unknown.TradeMerge_CollapseBlotter_MergeBrokers",
+  "historyId" : "2f2ab23ec86e8877b70c2f727b5ada50",
+  "time" : {
+    "start" : 1549646506238,
+    "stop" : 1549646513975,
+    "duration" : 7737
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TradeMerge_CollapseBlotter_MergeBrokers"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c575973d845a61b5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "6ab2270ed1c4b21a",
+  "name" : "WhenExecutingManualTradeRuleTheRuleIsAppliedOnTheTrade",
+  "fullName" : "unknown.WhenExecutingManualTradeRuleTheRuleIsAppliedOnTheTrade",
+  "historyId" : "9f5e907d76e2bebb1c16960ce58e6a77",
+  "time" : {
+    "start" : 1549646819958,
+    "stop" : 1549646825727,
+    "duration" : 5769
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenExecutingManualTradeRuleTheRuleIsAppliedOnTheTrade"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6ab2270ed1c4b21a.json",
+  "parameterValues" : [ ]
+}

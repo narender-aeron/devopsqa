@@ -1,0 +1,45 @@
+{
+  "uid" : "4299d6117c3fe14e",
+  "name" : "DeleteSecurities",
+  "fullName" : "unknown.DeleteSecurities",
+  "historyId" : "352841491d56005ebecffaabd711d7d3",
+  "time" : {
+    "start" : 1539021273456,
+    "stop" : 1539021274247,
+    "duration" : 791
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteSecurities"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4299d6117c3fe14e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "19537c3e9a8b83c8",
+  "name" : "WhenBMATradeReturnsTargetedTrade",
+  "fullName" : "unknown.WhenBMATradeReturnsTargetedTrade",
+  "historyId" : "b84949c21fa3a0a83a5ccb4da1b601a6",
+  "time" : {
+    "start" : 1549647377631,
+    "stop" : 1549647382956,
+    "duration" : 5325
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenBMATradeReturnsTargetedTrade"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19537c3e9a8b83c8.json",
+  "parameterValues" : [ ]
+}

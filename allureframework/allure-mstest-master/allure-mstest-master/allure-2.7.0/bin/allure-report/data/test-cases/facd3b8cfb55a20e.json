@@ -1,0 +1,45 @@
+{
+  "uid" : "facd3b8cfb55a20e",
+  "name" : "Verify_NewF9Trade_WithBrokerUDF",
+  "fullName" : "unknown.Verify_NewF9Trade_WithBrokerUDF",
+  "historyId" : "4c2d2b8bc36f6063ad8016ec994b51af",
+  "time" : {
+    "start" : 1549639627443,
+    "stop" : 1549639648290,
+    "duration" : 20847
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_NewF9Trade_WithBrokerUDF"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "facd3b8cfb55a20e.json",
+  "parameterValues" : [ ]
+}

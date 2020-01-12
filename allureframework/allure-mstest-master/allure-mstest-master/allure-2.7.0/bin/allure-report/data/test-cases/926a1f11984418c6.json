@@ -1,0 +1,45 @@
+{
+  "uid" : "926a1f11984418c6",
+  "name" : "WhenRunningTradeForNeed_ClosedCashBalancesTrue_Tolerance6000_ColumnValuesAreCorrect",
+  "fullName" : "unknown.WhenRunningTradeForNeed_ClosedCashBalancesTrue_Tolerance6000_ColumnValuesAreCorrect",
+  "historyId" : "7ee556dacba66e96bf8662ed4b373393",
+  "time" : {
+    "start" : 1549621474044,
+    "stop" : 1549621474288,
+    "duration" : 244
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenRunningTradeForNeed_ClosedCashBalancesTrue_Tolerance6000_ColumnValuesAreCorrect"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "926a1f11984418c6.json",
+  "parameterValues" : [ ]
+}

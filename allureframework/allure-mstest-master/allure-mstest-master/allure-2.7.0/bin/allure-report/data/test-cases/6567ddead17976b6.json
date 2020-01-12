@@ -1,0 +1,45 @@
+{
+  "uid" : "6567ddead17976b6",
+  "name" : "WhenCheckingCompliance_FileBasedTradeEntry_RunComplianceAPI_ViolationsReported",
+  "fullName" : "unknown.WhenCheckingCompliance_FileBasedTradeEntry_RunComplianceAPI_ViolationsReported",
+  "historyId" : "fb0cf12ed275868407ab17ba8fca1de2",
+  "time" : {
+    "start" : 1549644775749,
+    "stop" : 1549644776136,
+    "duration" : 387
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCheckingCompliance_FileBasedTradeEntry_RunComplianceAPI_ViolationsReported"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6567ddead17976b6.json",
+  "parameterValues" : [ ]
+}

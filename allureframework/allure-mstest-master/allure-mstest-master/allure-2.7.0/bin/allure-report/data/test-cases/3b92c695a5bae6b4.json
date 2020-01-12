@@ -1,0 +1,45 @@
+{
+  "uid" : "3b92c695a5bae6b4",
+  "name" : "WhenNotifying_MultipleFills_MissingBrokerDataSucessfullyRetrieved",
+  "fullName" : "unknown.WhenNotifying_MultipleFills_MissingBrokerDataSucessfullyRetrieved",
+  "historyId" : "f91525bcb8f7d5b8187cbaa54d9ea4de",
+  "time" : {
+    "start" : 1549632606899,
+    "stop" : 1549632610597,
+    "duration" : 3698
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenNotifying_MultipleFills_MissingBrokerDataSucessfullyRetrieved"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b92c695a5bae6b4.json",
+  "parameterValues" : [ ]
+}

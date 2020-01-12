@@ -1,0 +1,45 @@
+{
+  "uid" : "3d6b78ae161c2a8a",
+  "name" : "Verify_BrokerTraderDefaultsToTradeTraderSetting_False_TradeGen_MatchAppend",
+  "fullName" : "unknown.Verify_BrokerTraderDefaultsToTradeTraderSetting_False_TradeGen_MatchAppend",
+  "historyId" : "bd293ed92f1ed6428b66fa9945dc7f5b",
+  "time" : {
+    "start" : 1549637895182,
+    "stop" : 1549637930291,
+    "duration" : 35109
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_BrokerTraderDefaultsToTradeTraderSetting_False_TradeGen_MatchAppend"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d6b78ae161c2a8a.json",
+  "parameterValues" : [ ]
+}

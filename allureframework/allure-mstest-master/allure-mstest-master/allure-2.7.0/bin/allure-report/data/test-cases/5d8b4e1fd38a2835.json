@@ -1,0 +1,45 @@
+{
+  "uid" : "5d8b4e1fd38a2835",
+  "name" : "CheckSecurityExists_ByCheckingParticularSecurity_ReturnsTrue",
+  "fullName" : "unknown.CheckSecurityExists_ByCheckingParticularSecurity_ReturnsTrue",
+  "historyId" : "f71056448d3f7622e2b54b7f3b84a31c",
+  "time" : {
+    "start" : 1549646265306,
+    "stop" : 1549646265610,
+    "duration" : 304
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CheckSecurityExists_ByCheckingParticularSecurity_ReturnsTrue"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d8b4e1fd38a2835.json",
+  "parameterValues" : [ ]
+}

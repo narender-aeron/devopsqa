@@ -1,0 +1,45 @@
+{
+  "uid" : "a42e2a35e1bfa363",
+  "name" : "CheckTraderExists_ByCheckingParticularTrader_ReturnsTrue",
+  "fullName" : "unknown.CheckTraderExists_ByCheckingParticularTrader_ReturnsTrue",
+  "historyId" : "79b09d16532539611277bba20a774c7",
+  "time" : {
+    "start" : 1549646265733,
+    "stop" : 1549646265740,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CheckTraderExists_ByCheckingParticularTrader_ReturnsTrue"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a42e2a35e1bfa363.json",
+  "parameterValues" : [ ]
+}

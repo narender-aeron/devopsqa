@@ -1,0 +1,45 @@
+{
+  "uid" : "e5756fafaa929564",
+  "name" : "Test_UpdateExecution_WithInValidAutocalculationField_ExpectedBadRequest",
+  "fullName" : "unknown.Test_UpdateExecution_WithInValidAutocalculationField_ExpectedBadRequest",
+  "historyId" : "10647db52bfd3ad87006d1b3d94dd899",
+  "time" : {
+    "start" : 1549622907120,
+    "stop" : 1549622917517,
+    "duration" : 10397
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_UpdateExecution_WithInValidAutocalculationField_ExpectedBadRequest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e5756fafaa929564.json",
+  "parameterValues" : [ ]
+}

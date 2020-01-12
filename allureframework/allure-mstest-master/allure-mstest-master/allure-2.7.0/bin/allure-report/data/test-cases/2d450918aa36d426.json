@@ -1,0 +1,45 @@
+{
+  "uid" : "2d450918aa36d426",
+  "name" : "TestGetAllocationTargetLot_ShortTrade_IncreaseByPercent_BasisTotalAssets_ForCurrentShares_WithExistingTrades_ValidateResponse",
+  "fullName" : "unknown.TestGetAllocationTargetLot_ShortTrade_IncreaseByPercent_BasisTotalAssets_ForCurrentShares_WithExistingTrades_ValidateResponse",
+  "historyId" : "874930942d2f03c6f160273cab9daf2a",
+  "time" : {
+    "start" : 1549645181548,
+    "stop" : 1549645187592,
+    "duration" : 6044
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestGetAllocationTargetLot_ShortTrade_IncreaseByPercent_BasisTotalAssets_ForCurrentShares_WithExistingTrades_ValidateResponse"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2d450918aa36d426.json",
+  "parameterValues" : [ ]
+}

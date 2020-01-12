@@ -1,0 +1,45 @@
+{
+  "uid" : "7f00841886b8f118",
+  "name" : "WhenGettingByXColumns",
+  "fullName" : "unknown.WhenGettingByXColumns",
+  "historyId" : "4f2a09d6fe9faac6a993a199ddc14ee0",
+  "time" : {
+    "start" : 1549630279708,
+    "stop" : 1549630280737,
+    "duration" : 1029
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingByXColumns"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7f00841886b8f118.json",
+  "parameterValues" : [ ]
+}

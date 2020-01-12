@@ -1,0 +1,45 @@
+{
+  "uid" : "83c32b05d7975ffc",
+  "name" : "WhenSendingTradesForTradeForNeed_TargetFXPct_ColumnValuesAreCorrect",
+  "fullName" : "unknown.WhenSendingTradesForTradeForNeed_TargetFXPct_ColumnValuesAreCorrect",
+  "historyId" : "ac47badb10291b200b7f18a7a00632cb",
+  "time" : {
+    "start" : 1549621481651,
+    "stop" : 1549621481973,
+    "duration" : 322
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenSendingTradesForTradeForNeed_TargetFXPct_ColumnValuesAreCorrect"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "83c32b05d7975ffc.json",
+  "parameterValues" : [ ]
+}

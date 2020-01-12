@@ -1,0 +1,45 @@
+{
+  "uid" : "379423edfabfe371",
+  "name" : "SaveCatDefList_BySavingPrepardList_RecoredUpdatedCorrectly",
+  "fullName" : "unknown.SaveCatDefList_BySavingPrepardList_RecoredUpdatedCorrectly",
+  "historyId" : "4ba74f6904d18f40ddfa62389ee3b920",
+  "time" : {
+    "start" : 1549646271305,
+    "stop" : 1549646271317,
+    "duration" : 12
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SaveCatDefList_BySavingPrepardList_RecoredUpdatedCorrectly"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "379423edfabfe371.json",
+  "parameterValues" : [ ]
+}

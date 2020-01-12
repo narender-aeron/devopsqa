@@ -1,0 +1,45 @@
+{
+  "uid" : "707795df76cf3c78",
+  "name" : "EnterF5CoverTrade_AttemptHoldingsOvercover",
+  "fullName" : "unknown.EnterF5CoverTrade_AttemptHoldingsOvercover",
+  "historyId" : "626f3f0bd5d0958d19be904b3fd4600b",
+  "time" : {
+    "start" : 1549645372257,
+    "stop" : 1549645377351,
+    "duration" : 5094
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EnterF5CoverTrade_AttemptHoldingsOvercover"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "707795df76cf3c78.json",
+  "parameterValues" : [ ]
+}

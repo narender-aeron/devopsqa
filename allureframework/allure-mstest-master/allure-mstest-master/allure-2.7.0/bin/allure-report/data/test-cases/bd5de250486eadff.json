@@ -1,0 +1,45 @@
+{
+  "uid" : "bd5de250486eadff",
+  "name" : "InsertUserDelayedAction",
+  "fullName" : "unknown.InsertUserDelayedAction",
+  "historyId" : "bbe0896cb204d4f00dfd55fdd4bb886e",
+  "time" : {
+    "start" : 1549646270629,
+    "stop" : 1549646270661,
+    "duration" : 32
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "InsertUserDelayedAction"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bd5de250486eadff.json",
+  "parameterValues" : [ ]
+}

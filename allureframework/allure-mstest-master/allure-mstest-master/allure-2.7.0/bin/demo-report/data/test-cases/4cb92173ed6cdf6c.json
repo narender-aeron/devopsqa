@@ -1,0 +1,45 @@
+{
+  "uid" : "4cb92173ed6cdf6c",
+  "name" : "WhenEditintChildOrderToSPFailsEDIValidationExpectTwoPendingTwoClerkReject",
+  "fullName" : "unknown.WhenEditintChildOrderToSPFailsEDIValidationExpectTwoPendingTwoClerkReject",
+  "historyId" : "85cadda5490d2ea20ae59cf1ea3454e1",
+  "time" : {
+    "start" : 1539021617734,
+    "stop" : 1539021623756,
+    "duration" : 6022
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenEditintChildOrderToSPFailsEDIValidationExpectTwoPendingTwoClerkReject"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4cb92173ed6cdf6c.json",
+  "parameterValues" : [ ]
+}

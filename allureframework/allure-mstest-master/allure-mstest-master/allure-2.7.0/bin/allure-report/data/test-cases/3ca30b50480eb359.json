@@ -1,0 +1,45 @@
+{
+  "uid" : "3ca30b50480eb359",
+  "name" : "FTGET_BadRemoteDirectory",
+  "fullName" : "unknown.FTGET_BadRemoteDirectory",
+  "historyId" : "f6a27e25bae0bf62e490f576ad1066e7",
+  "time" : {
+    "start" : 1549627862314,
+    "stop" : 1549627874892,
+    "duration" : 12578
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "FTGET_BadRemoteDirectory"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ca30b50480eb359.json",
+  "parameterValues" : [ ]
+}

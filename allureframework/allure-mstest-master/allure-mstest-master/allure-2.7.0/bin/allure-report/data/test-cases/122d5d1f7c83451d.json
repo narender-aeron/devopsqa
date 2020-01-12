@@ -1,0 +1,45 @@
+{
+  "uid" : "122d5d1f7c83451d",
+  "name" : "DualBrokerFullyFilledF5Trade",
+  "fullName" : "unknown.DualBrokerFullyFilledF5Trade",
+  "historyId" : "f0c8f6710bdf81af150fa697d0fe523",
+  "time" : {
+    "start" : 1549634519615,
+    "stop" : 1549634537208,
+    "duration" : 17593
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "DualBrokerFullyFilledF5Trade"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "122d5d1f7c83451d.json",
+  "parameterValues" : [ ]
+}

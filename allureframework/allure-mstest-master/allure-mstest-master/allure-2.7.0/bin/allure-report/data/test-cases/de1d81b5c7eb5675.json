@@ -1,0 +1,45 @@
+{
+  "uid" : "de1d81b5c7eb5675",
+  "name" : "WhenFinalizingTrade_AllocationFeeScheduleApplied_PositiveCustodian",
+  "fullName" : "unknown.WhenFinalizingTrade_AllocationFeeScheduleApplied_PositiveCustodian",
+  "historyId" : "ca3c79561342d6e4f0bca2ac871fb312",
+  "time" : {
+    "start" : 1549645612458,
+    "stop" : 1549645629782,
+    "duration" : 17324
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenFinalizingTrade_AllocationFeeScheduleApplied_PositiveCustodian"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "de1d81b5c7eb5675.json",
+  "parameterValues" : [ ]
+}

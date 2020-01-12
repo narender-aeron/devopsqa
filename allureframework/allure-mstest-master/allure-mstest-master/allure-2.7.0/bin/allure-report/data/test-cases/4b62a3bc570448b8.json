@@ -1,0 +1,45 @@
+{
+  "uid" : "4b62a3bc570448b8",
+  "name" : "TestGetTheoreticalAmountByAllocationTargetLot",
+  "fullName" : "unknown.TestGetTheoreticalAmountByAllocationTargetLot",
+  "historyId" : "f3e4728d6242fb5ede5090a7a1ec3fb2",
+  "time" : {
+    "start" : 1549644855155,
+    "stop" : 1549645104758,
+    "duration" : 249603
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestGetTheoreticalAmountByAllocationTargetLot"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4b62a3bc570448b8.json",
+  "parameterValues" : [ ]
+}

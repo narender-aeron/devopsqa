@@ -1,0 +1,45 @@
+{
+  "uid" : "554563f7c15e1e43",
+  "name" : "DeleteTradeUserDefinedField_ByCheckingParticularUser_RecoredDeletedCorrectly",
+  "fullName" : "unknown.DeleteTradeUserDefinedField_ByCheckingParticularUser_RecoredDeletedCorrectly",
+  "historyId" : "38ab8ba68a7625a35b8ffc15b54a6b63",
+  "time" : {
+    "start" : 1549646271244,
+    "stop" : 1549646271252,
+    "duration" : 8
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteTradeUserDefinedField_ByCheckingParticularUser_RecoredDeletedCorrectly"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "554563f7c15e1e43.json",
+  "parameterValues" : [ ]
+}

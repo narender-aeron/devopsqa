@@ -1,0 +1,45 @@
+{
+  "uid" : "737a9ba826cae6b2",
+  "name" : "WhenMovingClosingTradesBackAndForthBetweenTradingAndStagingTradesExistOnBlotters",
+  "fullName" : "unknown.WhenMovingClosingTradesBackAndForthBetweenTradingAndStagingTradesExistOnBlotters",
+  "historyId" : "8e6522dafff7817d46d630c7e3b62dec",
+  "time" : {
+    "start" : 1549647144600,
+    "stop" : 1549647197363,
+    "duration" : 52763
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenMovingClosingTradesBackAndForthBetweenTradingAndStagingTradesExistOnBlotters"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "737a9ba826cae6b2.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "62e081184416ef35",
+  "name" : "Verify_StoringCompdealerCodes_In_TC_BestExecution_WhichDoesntHaveCompdealerID",
+  "fullName" : "unknown.Verify_StoringCompdealerCodes_In_TC_BestExecution_WhichDoesntHaveCompdealerID",
+  "historyId" : "ad53ff79d19f3afe3f4b80fc2e0bfdd",
+  "time" : {
+    "start" : 1549638095143,
+    "stop" : 1549638118093,
+    "duration" : 22950
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_StoringCompdealerCodes_In_TC_BestExecution_WhichDoesntHaveCompdealerID"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "62e081184416ef35.json",
+  "parameterValues" : [ ]
+}

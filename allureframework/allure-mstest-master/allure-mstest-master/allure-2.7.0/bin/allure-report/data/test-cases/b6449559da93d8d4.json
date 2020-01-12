@@ -1,0 +1,45 @@
+{
+  "uid" : "b6449559da93d8d4",
+  "name" : "RightClickBringTo",
+  "fullName" : "unknown.RightClickBringTo",
+  "historyId" : "d9e74a09f207cb9eba079019b2a300a4",
+  "time" : {
+    "start" : 1549631242816,
+    "stop" : 1549631243454,
+    "duration" : 638
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RightClickBringTo"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6449559da93d8d4.json",
+  "parameterValues" : [ ]
+}

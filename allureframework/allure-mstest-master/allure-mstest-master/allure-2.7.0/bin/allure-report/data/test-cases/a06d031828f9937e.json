@@ -1,0 +1,45 @@
+{
+  "uid" : "a06d031828f9937e",
+  "name" : "LoadUserDefinedFieldCodeNames_ByCheckingParticularUser_ReturnsCorrectList",
+  "fullName" : "unknown.LoadUserDefinedFieldCodeNames_ByCheckingParticularUser_ReturnsCorrectList",
+  "historyId" : "aa5084c007a4f1b33f1cbc515b9a2fd2",
+  "time" : {
+    "start" : 1549646271297,
+    "stop" : 1549646271305,
+    "duration" : 8
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "LoadUserDefinedFieldCodeNames_ByCheckingParticularUser_ReturnsCorrectList"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a06d031828f9937e.json",
+  "parameterValues" : [ ]
+}

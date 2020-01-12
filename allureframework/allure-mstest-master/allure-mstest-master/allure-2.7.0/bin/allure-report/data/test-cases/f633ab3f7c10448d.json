@@ -1,0 +1,45 @@
+{
+  "uid" : "f633ab3f7c10448d",
+  "name" : "Verify_QND_MDO_ExpireTime_Persist_On_MBS_DropCopy",
+  "fullName" : "unknown.Verify_QND_MDO_ExpireTime_Persist_On_MBS_DropCopy",
+  "historyId" : "fab5174ce14660e27bc88e9f4ca0162",
+  "time" : {
+    "start" : 1549640021746,
+    "stop" : 1549640054611,
+    "duration" : 32865
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_QND_MDO_ExpireTime_Persist_On_MBS_DropCopy"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f633ab3f7c10448d.json",
+  "parameterValues" : [ ]
+}

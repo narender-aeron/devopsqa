@@ -1,0 +1,45 @@
+{
+  "uid" : "1018369e474064ba",
+  "name" : "WhenAddingStagedPairsOneLegFailsTSValidationExpectPendingComplianceViolation",
+  "fullName" : "unknown.WhenAddingStagedPairsOneLegFailsTSValidationExpectPendingComplianceViolation",
+  "historyId" : "db4eb34fe9da1213703288ea8df00b99",
+  "time" : {
+    "start" : 1539021890073,
+    "stop" : 1539021892081,
+    "duration" : 2008
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenAddingStagedPairsOneLegFailsTSValidationExpectPendingComplianceViolation"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1018369e474064ba.json",
+  "parameterValues" : [ ]
+}

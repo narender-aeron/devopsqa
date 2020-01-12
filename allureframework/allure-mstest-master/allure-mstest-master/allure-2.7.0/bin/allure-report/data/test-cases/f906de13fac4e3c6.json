@@ -1,0 +1,45 @@
+{
+  "uid" : "f906de13fac4e3c6",
+  "name" : "WhenCowboyTradeEntryExpectClerkAccept",
+  "fullName" : "unknown.WhenCowboyTradeEntryExpectClerkAccept",
+  "historyId" : "3ef84d447106c90974d9346dcd1e06d7",
+  "time" : {
+    "start" : 1549643803441,
+    "stop" : 1549643805448,
+    "duration" : 2007
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCowboyTradeEntryExpectClerkAccept"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f906de13fac4e3c6.json",
+  "parameterValues" : [ ]
+}

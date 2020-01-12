@@ -1,0 +1,45 @@
+{
+  "uid" : "dd50c8d52520edd9",
+  "name" : "CreateForwardShortMStateTrade_WithDefaultDates",
+  "fullName" : "unknown.CreateForwardShortMStateTrade_WithDefaultDates",
+  "historyId" : "22ef2be5124532bb208bef3912504882",
+  "time" : {
+    "start" : 1549624702874,
+    "stop" : 1549624705907,
+    "duration" : 3033
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreateForwardShortMStateTrade_WithDefaultDates"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dd50c8d52520edd9.json",
+  "parameterValues" : [ ]
+}

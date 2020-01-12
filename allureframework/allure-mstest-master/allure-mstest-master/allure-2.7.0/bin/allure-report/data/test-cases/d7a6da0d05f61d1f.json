@@ -1,0 +1,45 @@
+{
+  "uid" : "d7a6da0d05f61d1f",
+  "name" : "WhenGettingIntradayChartingInterval",
+  "fullName" : "unknown.WhenGettingIntradayChartingInterval",
+  "historyId" : "6703005acc061880da4d051d62c3d6fa",
+  "time" : {
+    "start" : 1549630349325,
+    "stop" : 1549630350333,
+    "duration" : 1008
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingIntradayChartingInterval"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7a6da0d05f61d1f.json",
+  "parameterValues" : [ ]
+}

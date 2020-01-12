@@ -1,0 +1,45 @@
+{
+  "uid" : "69c20d52afed71a1",
+  "name" : "ExecuteCustProofSpTest",
+  "fullName" : "unknown.ExecuteCustProofSpTest",
+  "historyId" : "1793ad73ea6a4ac49263eb190f55f7fe",
+  "time" : {
+    "start" : 1549646269545,
+    "stop" : 1549646269924,
+    "duration" : 379
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ExecuteCustProofSpTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "69c20d52afed71a1.json",
+  "parameterValues" : [ ]
+}

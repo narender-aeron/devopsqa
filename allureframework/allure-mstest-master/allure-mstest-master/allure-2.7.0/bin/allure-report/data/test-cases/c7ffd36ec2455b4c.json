@@ -1,0 +1,45 @@
+{
+  "uid" : "c7ffd36ec2455b4c",
+  "name" : "WhenSendingTradesForTradeForNeed_ManualColumnEditsFlowThrough_SendTradesCorrectly",
+  "fullName" : "unknown.WhenSendingTradesForTradeForNeed_ManualColumnEditsFlowThrough_SendTradesCorrectly",
+  "historyId" : "53e2bc5537c85f6aabacebd626360538",
+  "time" : {
+    "start" : 1549621476680,
+    "stop" : 1549621478060,
+    "duration" : 1380
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenSendingTradesForTradeForNeed_ManualColumnEditsFlowThrough_SendTradesCorrectly"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c7ffd36ec2455b4c.json",
+  "parameterValues" : [ ]
+}

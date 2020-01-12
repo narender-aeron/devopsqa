@@ -1,0 +1,45 @@
+{
+  "uid" : "356f965b6bc5f98",
+  "name" : "EzeConnect45_RejectCancelReplace_C42284880",
+  "fullName" : "unknown.EzeConnect45_RejectCancelReplace_C42284880",
+  "historyId" : "de50fcbe15c0594bf6c815e8a099454a",
+  "time" : {
+    "start" : 1549642118049,
+    "stop" : 1549642120541,
+    "duration" : 2492
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeConnect45_RejectCancelReplace_C42284880"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "356f965b6bc5f98.json",
+  "parameterValues" : [ ]
+}

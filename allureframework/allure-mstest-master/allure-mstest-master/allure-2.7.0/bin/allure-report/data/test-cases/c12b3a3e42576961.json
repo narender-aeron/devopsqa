@@ -1,0 +1,45 @@
+{
+  "uid" : "c12b3a3e42576961",
+  "name" : "RebillF5TradeWithSetting_DiscardTargetAllocation",
+  "fullName" : "unknown.RebillF5TradeWithSetting_DiscardTargetAllocation",
+  "historyId" : "72ef9992050c3a53547e9ebbff4be2e4",
+  "time" : {
+    "start" : 1549629574306,
+    "stop" : 1549629587650,
+    "duration" : 13344
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RebillF5TradeWithSetting_DiscardTargetAllocation"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c12b3a3e42576961.json",
+  "parameterValues" : [ ]
+}

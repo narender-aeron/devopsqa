@@ -1,0 +1,45 @@
+{
+  "uid" : "f0b510e09d39eb78",
+  "name" : "AddValidSupplementalFillDatatoTradewithTwoAllocations",
+  "fullName" : "unknown.AddValidSupplementalFillDatatoTradewithTwoAllocations",
+  "historyId" : "52ebfdf2fdf33fead1f617bd99861d8c",
+  "time" : {
+    "start" : 1549624478585,
+    "stop" : 1549624481557,
+    "duration" : 2972
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "AddValidSupplementalFillDatatoTradewithTwoAllocations"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f0b510e09d39eb78.json",
+  "parameterValues" : [ ]
+}

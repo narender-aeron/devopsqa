@@ -1,0 +1,45 @@
+{
+  "uid" : "9aae7f77763e35fd",
+  "name" : "PricingTicksInAnalyticsGrid",
+  "fullName" : "unknown.PricingTicksInAnalyticsGrid",
+  "historyId" : "84a0b99a7cb120ab12cd635dad75600",
+  "time" : {
+    "start" : 1549630135917,
+    "stop" : 1549630136657,
+    "duration" : 740
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "PricingTicksInAnalyticsGrid"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9aae7f77763e35fd.json",
+  "parameterValues" : [ ]
+}

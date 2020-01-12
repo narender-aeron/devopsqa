@@ -1,0 +1,45 @@
+{
+  "uid" : "76ea8bc96e55fabd",
+  "name" : "FTPPUT_WildCardInFileName",
+  "fullName" : "unknown.FTPPUT_WildCardInFileName",
+  "historyId" : "8342023e0c0ec674c9c3d1f9d50c206a",
+  "time" : {
+    "start" : 1549627830027,
+    "stop" : 1549627832398,
+    "duration" : 2371
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "FTPPUT_WildCardInFileName"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "76ea8bc96e55fabd.json",
+  "parameterValues" : [ ]
+}

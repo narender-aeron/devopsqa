@@ -1,0 +1,45 @@
+{
+  "uid" : "4d85acedeb3a82e1",
+  "name" : "DeletePortfolio_AllOrNothingTrue_ValidData",
+  "fullName" : "unknown.DeletePortfolio_AllOrNothingTrue_ValidData",
+  "historyId" : "75f2acfcd98c373db45b1beee2285e76",
+  "time" : {
+    "start" : 1549622237247,
+    "stop" : 1549622237323,
+    "duration" : 76
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeletePortfolio_AllOrNothingTrue_ValidData"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d85acedeb3a82e1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "f28a148290951d0",
+  "name" : "ChangeManager_MMT_Trade",
+  "fullName" : "unknown.ChangeManager_MMT_Trade",
+  "historyId" : "301af580b867d430c263761d1b92a9fd",
+  "time" : {
+    "start" : 1549647384556,
+    "stop" : 1549647390059,
+    "duration" : 5503
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ChangeManager_MMT_Trade"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f28a148290951d0.json",
+  "parameterValues" : [ ]
+}

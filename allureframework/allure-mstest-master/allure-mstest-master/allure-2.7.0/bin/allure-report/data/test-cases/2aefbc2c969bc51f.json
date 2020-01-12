@@ -1,0 +1,45 @@
+{
+  "uid" : "2aefbc2c969bc51f",
+  "name" : "RunDurationNeutralSwap",
+  "fullName" : "unknown.RunDurationNeutralSwap",
+  "historyId" : "687dedca8a94271e69ee97ebda49aeaf",
+  "time" : {
+    "start" : 1549631253752,
+    "stop" : 1549631254337,
+    "duration" : 585
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RunDurationNeutralSwap"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2aefbc2c969bc51f.json",
+  "parameterValues" : [ ]
+}

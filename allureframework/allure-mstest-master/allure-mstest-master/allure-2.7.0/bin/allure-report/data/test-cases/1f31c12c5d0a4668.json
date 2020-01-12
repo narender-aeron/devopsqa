@@ -1,0 +1,45 @@
+{
+  "uid" : "1f31c12c5d0a4668",
+  "name" : "CreateTrade_TradeFinalize_Error_SingleTrade_IsAllOrNothing_False_TState_UnSupportedState",
+  "fullName" : "unknown.CreateTrade_TradeFinalize_Error_SingleTrade_IsAllOrNothing_False_TState_UnSupportedState",
+  "historyId" : "bd780a92ade301443db0766ffd242c4d",
+  "time" : {
+    "start" : 1549624742180,
+    "stop" : 1549624744192,
+    "duration" : 2012
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreateTrade_TradeFinalize_Error_SingleTrade_IsAllOrNothing_False_TState_UnSupportedState"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f31c12c5d0a4668.json",
+  "parameterValues" : [ ]
+}

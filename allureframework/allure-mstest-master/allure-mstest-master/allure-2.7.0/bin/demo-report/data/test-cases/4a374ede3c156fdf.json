@@ -1,0 +1,45 @@
+{
+  "uid" : "4a374ede3c156fdf",
+  "name" : "WhenCheckingCompliance_F5ToStaging_SaveTradeWorklow_ViolationsNotReported_TradeSaved",
+  "fullName" : "unknown.WhenCheckingCompliance_F5ToStaging_SaveTradeWorklow_ViolationsNotReported_TradeSaved",
+  "historyId" : "6c07cfdc5d2c6dcda3f69b42fcb13c67",
+  "time" : {
+    "start" : 1539024007819,
+    "stop" : 1539024009240,
+    "duration" : 1421
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCheckingCompliance_F5ToStaging_SaveTradeWorklow_ViolationsNotReported_TradeSaved"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a374ede3c156fdf.json",
+  "parameterValues" : [ ]
+}

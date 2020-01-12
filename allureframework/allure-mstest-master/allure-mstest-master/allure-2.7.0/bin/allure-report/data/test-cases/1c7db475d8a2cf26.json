@@ -1,0 +1,45 @@
+{
+  "uid" : "1c7db475d8a2cf26",
+  "name" : "ChangeTrader_Targeted_Trade_ProcessUserOverridingComplianceAction",
+  "fullName" : "unknown.ChangeTrader_Targeted_Trade_ProcessUserOverridingComplianceAction",
+  "historyId" : "e9db02dacc7d75991767a16721a26510",
+  "time" : {
+    "start" : 1549647512010,
+    "stop" : 1549647517332,
+    "duration" : 5322
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ChangeTrader_Targeted_Trade_ProcessUserOverridingComplianceAction"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1c7db475d8a2cf26.json",
+  "parameterValues" : [ ]
+}

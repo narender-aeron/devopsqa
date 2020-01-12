@@ -1,0 +1,45 @@
+{
+  "uid" : "71ddb48db20fed8a",
+  "name" : "Verify_AppendRollup_With_InboundStrategyOverride_CreateOnTheFly",
+  "fullName" : "unknown.Verify_AppendRollup_With_InboundStrategyOverride_CreateOnTheFly",
+  "historyId" : "ae4f43c363482963434a29fbd0f3fa67",
+  "time" : {
+    "start" : 1549639878302,
+    "stop" : 1549639931054,
+    "duration" : 52752
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_AppendRollup_With_InboundStrategyOverride_CreateOnTheFly"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71ddb48db20fed8a.json",
+  "parameterValues" : [ ]
+}

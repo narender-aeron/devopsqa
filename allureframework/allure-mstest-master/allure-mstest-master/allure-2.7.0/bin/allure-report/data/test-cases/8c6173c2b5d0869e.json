@@ -1,0 +1,45 @@
+{
+  "uid" : "8c6173c2b5d0869e",
+  "name" : "TestGetAllocationTargetLot_CoverTrade_DecreaseByPercent_BasisPosition_ForTheoShares_WithExistingTrades_ValidateResponse",
+  "fullName" : "unknown.TestGetAllocationTargetLot_CoverTrade_DecreaseByPercent_BasisPosition_ForTheoShares_WithExistingTrades_ValidateResponse",
+  "historyId" : "4478e9fd5014f8f8ffa8d0cde0ab2155",
+  "time" : {
+    "start" : 1549645193743,
+    "stop" : 1549645199643,
+    "duration" : 5900
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestGetAllocationTargetLot_CoverTrade_DecreaseByPercent_BasisPosition_ForTheoShares_WithExistingTrades_ValidateResponse"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c6173c2b5d0869e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "bc5d9c213a158d4b",
+  "name" : "WhenAddingUdf_PerformBlotterBatchCompliance_TradeStatusOpen",
+  "fullName" : "unknown.WhenAddingUdf_PerformBlotterBatchCompliance_TradeStatusOpen",
+  "historyId" : "fa259e45556c5939f0f3613951cd0cba",
+  "time" : {
+    "start" : 1549644795190,
+    "stop" : 1549644828909,
+    "duration" : 33719
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenAddingUdf_PerformBlotterBatchCompliance_TradeStatusOpen"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bc5d9c213a158d4b.json",
+  "parameterValues" : [ ]
+}

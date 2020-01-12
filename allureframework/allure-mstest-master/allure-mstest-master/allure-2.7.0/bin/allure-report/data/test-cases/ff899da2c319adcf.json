@@ -1,0 +1,45 @@
+{
+  "uid" : "ff899da2c319adcf",
+  "name" : "GetIndustriesTest",
+  "fullName" : "unknown.GetIndustriesTest",
+  "historyId" : "60f06e87d6b05bd855be985840dc566e",
+  "time" : {
+    "start" : 1549626675074,
+    "stop" : 1549626814812,
+    "duration" : 139738
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetIndustriesTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff899da2c319adcf.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "58ac420e32f0e9b8",
+  "name" : "CreateStartPriceGridTest",
+  "fullName" : "unknown.CreateStartPriceGridTest",
+  "historyId" : "2ee0048c268f14225555ccfd0c1ec26d",
+  "time" : {
+    "start" : 1539021131979,
+    "stop" : 1539021132011,
+    "duration" : 32
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreateStartPriceGridTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "58ac420e32f0e9b8.json",
+  "parameterValues" : [ ]
+}

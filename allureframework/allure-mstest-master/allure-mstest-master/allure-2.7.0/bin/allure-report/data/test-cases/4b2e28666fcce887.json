@@ -1,0 +1,45 @@
+{
+  "uid" : "4b2e28666fcce887",
+  "name" : "RemoveAllocations_MultipleTradesAreCreated_ViolationsAreReported",
+  "fullName" : "unknown.RemoveAllocations_MultipleTradesAreCreated_ViolationsAreReported",
+  "historyId" : "c2864d448d706f144083a1a7641a1349",
+  "time" : {
+    "start" : 1549646437900,
+    "stop" : 1549646443279,
+    "duration" : 5379
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RemoveAllocations_MultipleTradesAreCreated_ViolationsAreReported"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4b2e28666fcce887.json",
+  "parameterValues" : [ ]
+}

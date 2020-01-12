@@ -1,0 +1,45 @@
+{
+  "uid" : "d67129ef60c002dc",
+  "name" : "TradeImporter_SendToTrading_RunCasCustodianSchemesOnTargetedTrades",
+  "fullName" : "unknown.TradeImporter_SendToTrading_RunCasCustodianSchemesOnTargetedTrades",
+  "historyId" : "917872c35cc71beb89ee902e17a0368b",
+  "time" : {
+    "start" : 1549646929416,
+    "stop" : 1549646929832,
+    "duration" : 416
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TradeImporter_SendToTrading_RunCasCustodianSchemesOnTargetedTrades"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d67129ef60c002dc.json",
+  "parameterValues" : [ ]
+}

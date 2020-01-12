@@ -1,0 +1,45 @@
+{
+  "uid" : "c0fcf3505274b96c",
+  "name" : "TestGetAllocationTargetLotForBuyTrade_ModelLevelerBuy_BasisPosition_ForProjectedShares_WithStagingTrades_ReturnSuccessResponse",
+  "fullName" : "unknown.TestGetAllocationTargetLotForBuyTrade_ModelLevelerBuy_BasisPosition_ForProjectedShares_WithStagingTrades_ReturnSuccessResponse",
+  "historyId" : "b62618a7614e93330e99e2da2bfba274",
+  "time" : {
+    "start" : 1549645144316,
+    "stop" : 1549645150783,
+    "duration" : 6467
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestGetAllocationTargetLotForBuyTrade_ModelLevelerBuy_BasisPosition_ForProjectedShares_WithStagingTrades_ReturnSuccessResponse"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c0fcf3505274b96c.json",
+  "parameterValues" : [ ]
+}

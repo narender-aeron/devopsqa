@@ -1,0 +1,45 @@
+{
+  "uid" : "cb00f3a9c70a89c6",
+  "name" : "Test_RetreieveExecution_UnknownQueryParammeterWithOneKnownParameter",
+  "fullName" : "unknown.Test_RetreieveExecution_UnknownQueryParammeterWithOneKnownParameter",
+  "historyId" : "185a2a002825713ca840ed569d708c3c",
+  "time" : {
+    "start" : 1549623345163,
+    "stop" : 1549623356236,
+    "duration" : 11073
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_RetreieveExecution_UnknownQueryParammeterWithOneKnownParameter"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb00f3a9c70a89c6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,233 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Assert.AreEqual failed. Expected:<>. Actual:<{\"errors\":[{\"tradeId\":\"20190208000D\",\"orderId\":\"20190208000D\",\"errorType\":\"ERR_ValidationFailure\",\"message\":\"The request cannot be processed. The Order cannot be overfilled. Contact your Eze client service representative if you require assistance.\"}]}>. ",
+      "children" : [ {
+        "name" : "Test_UpdateSingleExecution",
+        "uid" : "68b92b7f74f789c8",
+        "parentUid" : "be2059c3c7dac02049956e4ecca9a7b0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549622657856,
+          "stop" : 1549622828423,
+          "duration" : 170567
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "be2059c3c7dac02049956e4ecca9a7b0"
+    }, {
+      "name" : "Assert.AreEqual failed. Expected:<Success>. Actual:<Failure>. ",
+      "children" : [ {
+        "name" : "CreateforwardBuyTrade_SecWithValidSpotDate_ValidateTheSpotdate",
+        "uid" : "e8e26667b50fb207",
+        "parentUid" : "4d19af24602fb802486d40d8f553ab2d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549624668536,
+          "stop" : 1549624695783,
+          "duration" : 27247
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "UpdateTrade_TradeFinalize_Error_SingleTrade_IsAllOrNothing_False_TState",
+        "uid" : "cf2095e3fdd67d97",
+        "parentUid" : "4d19af24602fb802486d40d8f553ab2d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549625090443,
+          "stop" : 1549625092471,
+          "duration" : 2028
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "ValidateTradePublish_CreateTSateStagingTrade_FullRefresh",
+        "uid" : "46b2d82981d671f5",
+        "parentUid" : "4d19af24602fb802486d40d8f553ab2d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549625605693,
+          "stop" : 1549625689110,
+          "duration" : 83417
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4d19af24602fb802486d40d8f553ab2d"
+    }, {
+      "name" : "Test method Eze.Integration.Functional.Test.EzeInterface.TradePublishAPITests.TradePublishApiFullRefreshTests.ValidateTradePublish_PersistSubscription_FullRefresh threw exception: \nSystem.NullReferenceException: Object reference not set to an instance of an object.",
+      "children" : [ {
+        "name" : "ValidateTradePublish_PersistSubscription_FullRefresh",
+        "uid" : "80586b54f64f0bba",
+        "parentUid" : "9eb20d58f1d9fe5e0ef43d8e2d8197c7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549625689111,
+          "stop" : 1549625690652,
+          "duration" : 1541
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9eb20d58f1d9fe5e0ef43d8e2d8197c7"
+    }, {
+      "name" : "Assert.Fail failed. Assert.Fail failed. Assert.AreEqual failed. Expected:<SUCCESS>. Actual:<FAILURE>. Exception detected in intraday process. Error: Exception detected while creating file using IntradayXML.exe: TwIntradayXML.exe : Unable to Read the Login File. Login File is corrupt. Please log in to Tradewinds and run Intraday Process.TwIntradayXML.exe : Error occure while creating SQL Connection. TwIntradayXML.exe : Login File not found. Please log in to Tradewinds and run Intraday Process.",
+      "children" : [ {
+        "name" : "EzeIntradayXML_CheckEnableDotNetParser",
+        "uid" : "5d577b4c24d05b0a",
+        "parentUid" : "a01026c81c25423eb1dc32516e3178ff",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549628714208,
+          "stop" : 1549628726954,
+          "duration" : 12746
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "EzeIntradayXML_CompareDelphiDotNetXML_TradeWithTwoAllocations_IDAY",
+        "uid" : "9beb9f0ee2833c4d",
+        "parentUid" : "a01026c81c25423eb1dc32516e3178ff",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549628726956,
+          "stop" : 1549628750230,
+          "duration" : 23274
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "EzeIntradayXML_CompareDelphiDotNetXML_TradeWithTwoBrokers_IDay",
+        "uid" : "b6a57a0fec0f3548",
+        "parentUid" : "a01026c81c25423eb1dc32516e3178ff",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549628750231,
+          "stop" : 1549628774205,
+          "duration" : 23974
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "EzeIntradayXML_CompareDelphiDotNetXML_TradeWithTwoAllocationsTwoBrokers_IDay",
+        "uid" : "b81cc4ab94e0e67e",
+        "parentUid" : "a01026c81c25423eb1dc32516e3178ff",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549628774207,
+          "stop" : 1549628799124,
+          "duration" : 24917
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "EzeIntradayXML_CompareDelphiDotNetXML_TradeWithTwoBrokersThreeFills_IDay",
+        "uid" : "a565e8d2f597f800",
+        "parentUid" : "a01026c81c25423eb1dc32516e3178ff",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549628799125,
+          "stop" : 1549628823700,
+          "duration" : 24575
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "EzeIntradayXML_CompareDelphiDotNetXML_TradeWithTwoAllocations_EOD",
+        "uid" : "11dccbe930ab85f5",
+        "parentUid" : "a01026c81c25423eb1dc32516e3178ff",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549628823701,
+          "stop" : 1549628853390,
+          "duration" : 29689
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "EzeIntradayXML_CompareDelphiDotNetXML_TradeWithTwoBrokers_EOD",
+        "uid" : "f2a0fbaa22f0ef6d",
+        "parentUid" : "a01026c81c25423eb1dc32516e3178ff",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549628853392,
+          "stop" : 1549628880446,
+          "duration" : 27054
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "EzeIntradayXML_CompareDelphiDotNetXML_TradeWithTwoAllocationsTwoBrokers_EOD",
+        "uid" : "afe0e4c281d5ef6",
+        "parentUid" : "a01026c81c25423eb1dc32516e3178ff",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549628880448,
+          "stop" : 1549628909077,
+          "duration" : 28629
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "EzeIntradayXML_CompareDelphiDotNetXML_TradeWithTwoBrokersThreeFills_EOD",
+        "uid" : "727be30ff9b568f4",
+        "parentUid" : "a01026c81c25423eb1dc32516e3178ff",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549628909079,
+          "stop" : 1549628937237,
+          "duration" : 28158
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "EzeIntradayXML_CompareDelphiDotNetXML_TradeWithDifferentUnderlyingSecurity_IDAY",
+        "uid" : "d844ac4c639ac7d8",
+        "parentUid" : "a01026c81c25423eb1dc32516e3178ff",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549628937238,
+          "stop" : 1549628965496,
+          "duration" : 28258
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "EzeIntradayXML_CompareDelphiDotNetXML_TradeWithBasketCommission_IDAY",
+        "uid" : "ec5956a892086856",
+        "parentUid" : "a01026c81c25423eb1dc32516e3178ff",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549628965497,
+          "stop" : 1549628994444,
+          "duration" : 28947
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a01026c81c25423eb1dc32516e3178ff"
+    }, {
+      "name" : "Assert.Fail failed. Error at trade level: Error in pr_TradingService_BatchUpdateData. Error Message: Error inserting batch tc_alctlot records. Error Message: Transaction (Process ID 60) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.",
+      "children" : [ {
+        "name" : "ProcessInboundDropCopyFillsWithSideH_C34618630",
+        "uid" : "8e5e9ae4939e2e75",
+        "parentUid" : "76c691064b1b37d9b323c0e90299020d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1549637395998,
+          "stop" : 1549637437910,
+          "duration" : 41912
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "76c691064b1b37d9b323c0e90299020d"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

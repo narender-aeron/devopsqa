@@ -1,0 +1,45 @@
+{
+  "uid" : "506461adbbad497b",
+  "name" : "ValidateTradePublish_CreateMSateTrade_NotFullRefresh",
+  "fullName" : "unknown.ValidateTradePublish_CreateMSateTrade_NotFullRefresh",
+  "historyId" : "8d1a1b85a2ebadde879da065b01924e1",
+  "time" : {
+    "start" : 1549625890665,
+    "stop" : 1549625905101,
+    "duration" : 14436
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ValidateTradePublish_CreateMSateTrade_NotFullRefresh"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "506461adbbad497b.json",
+  "parameterValues" : [ ]
+}

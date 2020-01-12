@@ -1,0 +1,45 @@
+{
+  "uid" : "a9dd79d658e943e6",
+  "name" : "ChangeTrader_Targeted_Trade_UnchangedTrader",
+  "fullName" : "unknown.ChangeTrader_Targeted_Trade_UnchangedTrader",
+  "historyId" : "e4ecf2890c83b287ca11b3972a37e80e",
+  "time" : {
+    "start" : 1549647501320,
+    "stop" : 1549647506557,
+    "duration" : 5237
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ChangeTrader_Targeted_Trade_UnchangedTrader"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9dd79d658e943e6.json",
+  "parameterValues" : [ ]
+}

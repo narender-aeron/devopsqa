@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Param>  
+  <DB>  
+    <Host>localhost\SQL2016</Host>  
+    <Dbname>AQAresults</Dbname>  
+    <Username>sa</Username>  
+    <Password>redsox</Password>  
+    <Insertfailedresults>True</Insertfailedresults> 
+  </DB>  
+  <Dirinfo>  
+    <Dir>D:\trxdir</Dir>  
+  </Dirinfo>  
+  <Jsonfiledir>
+   <Dir>D:\trxdir1</Dir>
+  </Jsonfiledir>	
+</Param>  

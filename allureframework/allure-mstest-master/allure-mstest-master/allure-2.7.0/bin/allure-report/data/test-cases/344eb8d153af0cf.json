@@ -1,0 +1,45 @@
+{
+  "uid" : "344eb8d153af0cf",
+  "name" : "EzeXmlTransformDetail_EmailInvalidCreds",
+  "fullName" : "unknown.EzeXmlTransformDetail_EmailInvalidCreds",
+  "historyId" : "eaba24549b855cab576e3902e6c1c41d",
+  "time" : {
+    "start" : 1549629258379,
+    "stop" : 1549629259521,
+    "duration" : 1142
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeXmlTransformDetail_EmailInvalidCreds"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "344eb8d153af0cf.json",
+  "parameterValues" : [ ]
+}

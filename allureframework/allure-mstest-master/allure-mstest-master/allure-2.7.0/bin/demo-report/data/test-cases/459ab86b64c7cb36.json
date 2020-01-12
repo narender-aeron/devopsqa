@@ -1,0 +1,45 @@
+{
+  "uid" : "459ab86b64c7cb36",
+  "name" : "SecurityDataRequestUsingKeys_RetrieveMiFiDFieldsWhenAllTrueValuesarePassed",
+  "fullName" : "unknown.SecurityDataRequestUsingKeys_RetrieveMiFiDFieldsWhenAllTrueValuesarePassed",
+  "historyId" : "e7673872695c8c57047531a09b557171",
+  "time" : {
+    "start" : 1539021561641,
+    "stop" : 1539021561767,
+    "duration" : 126
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SecurityDataRequestUsingKeys_RetrieveMiFiDFieldsWhenAllTrueValuesarePassed"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "459ab86b64c7cb36.json",
+  "parameterValues" : [ ]
+}

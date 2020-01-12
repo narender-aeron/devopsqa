@@ -1,0 +1,45 @@
+{
+  "uid" : "2bc03f1a55a0e9e",
+  "name" : "Verify_TradeGen_HardMatchRollUp",
+  "fullName" : "unknown.Verify_TradeGen_HardMatchRollUp",
+  "historyId" : "342d968fde32e6de512cda4c9ff23ec7",
+  "time" : {
+    "start" : 1549641785467,
+    "stop" : 1549641800435,
+    "duration" : 14968
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_TradeGen_HardMatchRollUp"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2bc03f1a55a0e9e.json",
+  "parameterValues" : [ ]
+}

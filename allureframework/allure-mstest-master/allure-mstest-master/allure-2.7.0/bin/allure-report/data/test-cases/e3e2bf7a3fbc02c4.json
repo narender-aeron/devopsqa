@@ -1,0 +1,45 @@
+{
+  "uid" : "e3e2bf7a3fbc02c4",
+  "name" : "WhenUpdatingInvestmentReferenceMapping",
+  "fullName" : "unknown.WhenUpdatingInvestmentReferenceMapping",
+  "historyId" : "18c33020ac8eb13c9b6e596066f6ce7",
+  "time" : {
+    "start" : 1549634617029,
+    "stop" : 1549634617048,
+    "duration" : 19
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenUpdatingInvestmentReferenceMapping"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e3e2bf7a3fbc02c4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "2efec932d34378f5",
+  "name" : "BomRightClickSend",
+  "fullName" : "unknown.BomRightClickSend",
+  "historyId" : "906279bcd5f648a2f1de98e3a337177",
+  "time" : {
+    "start" : 1549636677920,
+    "stop" : 1549636988040,
+    "duration" : 310120
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "BomRightClickSend"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2efec932d34378f5.json",
+  "parameterValues" : [ ]
+}

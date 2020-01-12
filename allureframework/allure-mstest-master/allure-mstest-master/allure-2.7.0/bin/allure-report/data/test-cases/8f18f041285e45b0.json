@@ -1,0 +1,45 @@
+{
+  "uid" : "8f18f041285e45b0",
+  "name" : "WhenUsingLookThroughBySecurity_LookThroughFalse_Strategies",
+  "fullName" : "unknown.WhenUsingLookThroughBySecurity_LookThroughFalse_Strategies",
+  "historyId" : "d111c2166b6eef029901c36d823ac046",
+  "time" : {
+    "start" : 1549630281169,
+    "stop" : 1549630281224,
+    "duration" : 55
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenUsingLookThroughBySecurity_LookThroughFalse_Strategies"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8f18f041285e45b0.json",
+  "parameterValues" : [ ]
+}

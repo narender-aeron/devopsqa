@@ -1,0 +1,45 @@
+{
+  "uid" : "9b6685df3fe1edb5",
+  "name" : "Verify_DFD",
+  "fullName" : "unknown.Verify_DFD",
+  "historyId" : "784e40059e4661d9a3bf3127450e039f",
+  "time" : {
+    "start" : 1549638276543,
+    "stop" : 1549638278995,
+    "duration" : 2452
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_DFD"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b6685df3fe1edb5.json",
+  "parameterValues" : [ ]
+}

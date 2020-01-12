@@ -1,0 +1,45 @@
+{
+  "uid" : "2df159c831eb475c",
+  "name" : "InsertFinalizedTradeIgnoreTriggers_TestForInsertDealHistory",
+  "fullName" : "unknown.InsertFinalizedTradeIgnoreTriggers_TestForInsertDealHistory",
+  "historyId" : "71d35c25c00ccf2bd5c1fb4ee6801ee8",
+  "time" : {
+    "start" : 1549646270928,
+    "stop" : 1549646270943,
+    "duration" : 15
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "InsertFinalizedTradeIgnoreTriggers_TestForInsertDealHistory"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2df159c831eb475c.json",
+  "parameterValues" : [ ]
+}

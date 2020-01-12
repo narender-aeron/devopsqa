@@ -1,0 +1,45 @@
+{
+  "uid" : "36cbed68a8452ca1",
+  "name" : "Verify_ApprovalList_ExecBroker_In_ApprovalList_TradeGen_Expect_Fill_Successfully",
+  "fullName" : "unknown.Verify_ApprovalList_ExecBroker_In_ApprovalList_TradeGen_Expect_Fill_Successfully",
+  "historyId" : "61110da129e91556383817490a804aaf",
+  "time" : {
+    "start" : 1549639856970,
+    "stop" : 1549639878301,
+    "duration" : 21331
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_ApprovalList_ExecBroker_In_ApprovalList_TradeGen_Expect_Fill_Successfully"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36cbed68a8452ca1.json",
+  "parameterValues" : [ ]
+}

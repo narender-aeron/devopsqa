@@ -1,0 +1,45 @@
+{
+  "uid" : "e3013eedc8f2cedb",
+  "name" : "Test_InsertExecution_WithValid_AutoCalculateFields_ExpectedSucessStatusCode",
+  "fullName" : "unknown.Test_InsertExecution_WithValid_AutoCalculateFields_ExpectedSucessStatusCode",
+  "historyId" : "5bb8a61b26393c5d8cf9b3fe4c28707a",
+  "time" : {
+    "start" : 1549622650994,
+    "stop" : 1549622657855,
+    "duration" : 6861
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_InsertExecution_WithValid_AutoCalculateFields_ExpectedSucessStatusCode"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e3013eedc8f2cedb.json",
+  "parameterValues" : [ ]
+}

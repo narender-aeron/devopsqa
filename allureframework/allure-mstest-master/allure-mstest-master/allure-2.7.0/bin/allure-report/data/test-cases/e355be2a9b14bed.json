@@ -1,0 +1,45 @@
+{
+  "uid" : "e355be2a9b14bed",
+  "name" : "CheckInventoryUpdatesForNonLocateEnabledSecTypesAfterRestartOfStockLoanService",
+  "fullName" : "unknown.CheckInventoryUpdatesForNonLocateEnabledSecTypesAfterRestartOfStockLoanService",
+  "historyId" : "df0cb05d2d74d6122ab2bd2d8b689e81",
+  "time" : {
+    "start" : 1549636491067,
+    "stop" : 1549636677718,
+    "duration" : 186651
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CheckInventoryUpdatesForNonLocateEnabledSecTypesAfterRestartOfStockLoanService"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e355be2a9b14bed.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "d29c314c689d4a1a",
+  "name" : "EzeIntradayXML_ChangeLotLevelFieldStrategyWhenLotLevelCCsTrue",
+  "fullName" : "unknown.EzeIntradayXML_ChangeLotLevelFieldStrategyWhenLotLevelCCsTrue",
+  "historyId" : "f0737995e16186d5f9755f686ec77de",
+  "time" : {
+    "start" : 1549628233434,
+    "stop" : 1549628254111,
+    "duration" : 20677
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeIntradayXML_ChangeLotLevelFieldStrategyWhenLotLevelCCsTrue"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d29c314c689d4a1a.json",
+  "parameterValues" : [ ]
+}

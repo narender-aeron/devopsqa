@@ -1,0 +1,45 @@
+{
+  "uid" : "9aa1f3323f5eb233",
+  "name" : "CreateTrader_AllOrNothingTrue_ValidInvalid",
+  "fullName" : "unknown.CreateTrader_AllOrNothingTrue_ValidInvalid",
+  "historyId" : "c4e4d0784efa68de38930354ac624144",
+  "time" : {
+    "start" : 1549622240343,
+    "stop" : 1549622240364,
+    "duration" : 21
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreateTrader_AllOrNothingTrue_ValidInvalid"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9aa1f3323f5eb233.json",
+  "parameterValues" : [ ]
+}

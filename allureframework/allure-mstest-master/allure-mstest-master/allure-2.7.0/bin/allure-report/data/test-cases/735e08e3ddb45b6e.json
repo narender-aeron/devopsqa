@@ -1,0 +1,45 @@
+{
+  "uid" : "735e08e3ddb45b6e",
+  "name" : "NetPositionForPartiallyBoxedSod",
+  "fullName" : "unknown.NetPositionForPartiallyBoxedSod",
+  "historyId" : "afa49e2b70b259278eef7a3eb6d01606",
+  "time" : {
+    "start" : 1549630208650,
+    "stop" : 1549630224299,
+    "duration" : 15649
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "NetPositionForPartiallyBoxedSod"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "735e08e3ddb45b6e.json",
+  "parameterValues" : [ ]
+}

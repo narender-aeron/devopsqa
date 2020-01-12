@@ -1,0 +1,45 @@
+{
+  "uid" : "f3ccb2506290a426",
+  "name" : "WhenGettingInvestmentDecisionMakers",
+  "fullName" : "unknown.WhenGettingInvestmentDecisionMakers",
+  "historyId" : "563fddbee50d21092ff4337f86ab515e",
+  "time" : {
+    "start" : 1549634616694,
+    "stop" : 1549634616721,
+    "duration" : 27
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingInvestmentDecisionMakers"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f3ccb2506290a426.json",
+  "parameterValues" : [ ]
+}

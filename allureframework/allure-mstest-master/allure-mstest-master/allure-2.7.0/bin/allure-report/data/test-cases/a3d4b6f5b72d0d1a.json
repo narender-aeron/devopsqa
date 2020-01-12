@@ -1,0 +1,45 @@
+{
+  "uid" : "a3d4b6f5b72d0d1a",
+  "name" : "TestTradeRule_AutoEditTradeManager",
+  "fullName" : "unknown.TestTradeRule_AutoEditTradeManager",
+  "historyId" : "9daad744c1fe63b1da412a62f9576db0",
+  "time" : {
+    "start" : 1549646905125,
+    "stop" : 1549646910240,
+    "duration" : 5115
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestTradeRule_AutoEditTradeManager"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a3d4b6f5b72d0d1a.json",
+  "parameterValues" : [ ]
+}

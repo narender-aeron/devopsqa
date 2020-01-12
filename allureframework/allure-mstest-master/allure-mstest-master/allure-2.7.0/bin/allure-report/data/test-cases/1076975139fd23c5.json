@@ -1,0 +1,45 @@
+{
+  "uid" : "1076975139fd23c5",
+  "name" : "GroupedRowWhatIfToTradingTest",
+  "fullName" : "unknown.GroupedRowWhatIfToTradingTest",
+  "historyId" : "2f3f5dbd2b47a25940f25725efc1194d",
+  "time" : {
+    "start" : 1549631260709,
+    "stop" : 1549631304045,
+    "duration" : 43336
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GroupedRowWhatIfToTradingTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1076975139fd23c5.json",
+  "parameterValues" : [ ]
+}

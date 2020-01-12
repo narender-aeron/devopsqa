@@ -1,0 +1,45 @@
+{
+  "uid" : "b99bb50a60fe7df4",
+  "name" : "SendingLocatesForTradesImportedFromTradeImporter_BasedOnSetting_UpdateLocateInventoryForSecTypes",
+  "fullName" : "unknown.SendingLocatesForTradesImportedFromTradeImporter_BasedOnSetting_UpdateLocateInventoryForSecTypes",
+  "historyId" : "c09436f25fc9f355249d0ed82713eb97",
+  "time" : {
+    "start" : 1549635938580,
+    "stop" : 1549636032610,
+    "duration" : 94030
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SendingLocatesForTradesImportedFromTradeImporter_BasedOnSetting_UpdateLocateInventoryForSecTypes"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b99bb50a60fe7df4.json",
+  "parameterValues" : [ ]
+}

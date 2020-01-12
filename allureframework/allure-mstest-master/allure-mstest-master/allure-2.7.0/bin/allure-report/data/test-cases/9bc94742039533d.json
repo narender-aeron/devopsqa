@@ -1,0 +1,45 @@
+{
+  "uid" : "9bc94742039533d",
+  "name" : "WhenExecutingColumnOperationWithNew",
+  "fullName" : "unknown.WhenExecutingColumnOperationWithNew",
+  "historyId" : "e69c9e12a0256243e07cffeea9bf7c85",
+  "time" : {
+    "start" : 1549630273229,
+    "stop" : 1549630273417,
+    "duration" : 188
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenExecutingColumnOperationWithNew"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9bc94742039533d.json",
+  "parameterValues" : [ ]
+}

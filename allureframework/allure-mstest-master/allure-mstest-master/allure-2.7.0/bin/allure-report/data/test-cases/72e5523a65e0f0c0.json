@@ -1,0 +1,45 @@
+{
+  "uid" : "72e5523a65e0f0c0",
+  "name" : "Verify_BatchCancelTestCase",
+  "fullName" : "unknown.Verify_BatchCancelTestCase",
+  "historyId" : "7dc9ed01bb4dd6cb3f90892a8a8cecc4",
+  "time" : {
+    "start" : 1549637023803,
+    "stop" : 1549637027720,
+    "duration" : 3917
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_BatchCancelTestCase"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72e5523a65e0f0c0.json",
+  "parameterValues" : [ ]
+}

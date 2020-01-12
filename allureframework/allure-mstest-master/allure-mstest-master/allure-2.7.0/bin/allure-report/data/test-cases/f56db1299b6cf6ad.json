@@ -1,0 +1,45 @@
+{
+  "uid" : "f56db1299b6cf6ad",
+  "name" : "WhenNotifying_CurrencyIsMissing_CurrencyRetrievedFromBrokerRow",
+  "fullName" : "unknown.WhenNotifying_CurrencyIsMissing_CurrencyRetrievedFromBrokerRow",
+  "historyId" : "682d4b4622c6c87a55f48de8c9f72365",
+  "time" : {
+    "start" : 1549632610631,
+    "stop" : 1549632610646,
+    "duration" : 15
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenNotifying_CurrencyIsMissing_CurrencyRetrievedFromBrokerRow"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f56db1299b6cf6ad.json",
+  "parameterValues" : [ ]
+}

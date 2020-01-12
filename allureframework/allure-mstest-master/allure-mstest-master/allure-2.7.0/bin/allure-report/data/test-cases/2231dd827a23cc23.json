@@ -1,0 +1,45 @@
+{
+  "uid" : "2231dd827a23cc23",
+  "name" : "WhenLoadingModelingServerColumns",
+  "fullName" : "unknown.WhenLoadingModelingServerColumns",
+  "historyId" : "5f558506cdaa9e9b71574bfdfcf6c3c9",
+  "time" : {
+    "start" : 1549630279704,
+    "stop" : 1549630279708,
+    "duration" : 4
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenLoadingModelingServerColumns"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2231dd827a23cc23.json",
+  "parameterValues" : [ ]
+}

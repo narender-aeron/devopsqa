@@ -1,0 +1,45 @@
+{
+  "uid" : "743bb1988640f4ae",
+  "name" : "Test_InsertSingleExecution_WhenExecutionVenueMicIsIncorrect",
+  "fullName" : "unknown.Test_InsertSingleExecution_WhenExecutionVenueMicIsIncorrect",
+  "historyId" : "5ba5c74355f4f83bd368bb2d54112854",
+  "time" : {
+    "start" : 1549622567646,
+    "stop" : 1549622578735,
+    "duration" : 11089
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_InsertSingleExecution_WhenExecutionVenueMicIsIncorrect"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "743bb1988640f4ae.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "8f8e69307b0e7ff6",
+  "name" : "AddBrokerUDF_MultipleTrades_Broker_ListTrader",
+  "fullName" : "unknown.AddBrokerUDF_MultipleTrades_Broker_ListTrader",
+  "historyId" : "375b4ce38bcd19fe5e6c3c8e30a6df72",
+  "time" : {
+    "start" : 1549637027721,
+    "stop" : 1549637049774,
+    "duration" : 22053
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "AddBrokerUDF_MultipleTrades_Broker_ListTrader"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8f8e69307b0e7ff6.json",
+  "parameterValues" : [ ]
+}

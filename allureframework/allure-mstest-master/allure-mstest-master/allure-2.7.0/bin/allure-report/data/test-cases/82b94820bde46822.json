@@ -1,0 +1,45 @@
+{
+  "uid" : "82b94820bde46822",
+  "name" : "EzeIntradayXML_DoNotChangeTradeDetailsWhenLotLevelCCsFalse",
+  "fullName" : "unknown.EzeIntradayXML_DoNotChangeTradeDetailsWhenLotLevelCCsFalse",
+  "historyId" : "db5f92a24ea8f8b0b92addcb42a99de9",
+  "time" : {
+    "start" : 1549628329793,
+    "stop" : 1549628366251,
+    "duration" : 36458
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeIntradayXML_DoNotChangeTradeDetailsWhenLotLevelCCsFalse"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "82b94820bde46822.json",
+  "parameterValues" : [ ]
+}

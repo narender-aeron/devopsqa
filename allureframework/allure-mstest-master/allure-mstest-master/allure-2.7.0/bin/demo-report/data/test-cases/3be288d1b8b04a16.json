@@ -1,0 +1,45 @@
+{
+  "uid" : "3be288d1b8b04a16",
+  "name" : "UpdateExchange_AllOrNothingFalse_success",
+  "fullName" : "unknown.UpdateExchange_AllOrNothingFalse_success",
+  "historyId" : "c4e5e8c4ff890e7c08f3a7dcd9becf08",
+  "time" : {
+    "start" : 1539023722399,
+    "stop" : 1539023722467,
+    "duration" : 68
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateExchange_AllOrNothingFalse_success"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3be288d1b8b04a16.json",
+  "parameterValues" : [ ]
+}

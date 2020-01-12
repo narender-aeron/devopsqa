@@ -1,0 +1,45 @@
+{
+  "uid" : "b6e7ce43292a3aac",
+  "name" : "UpdateBrokerAmount_Success",
+  "fullName" : "unknown.UpdateBrokerAmount_Success",
+  "historyId" : "a729df246fbc6106a548d3cc6873abdd",
+  "time" : {
+    "start" : 1549625029221,
+    "stop" : 1549625035758,
+    "duration" : 6537
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateBrokerAmount_Success"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6e7ce43292a3aac.json",
+  "parameterValues" : [ ]
+}

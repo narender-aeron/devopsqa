@@ -1,0 +1,45 @@
+{
+  "uid" : "54114f03499cbca3",
+  "name" : "WhenMovingTargetedTradesFromStagingToTrading_AutoMergeTradesSentFromStagingToTradeBlotterFalse_TriggersComplianceViolation",
+  "fullName" : "unknown.WhenMovingTargetedTradesFromStagingToTrading_AutoMergeTradesSentFromStagingToTradeBlotterFalse_TriggersComplianceViolation",
+  "historyId" : "670a73d58ecc2ccae02f9120d35bbc62",
+  "time" : {
+    "start" : 1549647104756,
+    "stop" : 1549647115326,
+    "duration" : 10570
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenMovingTargetedTradesFromStagingToTrading_AutoMergeTradesSentFromStagingToTradeBlotterFalse_TriggersComplianceViolation"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "54114f03499cbca3.json",
+  "parameterValues" : [ ]
+}

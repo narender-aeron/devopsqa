@@ -1,0 +1,45 @@
+{
+  "uid" : "4a62d509a8f43129",
+  "name" : "WhenGeneratingColumnAssembly",
+  "fullName" : "unknown.WhenGeneratingColumnAssembly",
+  "historyId" : "ddf8db55c03913123a9531fa3979051c",
+  "time" : {
+    "start" : 1539021181919,
+    "stop" : 1539021182105,
+    "duration" : 186
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGeneratingColumnAssembly"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a62d509a8f43129.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,51 @@
+{
+  "uid" : "f2a0fbaa22f0ef6d",
+  "name" : "EzeIntradayXML_CompareDelphiDotNetXML_TradeWithTwoBrokers_EOD",
+  "fullName" : "unknown.EzeIntradayXML_CompareDelphiDotNetXML_TradeWithTwoBrokers_EOD",
+  "historyId" : "a31570773686801870c8f5ec1fb91ecb",
+  "time" : {
+    "start" : 1549628853392,
+    "stop" : 1549628880446,
+    "duration" : 27054
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Assert.Fail failed. Assert.Fail failed. Assert.AreEqual failed. Expected:<SUCCESS>. Actual:<FAILURE>. Exception detected in intraday process. Error: Exception detected while creating file using IntradayXML.exe: TwIntradayXML.exe : Unable to Read the Login File. Login File is corrupt. Please log in to Tradewinds and run Intraday Process.TwIntradayXML.exe : Error occure while creating SQL Connection. TwIntradayXML.exe : Login File not found. Please log in to Tradewinds and run Intraday Process.",
+  "statusTrace" : "   at Eze.Integration.Functional.Test.Tradewinds.IntradayTests.EzeIntradayXML_CompareDelphiDotNetXML_TradeWithTwoBrokers_EOD() in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\Tradewinds\\Intraday\\IntradayTests.cs:line 1545\n",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeIntradayXML_CompareDelphiDotNetXML_TradeWithTwoBrokers_EOD"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "f2a0fbaa22f0ef6d.json",
+  "parameterValues" : [ ]
+}

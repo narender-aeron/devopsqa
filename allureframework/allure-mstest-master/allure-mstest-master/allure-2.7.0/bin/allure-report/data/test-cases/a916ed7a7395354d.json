@@ -1,0 +1,45 @@
+{
+  "uid" : "a916ed7a7395354d",
+  "name" : "GetContingencyLevelTest",
+  "fullName" : "unknown.GetContingencyLevelTest",
+  "historyId" : "79bc873c5b3f2c5475a754ac291b0995",
+  "time" : {
+    "start" : 1549646268159,
+    "stop" : 1549646268277,
+    "duration" : 118
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetContingencyLevelTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a916ed7a7395354d.json",
+  "parameterValues" : [ ]
+}

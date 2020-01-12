@@ -1,0 +1,45 @@
+{
+  "uid" : "8c9ea69725c54fde",
+  "name" : "GetSettleDateList",
+  "fullName" : "unknown.GetSettleDateList",
+  "historyId" : "c58083ad48d986e1f3e5f0fb9bdd1887",
+  "time" : {
+    "start" : 1549646264665,
+    "stop" : 1549646264700,
+    "duration" : 35
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetSettleDateList"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c9ea69725c54fde.json",
+  "parameterValues" : [ ]
+}

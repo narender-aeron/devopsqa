@@ -1,0 +1,45 @@
+{
+  "uid" : "ecf93a0bfa163e26",
+  "name" : "SFTPGET_GetFirstNewFile",
+  "fullName" : "unknown.SFTPGET_GetFirstNewFile",
+  "historyId" : "3d7da5d9b3eebdd182ae5e6c411e1f78",
+  "time" : {
+    "start" : 1549629211578,
+    "stop" : 1549629218952,
+    "duration" : 7374
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SFTPGET_GetFirstNewFile"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ecf93a0bfa163e26.json",
+  "parameterValues" : [ ]
+}

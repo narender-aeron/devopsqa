@@ -1,0 +1,45 @@
+{
+  "uid" : "a8d32c8a11077367",
+  "name" : "GetTcCountryTest",
+  "fullName" : "unknown.GetTcCountryTest",
+  "historyId" : "d1c6191418398c910d456695a892ed2f",
+  "time" : {
+    "start" : 1549626815666,
+    "stop" : 1549626815959,
+    "duration" : 293
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetTcCountryTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8d32c8a11077367.json",
+  "parameterValues" : [ ]
+}

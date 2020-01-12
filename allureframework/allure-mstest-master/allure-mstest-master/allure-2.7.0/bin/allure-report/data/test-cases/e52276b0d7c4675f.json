@@ -1,0 +1,45 @@
+{
+  "uid" : "e52276b0d7c4675f",
+  "name" : "ValidateSubscriptionForHoldingsUsingRealtimeAdapter",
+  "fullName" : "unknown.ValidateSubscriptionForHoldingsUsingRealtimeAdapter",
+  "historyId" : "7deda4b25314fb09ef470ec187157da7",
+  "time" : {
+    "start" : 1549621037217,
+    "stop" : 1549621037230,
+    "duration" : 13
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ValidateSubscriptionForHoldingsUsingRealtimeAdapter"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e52276b0d7c4675f.json",
+  "parameterValues" : [ ]
+}

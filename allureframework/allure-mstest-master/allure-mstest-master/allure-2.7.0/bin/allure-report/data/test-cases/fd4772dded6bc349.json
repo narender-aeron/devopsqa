@@ -1,0 +1,45 @@
+{
+  "uid" : "fd4772dded6bc349",
+  "name" : "MergeRules_DeleteRuleWhichDoesNotExist",
+  "fullName" : "unknown.MergeRules_DeleteRuleWhichDoesNotExist",
+  "historyId" : "8925fac51624ba250f3a77917d66a182",
+  "time" : {
+    "start" : 1549646272956,
+    "stop" : 1549646273211,
+    "duration" : 255
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "MergeRules_DeleteRuleWhichDoesNotExist"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd4772dded6bc349.json",
+  "parameterValues" : [ ]
+}

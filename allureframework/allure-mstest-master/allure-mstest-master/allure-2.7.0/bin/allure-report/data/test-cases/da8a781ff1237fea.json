@@ -1,0 +1,45 @@
+{
+  "uid" : "da8a781ff1237fea",
+  "name" : "DeletePosition_DeletePositionByPortfolioTest_AllOrNothingFalse_ValidInvalid",
+  "fullName" : "unknown.DeletePosition_DeletePositionByPortfolioTest_AllOrNothingFalse_ValidInvalid",
+  "historyId" : "4bd9ae863b71f7918334d446386179a3",
+  "time" : {
+    "start" : 1549622176050,
+    "stop" : 1549622179728,
+    "duration" : 3678
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeletePosition_DeletePositionByPortfolioTest_AllOrNothingFalse_ValidInvalid"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "da8a781ff1237fea.json",
+  "parameterValues" : [ ]
+}

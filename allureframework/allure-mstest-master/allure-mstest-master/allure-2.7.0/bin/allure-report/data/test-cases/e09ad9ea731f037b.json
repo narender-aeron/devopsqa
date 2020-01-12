@@ -1,0 +1,45 @@
+{
+  "uid" : "e09ad9ea731f037b",
+  "name" : "WhenGettingBreakdownKeys",
+  "fullName" : "unknown.WhenGettingBreakdownKeys",
+  "historyId" : "4c51d2ca2bb9b86d21961c3e661c513e",
+  "time" : {
+    "start" : 1549630355391,
+    "stop" : 1549630355407,
+    "duration" : 16
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingBreakdownKeys"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e09ad9ea731f037b.json",
+  "parameterValues" : [ ]
+}

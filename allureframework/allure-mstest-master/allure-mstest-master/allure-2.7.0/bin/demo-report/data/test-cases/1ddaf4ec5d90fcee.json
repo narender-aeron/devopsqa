@@ -1,0 +1,45 @@
+{
+  "uid" : "1ddaf4ec5d90fcee",
+  "name" : "FlatRateBrokerCommissionTest",
+  "fullName" : "unknown.FlatRateBrokerCommissionTest",
+  "historyId" : "a6d8f8bfdbb4ae7a6fd968b64b654966",
+  "time" : {
+    "start" : 1539023047955,
+    "stop" : 1539023048390,
+    "duration" : 435
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "FlatRateBrokerCommissionTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ddaf4ec5d90fcee.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "9071f766349d06b2",
+  "name" : "Test_DeleteExecution_WhenNoQueryString",
+  "fullName" : "unknown.Test_DeleteExecution_WhenNoQueryString",
+  "historyId" : "fd4a13c7074fb7cdc4f9e3c99f4b2ee0",
+  "time" : {
+    "start" : 1549623112800,
+    "stop" : 1549623112830,
+    "duration" : 30
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_DeleteExecution_WhenNoQueryString"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9071f766349d06b2.json",
+  "parameterValues" : [ ]
+}

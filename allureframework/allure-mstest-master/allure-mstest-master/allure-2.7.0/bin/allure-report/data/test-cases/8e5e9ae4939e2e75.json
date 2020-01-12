@@ -1,0 +1,51 @@
+{
+  "uid" : "8e5e9ae4939e2e75",
+  "name" : "ProcessInboundDropCopyFillsWithSideH_C34618630",
+  "fullName" : "unknown.ProcessInboundDropCopyFillsWithSideH_C34618630",
+  "historyId" : "cb554aa17c8327f6b200158fd29c3679",
+  "time" : {
+    "start" : 1549637395998,
+    "stop" : 1549637437910,
+    "duration" : 41912
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Assert.Fail failed. Error at trade level: Error in pr_TradingService_BatchUpdateData. Error Message: Error inserting batch tc_alctlot records. Error Message: Transaction (Process ID 60) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.",
+  "statusTrace" : "   at Eze.Integration.Functional.Test.Common.Trading.TradeHelper.InsertTradeListViaASyncAPI(IList`1 tradeList) in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\Common\\Trading\\TradeHelper.cs:line 90\n   at Eze.Integration.Functional.Test.Common.Trading.TradeHelper.InsertTradeViaASyncAPI(TradeData trade) in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\Common\\Trading\\TradeHelper.cs:line 66\n   at Eze.Integration.Functional.Test.Common.Trading.TradeHelper.CreateF5Trade(Action tradeAction, Decimal amount, String symbol, String brokerName, Boolean mktDuration, Decimal lmtPrice, Boolean saveTradeViaAPI, TimeInForce tifBroker, TimeInForce tifTrade, String custodian, String manager, String trader, String tradeNote) in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\Common\\Trading\\TradeHelper.cs:line 146\n   at Eze.Integration.Functional.Test.ExecutionManagement.Tests.ExecMgmtMifidTests.<ProcessInboundDropCopyFillsWithSideH_C34618630>d__f4.MoveNext() in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\Trading\\ExecutionManagement\\Tests\\ExecMgmtMifidTests.cs:line 695\n--- End of stack trace from previous location where exception was thrown ---\n   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()\n   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)\n   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()\n",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ProcessInboundDropCopyFillsWithSideH_C34618630"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8e5e9ae4939e2e75.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "b32818f92ef7c75e",
+  "name" : "WhenNotifyingMRS_SecurityFilterOnAndNonEligibleSecurity_MultilleFillsSentOnlyOneMessageLogged",
+  "fullName" : "unknown.WhenNotifyingMRS_SecurityFilterOnAndNonEligibleSecurity_MultilleFillsSentOnlyOneMessageLogged",
+  "historyId" : "daacc247e79387547a31c23261ee0502",
+  "time" : {
+    "start" : 1549633669019,
+    "stop" : 1549633729594,
+    "duration" : 60575
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenNotifyingMRS_SecurityFilterOnAndNonEligibleSecurity_MultilleFillsSentOnlyOneMessageLogged"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b32818f92ef7c75e.json",
+  "parameterValues" : [ ]
+}

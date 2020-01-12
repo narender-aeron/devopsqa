@@ -1,0 +1,45 @@
+{
+  "uid" : "83a2dffcfdc987e3",
+  "name" : "ImportAuthenticationTest",
+  "fullName" : "unknown.ImportAuthenticationTest",
+  "historyId" : "4c373e2660a6329490de8ee7ed90b534",
+  "time" : {
+    "start" : 1549620627332,
+    "stop" : 1549620899211,
+    "duration" : 271879
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ImportAuthenticationTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "83a2dffcfdc987e3.json",
+  "parameterValues" : [ ]
+}

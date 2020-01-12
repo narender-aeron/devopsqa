@@ -1,0 +1,45 @@
+{
+  "uid" : "97d2ea995f76f669",
+  "name" : "WhenInvalidatingServerCache",
+  "fullName" : "unknown.WhenInvalidatingServerCache",
+  "historyId" : "5fd7fe6c0f28a0d478a861d6033d71b1",
+  "time" : {
+    "start" : 1549630120332,
+    "stop" : 1549630121979,
+    "duration" : 1647
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenInvalidatingServerCache"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "97d2ea995f76f669.json",
+  "parameterValues" : [ ]
+}

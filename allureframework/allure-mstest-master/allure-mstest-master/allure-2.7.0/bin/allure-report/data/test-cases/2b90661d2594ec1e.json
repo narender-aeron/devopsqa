@@ -1,0 +1,45 @@
+{
+  "uid" : "2b90661d2594ec1e",
+  "name" : "EzeIntradayXML_CheckForLastLiquidityWhenTCPriceIsInluded",
+  "fullName" : "unknown.EzeIntradayXML_CheckForLastLiquidityWhenTCPriceIsInluded",
+  "historyId" : "381a25017113fd1c25692a2555ccc182",
+  "time" : {
+    "start" : 1549628666011,
+    "stop" : 1549628682957,
+    "duration" : 16946
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeIntradayXML_CheckForLastLiquidityWhenTCPriceIsInluded"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b90661d2594ec1e.json",
+  "parameterValues" : [ ]
+}

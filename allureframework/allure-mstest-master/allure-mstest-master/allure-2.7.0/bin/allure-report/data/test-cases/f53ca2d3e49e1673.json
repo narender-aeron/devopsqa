@@ -1,0 +1,45 @@
+{
+  "uid" : "f53ca2d3e49e1673",
+  "name" : "WhenNotifyingMRS_MifidEligibleBrokerBuy_MultipleFillsSentOneMessageLogged",
+  "fullName" : "unknown.WhenNotifyingMRS_MifidEligibleBrokerBuy_MultipleFillsSentOneMessageLogged",
+  "historyId" : "d05965b4fede8752f80ed6b58cf63432",
+  "time" : {
+    "start" : 1549633855990,
+    "stop" : 1549633916634,
+    "duration" : 60644
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenNotifyingMRS_MifidEligibleBrokerBuy_MultipleFillsSentOneMessageLogged"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f53ca2d3e49e1673.json",
+  "parameterValues" : [ ]
+}

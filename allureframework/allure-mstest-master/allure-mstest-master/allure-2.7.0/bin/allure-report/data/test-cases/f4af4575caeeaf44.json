@@ -1,0 +1,45 @@
+{
+  "uid" : "f4af4575caeeaf44",
+  "name" : "CreateTrade_TradeFinalize_Error_SingleTrade_IsAllOrNothing_False_MState_InRequest",
+  "fullName" : "unknown.CreateTrade_TradeFinalize_Error_SingleTrade_IsAllOrNothing_False_MState_InRequest",
+  "historyId" : "ead48bf1e2791d0cef793739127f71f3",
+  "time" : {
+    "start" : 1549624734130,
+    "stop" : 1549624736142,
+    "duration" : 2012
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreateTrade_TradeFinalize_Error_SingleTrade_IsAllOrNothing_False_MState_InRequest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f4af4575caeeaf44.json",
+  "parameterValues" : [ ]
+}

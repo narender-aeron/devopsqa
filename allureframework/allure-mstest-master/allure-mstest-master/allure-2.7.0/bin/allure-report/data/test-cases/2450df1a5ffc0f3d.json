@@ -1,0 +1,45 @@
+{
+  "uid" : "2450df1a5ffc0f3d",
+  "name" : "LocatePluginTestWithInventory",
+  "fullName" : "unknown.LocatePluginTestWithInventory",
+  "historyId" : "d28a04c4cb15fd13cd0c30356bdd91e8",
+  "time" : {
+    "start" : 1549636292438,
+    "stop" : 1549636386787,
+    "duration" : 94349
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "LocatePluginTestWithInventory"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2450df1a5ffc0f3d.json",
+  "parameterValues" : [ ]
+}

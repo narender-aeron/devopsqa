@@ -1,0 +1,45 @@
+{
+  "uid" : "60a9fb13bf637b27",
+  "name" : "RunTargetCash",
+  "fullName" : "unknown.RunTargetCash",
+  "historyId" : "6f0056c0a92be38e1f0f52b79cb4add4",
+  "time" : {
+    "start" : 1549631249114,
+    "stop" : 1549631249567,
+    "duration" : 453
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RunTargetCash"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "60a9fb13bf637b27.json",
+  "parameterValues" : [ ]
+}

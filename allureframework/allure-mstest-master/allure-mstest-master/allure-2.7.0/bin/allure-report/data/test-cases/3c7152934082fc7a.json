@@ -1,0 +1,45 @@
+{
+  "uid" : "3c7152934082fc7a",
+  "name" : "RunAdjustCash",
+  "fullName" : "unknown.RunAdjustCash",
+  "historyId" : "df880d470442ee9bf9321b673621010",
+  "time" : {
+    "start" : 1549631248177,
+    "stop" : 1549631248659,
+    "duration" : 482
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RunAdjustCash"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c7152934082fc7a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "1571478128c2c27a",
+  "name" : "Verify_ExecBrok_PartyID_Single_Row_Con_Mode",
+  "fullName" : "unknown.Verify_ExecBrok_PartyID_Single_Row_Con_Mode",
+  "historyId" : "76d9dfac1cc4a2fdfe2c08f5550bc0a1",
+  "time" : {
+    "start" : 1539024060492,
+    "stop" : 1539024079734,
+    "duration" : 19242
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_ExecBrok_PartyID_Single_Row_Con_Mode"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1571478128c2c27a.json",
+  "parameterValues" : [ ]
+}

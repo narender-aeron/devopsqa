@@ -1,0 +1,45 @@
+{
+  "uid" : "92ccfb9094a957f4",
+  "name" : "GetArchiveLots",
+  "fullName" : "unknown.GetArchiveLots",
+  "historyId" : "e56e1229a82bdfb244d16c0baed99352",
+  "time" : {
+    "start" : 1549646262595,
+    "stop" : 1549646262949,
+    "duration" : 354
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetArchiveLots"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "92ccfb9094a957f4.json",
+  "parameterValues" : [ ]
+}

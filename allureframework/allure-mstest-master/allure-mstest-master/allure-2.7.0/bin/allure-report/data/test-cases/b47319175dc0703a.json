@@ -1,0 +1,45 @@
+{
+  "uid" : "b47319175dc0703a",
+  "name" : "Test_RetrievePositionLots_FilterBySymbol",
+  "fullName" : "unknown.Test_RetrievePositionLots_FilterBySymbol",
+  "historyId" : "784087ac45805d355592c115149c9d32",
+  "time" : {
+    "start" : 1549623431497,
+    "stop" : 1549623442557,
+    "duration" : 11060
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_RetrievePositionLots_FilterBySymbol"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b47319175dc0703a.json",
+  "parameterValues" : [ ]
+}

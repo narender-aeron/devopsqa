@@ -1,0 +1,45 @@
+{
+  "uid" : "dd4a37b2970ea8",
+  "name" : "WhenInsertOrUpdate_PreMA_InsertMstateTradesAsTstate",
+  "fullName" : "unknown.WhenInsertOrUpdate_PreMA_InsertMstateTradesAsTstate",
+  "historyId" : "1e389bf95db806c51c29c9ccfa0e2a6e",
+  "time" : {
+    "start" : 1549647382957,
+    "stop" : 1549647383206,
+    "duration" : 249
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenInsertOrUpdate_PreMA_InsertMstateTradesAsTstate"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dd4a37b2970ea8.json",
+  "parameterValues" : [ ]
+}

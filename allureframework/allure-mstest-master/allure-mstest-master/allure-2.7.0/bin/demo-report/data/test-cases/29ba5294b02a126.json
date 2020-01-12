@@ -1,0 +1,45 @@
+{
+  "uid" : "29ba5294b02a126",
+  "name" : "WhenChildOrderEntryEdiValidationFailsExpectReject",
+  "fullName" : "unknown.WhenChildOrderEntryEdiValidationFailsExpectReject",
+  "historyId" : "2ae5e17c1e828f250b010c2ae4e6a22d",
+  "time" : {
+    "start" : 1539021726163,
+    "stop" : 1539021730174,
+    "duration" : 4011
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenChildOrderEntryEdiValidationFailsExpectReject"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29ba5294b02a126.json",
+  "parameterValues" : [ ]
+}

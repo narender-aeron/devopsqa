@@ -1,0 +1,45 @@
+{
+  "uid" : "6fd94bae07b0c929",
+  "name" : "SendModelingTradesFromStagingToTrading",
+  "fullName" : "unknown.SendModelingTradesFromStagingToTrading",
+  "historyId" : "3a37bbe7d0c88726395b9127dccad99f",
+  "time" : {
+    "start" : 1549631158270,
+    "stop" : 1549631183856,
+    "duration" : 25586
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SendModelingTradesFromStagingToTrading"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6fd94bae07b0c929.json",
+  "parameterValues" : [ ]
+}

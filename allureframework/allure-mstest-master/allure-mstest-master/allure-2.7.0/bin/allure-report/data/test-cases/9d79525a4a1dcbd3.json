@@ -1,0 +1,45 @@
+{
+  "uid" : "9d79525a4a1dcbd3",
+  "name" : "WhenGeneratingPSSymbolsValidFutureIsPersisted",
+  "fullName" : "unknown.WhenGeneratingPSSymbolsValidFutureIsPersisted",
+  "historyId" : "4cff1dc4610024b5d3bb813ae9690085",
+  "time" : {
+    "start" : 1549647952894,
+    "stop" : 1549647954363,
+    "duration" : 1469
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGeneratingPSSymbolsValidFutureIsPersisted"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d79525a4a1dcbd3.json",
+  "parameterValues" : [ ]
+}

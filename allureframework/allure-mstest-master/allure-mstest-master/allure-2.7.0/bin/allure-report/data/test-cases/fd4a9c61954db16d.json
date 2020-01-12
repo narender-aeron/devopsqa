@@ -1,0 +1,45 @@
+{
+  "uid" : "fd4a9c61954db16d",
+  "name" : "WhenNotifying_WithoutBrokerLEI_BrokerLEIIsRetrieved",
+  "fullName" : "unknown.WhenNotifying_WithoutBrokerLEI_BrokerLEIIsRetrieved",
+  "historyId" : "29f3d22ee8cd1b0bcd345ea22a911728",
+  "time" : {
+    "start" : 1549632912205,
+    "stop" : 1549632913240,
+    "duration" : 1035
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenNotifying_WithoutBrokerLEI_BrokerLEIIsRetrieved"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd4a9c61954db16d.json",
+  "parameterValues" : [ ]
+}

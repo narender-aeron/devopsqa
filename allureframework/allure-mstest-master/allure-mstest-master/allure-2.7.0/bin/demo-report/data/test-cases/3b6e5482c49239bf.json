@@ -1,0 +1,45 @@
+{
+  "uid" : "3b6e5482c49239bf",
+  "name" : "WhenRunningScenarioOnOptionMissingExcerciseTypeRiskSessionLogHasError",
+  "fullName" : "unknown.WhenRunningScenarioOnOptionMissingExcerciseTypeRiskSessionLogHasError",
+  "historyId" : "6d409f62e191e9ea79f93ee90526b6ad",
+  "time" : {
+    "start" : 1539021657032,
+    "stop" : 1539021680340,
+    "duration" : 23308
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenRunningScenarioOnOptionMissingExcerciseTypeRiskSessionLogHasError"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b6e5482c49239bf.json",
+  "parameterValues" : [ ]
+}

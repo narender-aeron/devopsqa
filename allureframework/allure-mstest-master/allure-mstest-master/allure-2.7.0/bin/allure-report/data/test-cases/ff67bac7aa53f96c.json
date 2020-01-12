@@ -1,0 +1,45 @@
+{
+  "uid" : "ff67bac7aa53f96c",
+  "name" : "WhenExecutingColumnOperationWithDelete",
+  "fullName" : "unknown.WhenExecutingColumnOperationWithDelete",
+  "historyId" : "8c9cdb10ed6695d81aeaa85a55d5d72f",
+  "time" : {
+    "start" : 1549630273444,
+    "stop" : 1549630273513,
+    "duration" : 69
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenExecutingColumnOperationWithDelete"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff67bac7aa53f96c.json",
+  "parameterValues" : [ ]
+}

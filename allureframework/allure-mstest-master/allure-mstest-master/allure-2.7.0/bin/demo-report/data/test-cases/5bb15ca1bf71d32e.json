@@ -1,0 +1,45 @@
+{
+  "uid" : "5bb15ca1bf71d32e",
+  "name" : "WhenNotifyingMRS_TraderIsAssociatedToNonMifidFirm_MutlipleFillsSentOnlyOneMessageLogged",
+  "fullName" : "unknown.WhenNotifyingMRS_TraderIsAssociatedToNonMifidFirm_MutlipleFillsSentOnlyOneMessageLogged",
+  "historyId" : "cbecd1ceffe6a9f5e4e5241bfedc3c74",
+  "time" : {
+    "start" : 1539024924593,
+    "stop" : 1539024985278,
+    "duration" : 60685
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenNotifyingMRS_TraderIsAssociatedToNonMifidFirm_MutlipleFillsSentOnlyOneMessageLogged"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5bb15ca1bf71d32e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "e4fb65bc81bad76e",
+  "name" : "Test_DeleteExecution_WhenMultipleQueryStringParamters_TradeId_OrderId_ExecutionId",
+  "fullName" : "unknown.Test_DeleteExecution_WhenMultipleQueryStringParamters_TradeId_OrderId_ExecutionId",
+  "historyId" : "804dd77face1558a2d0707e82e63927a",
+  "time" : {
+    "start" : 1549623112849,
+    "stop" : 1549623112868,
+    "duration" : 19
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_DeleteExecution_WhenMultipleQueryStringParamters_TradeId_OrderId_ExecutionId"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e4fb65bc81bad76e.json",
+  "parameterValues" : [ ]
+}

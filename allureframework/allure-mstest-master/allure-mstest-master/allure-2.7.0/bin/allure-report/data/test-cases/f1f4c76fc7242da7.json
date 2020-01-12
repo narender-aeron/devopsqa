@@ -1,0 +1,45 @@
+{
+  "uid" : "f1f4c76fc7242da7",
+  "name" : "ValidatePSSymbol",
+  "fullName" : "unknown.ValidatePSSymbol",
+  "historyId" : "c53c4335a780216b4b9b1ce721943283",
+  "time" : {
+    "start" : 1549621037277,
+    "stop" : 1549621037287,
+    "duration" : 10
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ValidatePSSymbol"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f1f4c76fc7242da7.json",
+  "parameterValues" : [ ]
+}

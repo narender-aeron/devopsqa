@@ -1,0 +1,45 @@
+{
+  "uid" : "9bd242873abc2ca8",
+  "name" : "Verify_TradeGen_Match",
+  "fullName" : "unknown.Verify_TradeGen_Match",
+  "historyId" : "29c7ceb7b396bc7199433a8374e12fcd",
+  "time" : {
+    "start" : 1549641717069,
+    "stop" : 1549641731281,
+    "duration" : 14212
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_TradeGen_Match"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9bd242873abc2ca8.json",
+  "parameterValues" : [ ]
+}

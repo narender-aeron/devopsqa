@@ -1,0 +1,45 @@
+{
+  "uid" : "fd494cdd06553d84",
+  "name" : "CreateMStateTradeWithMinimumRequiredFieldsTest",
+  "fullName" : "unknown.CreateMStateTradeWithMinimumRequiredFieldsTest",
+  "historyId" : "63a9758225355c50ca57179928bb4cc",
+  "time" : {
+    "start" : 1549624457202,
+    "stop" : 1549624461489,
+    "duration" : 4287
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreateMStateTradeWithMinimumRequiredFieldsTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd494cdd06553d84.json",
+  "parameterValues" : [ ]
+}

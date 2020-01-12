@@ -1,0 +1,45 @@
+{
+  "uid" : "71a2615bcde2ea5",
+  "name" : "InsertAllocatedTradeData_InsertTradeWithSpecificTradeDateAfterStartUP_ExpectSpecificDate",
+  "fullName" : "unknown.InsertAllocatedTradeData_InsertTradeWithSpecificTradeDateAfterStartUP_ExpectSpecificDate",
+  "historyId" : "d66ff1f1685567c5cf7b162830d758fe",
+  "time" : {
+    "start" : 1549627498847,
+    "stop" : 1549627513275,
+    "duration" : 14428
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "InsertAllocatedTradeData_InsertTradeWithSpecificTradeDateAfterStartUP_ExpectSpecificDate"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71a2615bcde2ea5.json",
+  "parameterValues" : [ ]
+}

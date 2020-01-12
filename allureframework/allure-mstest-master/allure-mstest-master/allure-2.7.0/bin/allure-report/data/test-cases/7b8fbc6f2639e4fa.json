@@ -1,0 +1,45 @@
+{
+  "uid" : "7b8fbc6f2639e4fa",
+  "name" : "CreateBatchTrades_UsingDefinedStrategies",
+  "fullName" : "unknown.CreateBatchTrades_UsingDefinedStrategies",
+  "historyId" : "45f0cada799a4d5f50b300a7a8334e8",
+  "time" : {
+    "start" : 1549624554263,
+    "stop" : 1549624556913,
+    "duration" : 2650
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreateBatchTrades_UsingDefinedStrategies"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b8fbc6f2639e4fa.json",
+  "parameterValues" : [ ]
+}

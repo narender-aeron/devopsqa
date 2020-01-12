@@ -1,0 +1,45 @@
+{
+  "uid" : "3707be15b01c49a7",
+  "name" : "CheckAndUpdateTcTradeStatusAndTraderTest",
+  "fullName" : "unknown.CheckAndUpdateTcTradeStatusAndTraderTest",
+  "historyId" : "ffde55feeff6a276b167f65919b48a87",
+  "time" : {
+    "start" : 1549646269324,
+    "stop" : 1549646269396,
+    "duration" : 72
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CheckAndUpdateTcTradeStatusAndTraderTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3707be15b01c49a7.json",
+  "parameterValues" : [ ]
+}

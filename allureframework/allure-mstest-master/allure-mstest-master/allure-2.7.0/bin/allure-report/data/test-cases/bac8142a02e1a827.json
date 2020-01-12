@@ -1,0 +1,45 @@
+{
+  "uid" : "bac8142a02e1a827",
+  "name" : "UpdateTrader_AllOrNothingTrue_ValidData",
+  "fullName" : "unknown.UpdateTrader_AllOrNothingTrue_ValidData",
+  "historyId" : "b41b3fc27de6f590d1dd1f8ca5bd9fe",
+  "time" : {
+    "start" : 1549622240856,
+    "stop" : 1549622240908,
+    "duration" : 52
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateTrader_AllOrNothingTrue_ValidData"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bac8142a02e1a827.json",
+  "parameterValues" : [ ]
+}

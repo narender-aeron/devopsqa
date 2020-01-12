@@ -1,0 +1,45 @@
+{
+  "uid" : "48eb15c12c610757",
+  "name" : "Test_RetrieveAggregatedPositions_SecurityAndPortfolio",
+  "fullName" : "unknown.Test_RetrieveAggregatedPositions_SecurityAndPortfolio",
+  "historyId" : "d44f487e81df2757a093075162cbe776",
+  "time" : {
+    "start" : 1549623405456,
+    "stop" : 1549623405508,
+    "duration" : 52
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_RetrieveAggregatedPositions_SecurityAndPortfolio"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "48eb15c12c610757.json",
+  "parameterValues" : [ ]
+}

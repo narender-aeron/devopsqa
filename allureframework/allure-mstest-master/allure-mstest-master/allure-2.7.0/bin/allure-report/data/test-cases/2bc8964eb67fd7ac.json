@@ -1,0 +1,45 @@
+{
+  "uid" : "2bc8964eb67fd7ac",
+  "name" : "WhenPersistingSymbology_ForAnOption_UnderlyingPSSymbolIsGeneratedIfNotPopulated",
+  "fullName" : "unknown.WhenPersistingSymbology_ForAnOption_UnderlyingPSSymbolIsGeneratedIfNotPopulated",
+  "historyId" : "a4493ee505e6e6d21af4e67495932e9c",
+  "time" : {
+    "start" : 1549647935666,
+    "stop" : 1549647938315,
+    "duration" : 2649
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenPersistingSymbology_ForAnOption_UnderlyingPSSymbolIsGeneratedIfNotPopulated"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2bc8964eb67fd7ac.json",
+  "parameterValues" : [ ]
+}

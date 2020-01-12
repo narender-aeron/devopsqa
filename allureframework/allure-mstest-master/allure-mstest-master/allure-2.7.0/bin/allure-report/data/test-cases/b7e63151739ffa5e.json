@@ -1,0 +1,45 @@
+{
+  "uid" : "b7e63151739ffa5e",
+  "name" : "WhenAddingPairsOrderOneLegFailsEDIValidationExpectPendingClerkReject",
+  "fullName" : "unknown.WhenAddingPairsOrderOneLegFailsEDIValidationExpectPendingClerkReject",
+  "historyId" : "98ff768faa821cc279ac546d51a6e97c",
+  "time" : {
+    "start" : 1549643783364,
+    "stop" : 1549643785372,
+    "duration" : 2008
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenAddingPairsOrderOneLegFailsEDIValidationExpectPendingClerkReject"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b7e63151739ffa5e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "33852a58c2f1c562",
+  "name" : "UpdateTrade_TradeFinalize_Error_MultipleTrade_3_IsAllOrNothing_True_MState_UnSupportedState",
+  "fullName" : "unknown.UpdateTrade_TradeFinalize_Error_MultipleTrade_3_IsAllOrNothing_True_MState_UnSupportedState",
+  "historyId" : "2c10b0d5bb3d6c5bfbd7c1f70946997b",
+  "time" : {
+    "start" : 1549625221499,
+    "stop" : 1549625224346,
+    "duration" : 2847
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateTrade_TradeFinalize_Error_MultipleTrade_3_IsAllOrNothing_True_MState_UnSupportedState"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33852a58c2f1c562.json",
+  "parameterValues" : [ ]
+}

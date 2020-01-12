@@ -1,0 +1,45 @@
+{
+  "uid" : "37426db4000bcf1",
+  "name" : "AuthenticateUserTest",
+  "fullName" : "unknown.AuthenticateUserTest",
+  "historyId" : "4087860275bda9b5582aea9771e0d04c",
+  "time" : {
+    "start" : 1539021893932,
+    "stop" : 1539021923945,
+    "duration" : 30013
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "AuthenticateUserTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "37426db4000bcf1.json",
+  "parameterValues" : [ ]
+}

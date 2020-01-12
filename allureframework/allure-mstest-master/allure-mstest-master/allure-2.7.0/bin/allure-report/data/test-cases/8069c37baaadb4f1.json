@@ -1,0 +1,45 @@
+{
+  "uid" : "8069c37baaadb4f1",
+  "name" : "EzeIntradayXML_CreateTradeWithMulBorkers",
+  "fullName" : "unknown.EzeIntradayXML_CreateTradeWithMulBorkers",
+  "historyId" : "22f4af24216159d4865ad6a55ca2aee3",
+  "time" : {
+    "start" : 1549628698058,
+    "stop" : 1549628714207,
+    "duration" : 16149
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeIntradayXML_CreateTradeWithMulBorkers"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8069c37baaadb4f1.json",
+  "parameterValues" : [ ]
+}

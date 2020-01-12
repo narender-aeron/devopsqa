@@ -1,0 +1,45 @@
+{
+  "uid" : "2e65ed7bab767a4c",
+  "name" : "TestFixOutGatewayVerifySingle",
+  "fullName" : "unknown.TestFixOutGatewayVerifySingle",
+  "historyId" : "4c97693567db75aa0a839e83716969e6",
+  "time" : {
+    "start" : 1549637049993,
+    "stop" : 1549637058687,
+    "duration" : 8694
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestFixOutGatewayVerifySingle"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2e65ed7bab767a4c.json",
+  "parameterValues" : [ ]
+}

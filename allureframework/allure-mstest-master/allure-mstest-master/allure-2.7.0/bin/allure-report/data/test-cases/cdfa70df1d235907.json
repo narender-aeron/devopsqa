@@ -1,0 +1,45 @@
+{
+  "uid" : "cdfa70df1d235907",
+  "name" : "TestGetAllocationTargetLot_SellTrade_DecreaseByPercent_BasisTotalAssets_ForCurrentShares_TradeThroughZero_ValidateResponse",
+  "fullName" : "unknown.TestGetAllocationTargetLot_SellTrade_DecreaseByPercent_BasisTotalAssets_ForCurrentShares_TradeThroughZero_ValidateResponse",
+  "historyId" : "3d724546b9767bf1dddb54bd0a9acf1",
+  "time" : {
+    "start" : 1549645193666,
+    "stop" : 1549645193743,
+    "duration" : 77
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestGetAllocationTargetLot_SellTrade_DecreaseByPercent_BasisTotalAssets_ForCurrentShares_TradeThroughZero_ValidateResponse"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cdfa70df1d235907.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "f17a836f1223c3e1",
+  "name" : "Verify_Mifid_ListMode2",
+  "fullName" : "unknown.Verify_Mifid_ListMode2",
+  "historyId" : "e4415aa0c5e680989ef3a970eb2a46c8",
+  "time" : {
+    "start" : 1549642120543,
+    "stop" : 1549642206299,
+    "duration" : 85756
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_Mifid_ListMode2"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f17a836f1223c3e1.json",
+  "parameterValues" : [ ]
+}

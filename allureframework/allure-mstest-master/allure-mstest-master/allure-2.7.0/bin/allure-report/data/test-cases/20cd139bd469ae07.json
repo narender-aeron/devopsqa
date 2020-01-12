@@ -1,0 +1,45 @@
+{
+  "uid" : "20cd139bd469ae07",
+  "name" : "GetTradeLotCountBySymbolTest",
+  "fullName" : "unknown.GetTradeLotCountBySymbolTest",
+  "historyId" : "38521f050db50f05abaf035753ec4ac5",
+  "time" : {
+    "start" : 1549646268834,
+    "stop" : 1549646268877,
+    "duration" : 43
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetTradeLotCountBySymbolTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "20cd139bd469ae07.json",
+  "parameterValues" : [ ]
+}

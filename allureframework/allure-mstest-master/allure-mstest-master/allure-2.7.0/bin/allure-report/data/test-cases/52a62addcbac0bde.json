@@ -1,0 +1,45 @@
+{
+  "uid" : "52a62addcbac0bde",
+  "name" : "WhenRunningScenarioOnValidOptionCallRiskSessionLogHasNoErrors",
+  "fullName" : "unknown.WhenRunningScenarioOnValidOptionCallRiskSessionLogHasNoErrors",
+  "historyId" : "18943a386fee57ac6a37ac2ba7140417",
+  "time" : {
+    "start" : 1549647895296,
+    "stop" : 1549647898942,
+    "duration" : 3646
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenRunningScenarioOnValidOptionCallRiskSessionLogHasNoErrors"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52a62addcbac0bde.json",
+  "parameterValues" : [ ]
+}

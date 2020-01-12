@@ -1,0 +1,45 @@
+{
+  "uid" : "f550f47b2e5259f8",
+  "name" : "TestGetAllocationTargetLot_BuyTrade_PercentTo_BasisTotalAsset_ForTheoShares_WithExistingTrades_ValidateResponse",
+  "fullName" : "unknown.TestGetAllocationTargetLot_BuyTrade_PercentTo_BasisTotalAsset_ForTheoShares_WithExistingTrades_ValidateResponse",
+  "historyId" : "e7bc7f0580f9a1450ac27ed0c3a8114e",
+  "time" : {
+    "start" : 1549645150785,
+    "stop" : 1549645156968,
+    "duration" : 6183
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestGetAllocationTargetLot_BuyTrade_PercentTo_BasisTotalAsset_ForTheoShares_WithExistingTrades_ValidateResponse"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f550f47b2e5259f8.json",
+  "parameterValues" : [ ]
+}

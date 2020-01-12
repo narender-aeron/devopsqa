@@ -1,0 +1,45 @@
+{
+  "uid" : "55cabaa220f0e1c1",
+  "name" : "WhenGettingIntradayChartingHistoricalData",
+  "fullName" : "unknown.WhenGettingIntradayChartingHistoricalData",
+  "historyId" : "9edd8668f3ebc092d0314379453ae0e6",
+  "time" : {
+    "start" : 1549630349314,
+    "stop" : 1549630349325,
+    "duration" : 11
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenGettingIntradayChartingHistoricalData"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "55cabaa220f0e1c1.json",
+  "parameterValues" : [ ]
+}

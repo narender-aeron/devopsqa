@@ -1,0 +1,45 @@
+{
+  "uid" : "98a4414dd809509d",
+  "name" : "WhenCreatingPSSymbolsHaveSomeCreatedOneInvalid",
+  "fullName" : "unknown.WhenCreatingPSSymbolsHaveSomeCreatedOneInvalid",
+  "historyId" : "d74ce9d0be4c065dd5d389a7deba8de7",
+  "time" : {
+    "start" : 1549647917883,
+    "stop" : 1549647917937,
+    "duration" : 54
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCreatingPSSymbolsHaveSomeCreatedOneInvalid"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "98a4414dd809509d.json",
+  "parameterValues" : [ ]
+}

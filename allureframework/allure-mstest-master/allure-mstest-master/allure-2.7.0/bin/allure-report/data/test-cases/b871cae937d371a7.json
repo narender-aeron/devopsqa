@@ -1,0 +1,45 @@
+{
+  "uid" : "b871cae937d371a7",
+  "name" : "GetAvailableLocates",
+  "fullName" : "unknown.GetAvailableLocates",
+  "historyId" : "be9a23d97b03a0a55a0e8eb2f65f3189",
+  "time" : {
+    "start" : 1549635672871,
+    "stop" : 1549635683493,
+    "duration" : 10622
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetAvailableLocates"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b871cae937d371a7.json",
+  "parameterValues" : [ ]
+}

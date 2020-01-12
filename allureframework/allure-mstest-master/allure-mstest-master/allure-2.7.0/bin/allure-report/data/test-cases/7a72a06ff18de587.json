@@ -1,0 +1,45 @@
+{
+  "uid" : "7a72a06ff18de587",
+  "name" : "WhenSettingModelingServiceStatus",
+  "fullName" : "unknown.WhenSettingModelingServiceStatus",
+  "historyId" : "99e2e45d2eea874f05458cced3263678",
+  "time" : {
+    "start" : 1549630123008,
+    "stop" : 1549630123012,
+    "duration" : 4
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenSettingModelingServiceStatus"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a72a06ff18de587.json",
+  "parameterValues" : [ ]
+}

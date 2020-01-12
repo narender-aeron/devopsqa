@@ -1,0 +1,45 @@
+{
+  "uid" : "380693785ba3f2db",
+  "name" : "EnsureValidAllocStratId",
+  "fullName" : "unknown.EnsureValidAllocStratId",
+  "historyId" : "fad5604b6ad56711c60910cd3ecb5acb",
+  "time" : {
+    "start" : 1549646265200,
+    "stop" : 1549646265255,
+    "duration" : 55
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EnsureValidAllocStratId"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "380693785ba3f2db.json",
+  "parameterValues" : [ ]
+}

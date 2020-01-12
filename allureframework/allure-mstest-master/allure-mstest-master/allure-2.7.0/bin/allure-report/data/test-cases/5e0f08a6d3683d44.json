@@ -1,0 +1,45 @@
+{
+  "uid" : "5e0f08a6d3683d44",
+  "name" : "Test_FinalizedBuyTrade_SellToFullyLiquidate_RollbackAndDeleteBuy_MoveSellToStaging_PositionCheckFails",
+  "fullName" : "unknown.Test_FinalizedBuyTrade_SellToFullyLiquidate_RollbackAndDeleteBuy_MoveSellToStaging_PositionCheckFails",
+  "historyId" : "8f4bd67aaf24b13c4e7a20c5f5ce6a2f",
+  "time" : {
+    "start" : 1549647308257,
+    "stop" : 1549647344379,
+    "duration" : 36122
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_FinalizedBuyTrade_SellToFullyLiquidate_RollbackAndDeleteBuy_MoveSellToStaging_PositionCheckFails"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5e0f08a6d3683d44.json",
+  "parameterValues" : [ ]
+}

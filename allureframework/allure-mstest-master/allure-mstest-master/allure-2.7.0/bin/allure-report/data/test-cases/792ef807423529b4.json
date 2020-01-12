@@ -1,0 +1,45 @@
+{
+  "uid" : "792ef807423529b4",
+  "name" : "Verify_MBS_HandshakeModel",
+  "fullName" : "unknown.Verify_MBS_HandshakeModel",
+  "historyId" : "34faa33409e3987c128e128ef67e4382",
+  "time" : {
+    "start" : 1549638152576,
+    "stop" : 1549638156143,
+    "duration" : 3567
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_MBS_HandshakeModel"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "792ef807423529b4.json",
+  "parameterValues" : [ ]
+}

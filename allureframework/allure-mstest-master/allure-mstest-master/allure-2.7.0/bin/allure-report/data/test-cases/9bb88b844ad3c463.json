@@ -1,0 +1,45 @@
+{
+  "uid" : "9bb88b844ad3c463",
+  "name" : "WhenRunningAScenario_DatafeedHasNoPrice_RiskServiceGetsPriceFromAnalyticsInRiskSessionLog",
+  "fullName" : "unknown.WhenRunningAScenario_DatafeedHasNoPrice_RiskServiceGetsPriceFromAnalyticsInRiskSessionLog",
+  "historyId" : "30ca0ea049c3f4c93158d82d5ab36c7a",
+  "time" : {
+    "start" : 1549647979702,
+    "stop" : 1549647989924,
+    "duration" : 10222
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenRunningAScenario_DatafeedHasNoPrice_RiskServiceGetsPriceFromAnalyticsInRiskSessionLog"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9bb88b844ad3c463.json",
+  "parameterValues" : [ ]
+}

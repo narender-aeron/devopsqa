@@ -1,0 +1,45 @@
+{
+  "uid" : "909fcf9e035f5d0",
+  "name" : "Verify_Sending_Outbound_Udf_Override",
+  "fullName" : "unknown.Verify_Sending_Outbound_Udf_Override",
+  "historyId" : "17141fb63fd995926c177d99a853f738",
+  "time" : {
+    "start" : 1549637506218,
+    "stop" : 1549637526826,
+    "duration" : 20608
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_Sending_Outbound_Udf_Override"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "909fcf9e035f5d0.json",
+  "parameterValues" : [ ]
+}

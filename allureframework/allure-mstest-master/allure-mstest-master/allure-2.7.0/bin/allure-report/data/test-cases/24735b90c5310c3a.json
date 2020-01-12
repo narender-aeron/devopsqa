@@ -1,0 +1,45 @@
+{
+  "uid" : "24735b90c5310c3a",
+  "name" : "WhenBatchInsertOrderAllOrNothingFalse",
+  "fullName" : "unknown.WhenBatchInsertOrderAllOrNothingFalse",
+  "historyId" : "88dac87928f3da6f260b261bee5126f0",
+  "time" : {
+    "start" : 1549643673948,
+    "stop" : 1549643678982,
+    "duration" : 5034
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenBatchInsertOrderAllOrNothingFalse"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "24735b90c5310c3a.json",
+  "parameterValues" : [ ]
+}

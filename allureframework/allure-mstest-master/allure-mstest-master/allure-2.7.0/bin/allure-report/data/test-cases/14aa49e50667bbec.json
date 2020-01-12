@@ -1,0 +1,45 @@
+{
+  "uid" : "14aa49e50667bbec",
+  "name" : "WhenParentOrderEntryWithWarningLevelViolationExpectsViolationAndAck",
+  "fullName" : "unknown.WhenParentOrderEntryWithWarningLevelViolationExpectsViolationAndAck",
+  "historyId" : "9779dbc62ced7a5bef2ab83f78299734",
+  "time" : {
+    "start" : 1549643849672,
+    "stop" : 1549643853782,
+    "duration" : 4110
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenParentOrderEntryWithWarningLevelViolationExpectsViolationAndAck"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14aa49e50667bbec.json",
+  "parameterValues" : [ ]
+}

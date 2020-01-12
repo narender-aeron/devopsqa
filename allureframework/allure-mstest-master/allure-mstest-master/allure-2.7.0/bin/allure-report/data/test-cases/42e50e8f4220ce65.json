@@ -1,0 +1,45 @@
+{
+  "uid" : "42e50e8f4220ce65",
+  "name" : "GetAllPositionsTest_Null",
+  "fullName" : "unknown.GetAllPositionsTest_Null",
+  "historyId" : "2083690e92432465f375e12fc6d9570c",
+  "time" : {
+    "start" : 1549622194529,
+    "stop" : 1549622196081,
+    "duration" : 1552
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetAllPositionsTest_Null"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "42e50e8f4220ce65.json",
+  "parameterValues" : [ ]
+}

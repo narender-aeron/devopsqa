@@ -1,0 +1,45 @@
+{
+  "uid" : "237ec12a58a70f3b",
+  "name" : "WhenInsertingNewSecurity_RiskServiceGeneratesSymbology",
+  "fullName" : "unknown.WhenInsertingNewSecurity_RiskServiceGeneratesSymbology",
+  "historyId" : "e0fbb4f8f2263b9f6be15f0187a4499a",
+  "time" : {
+    "start" : 1539021719327,
+    "stop" : 1539021722396,
+    "duration" : 3069
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenInsertingNewSecurity_RiskServiceGeneratesSymbology"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "237ec12a58a70f3b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "c2b5f5f13b9ddc4a",
+  "name" : "WhenDoingDataIntegretyCheck_SecTypeOverridesAreRespected",
+  "fullName" : "unknown.WhenDoingDataIntegretyCheck_SecTypeOverridesAreRespected",
+  "historyId" : "6c75a5fdefe2a2eb573ed4db2f823ddf",
+  "time" : {
+    "start" : 1549647938316,
+    "stop" : 1549647941674,
+    "duration" : 3358
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenDoingDataIntegretyCheck_SecTypeOverridesAreRespected"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2b5f5f13b9ddc4a.json",
+  "parameterValues" : [ ]
+}

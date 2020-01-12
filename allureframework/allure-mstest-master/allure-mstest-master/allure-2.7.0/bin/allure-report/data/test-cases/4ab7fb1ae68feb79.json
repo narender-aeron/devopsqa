@@ -1,0 +1,45 @@
+{
+  "uid" : "4ab7fb1ae68feb79",
+  "name" : "WhenDeletingViewType",
+  "fullName" : "unknown.WhenDeletingViewType",
+  "historyId" : "9e7ac90e6117af388840348219a9cc",
+  "time" : {
+    "start" : 1549630323366,
+    "stop" : 1549630324408,
+    "duration" : 1042
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenDeletingViewType"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4ab7fb1ae68feb79.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "58f707508939e464",
+  "name" : "EZEFileMoveInterface_CopyAndOver",
+  "fullName" : "unknown.EZEFileMoveInterface_CopyAndOver",
+  "historyId" : "6d8fc1a07569bbbaee5c53efcbad6bc",
+  "time" : {
+    "start" : 1549627519629,
+    "stop" : 1549627670326,
+    "duration" : 150697
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EZEFileMoveInterface_CopyAndOver"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "58f707508939e464.json",
+  "parameterValues" : [ ]
+}

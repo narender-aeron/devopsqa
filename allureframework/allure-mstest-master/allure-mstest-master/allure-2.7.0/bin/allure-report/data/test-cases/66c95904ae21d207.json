@@ -1,0 +1,45 @@
+{
+  "uid" : "66c95904ae21d207",
+  "name" : "WhenStartServices_SpecifyEodConfiguration_ExecutionEodProperly",
+  "fullName" : "unknown.WhenStartServices_SpecifyEodConfiguration_ExecutionEodProperly",
+  "historyId" : "2cf1120c9493623db28d5997916f0f7a",
+  "time" : {
+    "start" : 1549631937271,
+    "stop" : 1549632606897,
+    "duration" : 669626
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenStartServices_SpecifyEodConfiguration_ExecutionEodProperly"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "66c95904ae21d207.json",
+  "parameterValues" : [ ]
+}

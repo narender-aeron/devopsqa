@@ -1,0 +1,45 @@
+{
+  "uid" : "d0e72a34b6c379b",
+  "name" : "WhenBatchFinalizingDoneTrades_TcTradeAlcTFUpdateCorrectly",
+  "fullName" : "unknown.WhenBatchFinalizingDoneTrades_TcTradeAlcTFUpdateCorrectly",
+  "historyId" : "9f9193adf6776bb9881a966fa7a39b95",
+  "time" : {
+    "start" : 1549645526254,
+    "stop" : 1549645550419,
+    "duration" : 24165
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenBatchFinalizingDoneTrades_TcTradeAlcTFUpdateCorrectly"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d0e72a34b6c379b.json",
+  "parameterValues" : [ ]
+}

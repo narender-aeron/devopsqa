@@ -1,0 +1,45 @@
+{
+  "uid" : "c7fd68fb44dc9b70",
+  "name" : "Test_InsertSingleExecution_WhenOTCWaiverFlagIsIncorrect",
+  "fullName" : "unknown.Test_InsertSingleExecution_WhenOTCWaiverFlagIsIncorrect",
+  "historyId" : "d84fe299240bd2fc1065b491be723005",
+  "time" : {
+    "start" : 1549622589729,
+    "stop" : 1549622600760,
+    "duration" : 11031
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_InsertSingleExecution_WhenOTCWaiverFlagIsIncorrect"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c7fd68fb44dc9b70.json",
+  "parameterValues" : [ ]
+}

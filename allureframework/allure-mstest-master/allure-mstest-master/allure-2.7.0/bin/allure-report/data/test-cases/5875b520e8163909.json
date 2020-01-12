@@ -1,0 +1,45 @@
+{
+  "uid" : "5875b520e8163909",
+  "name" : "Verify_Ability_To_Add_Tags_To_HTFIX",
+  "fullName" : "unknown.Verify_Ability_To_Add_Tags_To_HTFIX",
+  "historyId" : "b04e6ec8fcc6e8eb1cde12b2024c08c8",
+  "time" : {
+    "start" : 1549637483801,
+    "stop" : 1549637495120,
+    "duration" : 11319
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_Ability_To_Add_Tags_To_HTFIX"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5875b520e8163909.json",
+  "parameterValues" : [ ]
+}

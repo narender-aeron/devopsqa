@@ -1,0 +1,45 @@
+{
+  "uid" : "7b53055e2884ee8a",
+  "name" : "WhenCreate_Sc1Trade_Get_Success",
+  "fullName" : "unknown.WhenCreate_Sc1Trade_Get_Success",
+  "historyId" : "144b1a30a810df20415a4566a6c14d7f",
+  "time" : {
+    "start" : 1549642639626,
+    "stop" : 1549642642137,
+    "duration" : 2511
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCreate_Sc1Trade_Get_Success"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b53055e2884ee8a.json",
+  "parameterValues" : [ ]
+}

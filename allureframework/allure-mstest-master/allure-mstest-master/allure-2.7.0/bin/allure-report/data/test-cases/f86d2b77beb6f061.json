@@ -1,0 +1,45 @@
+{
+  "uid" : "f86d2b77beb6f061",
+  "name" : "CreateTStateTradeWithIDMFieldsTestWithGUID",
+  "fullName" : "unknown.CreateTStateTradeWithIDMFieldsTestWithGUID",
+  "historyId" : "1c108636355a66c0e731eabf4cd24deb",
+  "time" : {
+    "start" : 1549624469001,
+    "stop" : 1549624471013,
+    "duration" : 2012
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreateTStateTradeWithIDMFieldsTestWithGUID"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f86d2b77beb6f061.json",
+  "parameterValues" : [ ]
+}

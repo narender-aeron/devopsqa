@@ -1,0 +1,45 @@
+{
+  "uid" : "7dc033caa7aedf71",
+  "name" : "UpdateClearingBrokerAllocationLot",
+  "fullName" : "unknown.UpdateClearingBrokerAllocationLot",
+  "historyId" : "696b72b3710eb2deac5154164a788594",
+  "time" : {
+    "start" : 1549646265124,
+    "stop" : 1549646265170,
+    "duration" : 46
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateClearingBrokerAllocationLot"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7dc033caa7aedf71.json",
+  "parameterValues" : [ ]
+}

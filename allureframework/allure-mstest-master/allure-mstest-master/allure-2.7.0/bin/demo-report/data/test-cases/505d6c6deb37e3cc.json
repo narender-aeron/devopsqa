@@ -1,0 +1,45 @@
+{
+  "uid" : "505d6c6deb37e3cc",
+  "name" : "Test_RetrievePositionLots_CreateTradeValidatePositions",
+  "fullName" : "unknown.Test_RetrievePositionLots_CreateTradeValidatePositions",
+  "historyId" : "38f7b283da58b9d795439ab45d441b34",
+  "time" : {
+    "start" : 1539023789109,
+    "stop" : 1539023805306,
+    "duration" : 16197
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_RetrievePositionLots_CreateTradeValidatePositions"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "505d6c6deb37e3cc.json",
+  "parameterValues" : [ ]
+}

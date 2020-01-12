@@ -1,0 +1,45 @@
+{
+  "uid" : "67ec35a4f0c92199",
+  "name" : "DeleteSecurityTest_Success",
+  "fullName" : "unknown.DeleteSecurityTest_Success",
+  "historyId" : "221860775f2cb66461835842920017be",
+  "time" : {
+    "start" : 1549624303753,
+    "stop" : 1549624306138,
+    "duration" : 2385
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteSecurityTest_Success"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "67ec35a4f0c92199.json",
+  "parameterValues" : [ ]
+}

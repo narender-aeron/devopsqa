@@ -1,0 +1,45 @@
+{
+  "uid" : "7c22fa44d0d48146",
+  "name" : "RequestAdditionalLocatesPerCustodian",
+  "fullName" : "unknown.RequestAdditionalLocatesPerCustodian",
+  "historyId" : "12d6083f39be5fe43ac29736acd2fe2a",
+  "time" : {
+    "start" : 1549635303779,
+    "stop" : 1549635313901,
+    "duration" : 10122
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RequestAdditionalLocatesPerCustodian"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c22fa44d0d48146.json",
+  "parameterValues" : [ ]
+}

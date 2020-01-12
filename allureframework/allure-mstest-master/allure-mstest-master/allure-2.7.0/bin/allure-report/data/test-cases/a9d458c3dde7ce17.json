@@ -1,0 +1,45 @@
+{
+  "uid" : "a9d458c3dde7ce17",
+  "name" : "GetSecType",
+  "fullName" : "unknown.GetSecType",
+  "historyId" : "4b2496e3cb7e1b1d606f1c53f76d2126",
+  "time" : {
+    "start" : 1549626817118,
+    "stop" : 1549626817412,
+    "duration" : 294
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetSecType"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9d458c3dde7ce17.json",
+  "parameterValues" : [ ]
+}

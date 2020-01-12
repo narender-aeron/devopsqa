@@ -1,0 +1,45 @@
+{
+  "uid" : "df750acae7444c40",
+  "name" : "WhenNotifying_SecurityInformationIsCorrect",
+  "fullName" : "unknown.WhenNotifying_SecurityInformationIsCorrect",
+  "historyId" : "78d4ada6589aa11695be29d06eb118d9",
+  "time" : {
+    "start" : 1549632917896,
+    "stop" : 1549632919451,
+    "duration" : 1555
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenNotifying_SecurityInformationIsCorrect"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df750acae7444c40.json",
+  "parameterValues" : [ ]
+}

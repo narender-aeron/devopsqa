@@ -1,0 +1,45 @@
+{
+  "uid" : "b4ed750419ff2a95",
+  "name" : "RebillF5TradeWithSetting_AddOrginalTradeNoteDisabled",
+  "fullName" : "unknown.RebillF5TradeWithSetting_AddOrginalTradeNoteDisabled",
+  "historyId" : "a899007a20bc94c17a26e38d4218725b",
+  "time" : {
+    "start" : 1549629599665,
+    "stop" : 1549629612018,
+    "duration" : 12353
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RebillF5TradeWithSetting_AddOrginalTradeNoteDisabled"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b4ed750419ff2a95.json",
+  "parameterValues" : [ ]
+}

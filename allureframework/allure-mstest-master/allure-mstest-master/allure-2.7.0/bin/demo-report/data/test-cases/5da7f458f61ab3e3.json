@@ -1,0 +1,45 @@
+{
+  "uid" : "5da7f458f61ab3e3",
+  "name" : "TestTradeRule_AutoFinalize_PartiallyFinalized",
+  "fullName" : "unknown.TestTradeRule_AutoFinalize_PartiallyFinalized",
+  "historyId" : "6643b33d2805daa91a16938a86900ddc",
+  "time" : {
+    "start" : 1539022492835,
+    "stop" : 1539022513061,
+    "duration" : 20226
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestTradeRule_AutoFinalize_PartiallyFinalized"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5da7f458f61ab3e3.json",
+  "parameterValues" : [ ]
+}

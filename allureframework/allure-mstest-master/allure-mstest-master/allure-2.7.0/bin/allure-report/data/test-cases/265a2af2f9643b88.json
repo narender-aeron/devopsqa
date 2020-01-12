@@ -1,0 +1,45 @@
+{
+  "uid" : "265a2af2f9643b88",
+  "name" : "ValidatePricingDataTest",
+  "fullName" : "unknown.ValidatePricingDataTest",
+  "historyId" : "e4248220c108b0e7da5cc18f22c81a86",
+  "time" : {
+    "start" : 1549621014390,
+    "stop" : 1549621019523,
+    "duration" : 5133
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ValidatePricingDataTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "265a2af2f9643b88.json",
+  "parameterValues" : [ ]
+}

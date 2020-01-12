@@ -1,0 +1,45 @@
+{
+  "uid" : "ffcddb9d0249fd75",
+  "name" : "Test_UpdateSingleExecution_UpdateInvalidTradingCapacity",
+  "fullName" : "unknown.Test_UpdateSingleExecution_UpdateInvalidTradingCapacity",
+  "historyId" : "223ad0234a16a8a2213fe66bfe9ad291",
+  "time" : {
+    "start" : 1549622862192,
+    "stop" : 1549622873214,
+    "duration" : 11022
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_UpdateSingleExecution_UpdateInvalidTradingCapacity"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ffcddb9d0249fd75.json",
+  "parameterValues" : [ ]
+}

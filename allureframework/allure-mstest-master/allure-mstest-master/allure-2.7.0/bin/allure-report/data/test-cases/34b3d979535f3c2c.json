@@ -1,0 +1,45 @@
+{
+  "uid" : "34b3d979535f3c2c",
+  "name" : "DeletePosition_DeletePositionByExternalIDTest_AllOrNothingTrue_ValidInvalid",
+  "fullName" : "unknown.DeletePosition_DeletePositionByExternalIDTest_AllOrNothingTrue_ValidInvalid",
+  "historyId" : "5116124160d9e1d71a00d71d16d45cf6",
+  "time" : {
+    "start" : 1549622186282,
+    "stop" : 1549622189342,
+    "duration" : 3060
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeletePosition_DeletePositionByExternalIDTest_AllOrNothingTrue_ValidInvalid"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "34b3d979535f3c2c.json",
+  "parameterValues" : [ ]
+}

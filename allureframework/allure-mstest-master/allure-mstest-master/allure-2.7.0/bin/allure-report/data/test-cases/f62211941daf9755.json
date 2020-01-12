@@ -1,0 +1,45 @@
+{
+  "uid" : "f62211941daf9755",
+  "name" : "TradeImporter_SaveAndThenUpdateGlobalUserSettings",
+  "fullName" : "unknown.TradeImporter_SaveAndThenUpdateGlobalUserSettings",
+  "historyId" : "9714017c9060907c2e59c4683aaee389",
+  "time" : {
+    "start" : 1549646935994,
+    "stop" : 1549646936131,
+    "duration" : 137
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TradeImporter_SaveAndThenUpdateGlobalUserSettings"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f62211941daf9755.json",
+  "parameterValues" : [ ]
+}

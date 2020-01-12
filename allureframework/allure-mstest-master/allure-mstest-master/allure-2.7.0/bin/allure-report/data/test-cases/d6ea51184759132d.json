@@ -1,0 +1,45 @@
+{
+  "uid" : "d6ea51184759132d",
+  "name" : "GetNextUniqueID_ByCheckingPriceID_ReturnsCorrectRecord",
+  "fullName" : "unknown.GetNextUniqueID_ByCheckingPriceID_ReturnsCorrectRecord",
+  "historyId" : "17cdae933b4a379446e2eef5af4d4355",
+  "time" : {
+    "start" : 1549646266000,
+    "stop" : 1549646266008,
+    "duration" : 8
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetNextUniqueID_ByCheckingPriceID_ReturnsCorrectRecord"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d6ea51184759132d.json",
+  "parameterValues" : [ ]
+}

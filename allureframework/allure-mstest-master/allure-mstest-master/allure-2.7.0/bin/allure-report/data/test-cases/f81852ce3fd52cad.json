@@ -1,0 +1,45 @@
+{
+  "uid" : "f81852ce3fd52cad",
+  "name" : "Verify_TransactionTimeMicrosecondPrecisionDropCopy",
+  "fullName" : "unknown.Verify_TransactionTimeMicrosecondPrecisionDropCopy",
+  "historyId" : "d29e00da832c244d0ac6cd952986804a",
+  "time" : {
+    "start" : 1549638120311,
+    "stop" : 1549638123806,
+    "duration" : 3495
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_TransactionTimeMicrosecondPrecisionDropCopy"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f81852ce3fd52cad.json",
+  "parameterValues" : [ ]
+}

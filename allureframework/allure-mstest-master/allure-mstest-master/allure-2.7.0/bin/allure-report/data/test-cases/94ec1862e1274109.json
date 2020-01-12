@@ -1,0 +1,45 @@
+{
+  "uid" : "94ec1862e1274109",
+  "name" : "WhenRunningScenarioOnExpiredOptionRiskSessionLogHasError",
+  "fullName" : "unknown.WhenRunningScenarioOnExpiredOptionRiskSessionLogHasError",
+  "historyId" : "f6b753a0670c5798ef043bcdb2faf715",
+  "time" : {
+    "start" : 1549647892404,
+    "stop" : 1549647895295,
+    "duration" : 2891
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenRunningScenarioOnExpiredOptionRiskSessionLogHasError"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "94ec1862e1274109.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "aa22a53551d13f85",
+  "name" : "WhenAddingViewType",
+  "fullName" : "unknown.WhenAddingViewType",
+  "historyId" : "886a027c4561f2b92b94880ed4c246f4",
+  "time" : {
+    "start" : 1549630321814,
+    "stop" : 1549630322152,
+    "duration" : 338
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenAddingViewType"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa22a53551d13f85.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "df6b05cae4b90c9a",
+  "name" : "WhenCallingNotify_EnsureOrderIsMaintained_MultipleThreads",
+  "fullName" : "unknown.WhenCallingNotify_EnsureOrderIsMaintained_MultipleThreads",
+  "historyId" : "80ea486e987c0e106b2db7ccc7af8898",
+  "time" : {
+    "start" : 1549632610675,
+    "stop" : 1549632612044,
+    "duration" : 1369
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCallingNotify_EnsureOrderIsMaintained_MultipleThreads"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df6b05cae4b90c9a.json",
+  "parameterValues" : [ ]
+}

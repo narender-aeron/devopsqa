@@ -1,0 +1,45 @@
+{
+  "uid" : "704941ef67a9b4b",
+  "name" : "Test_TradeCancel_TradingServiceGoesDown",
+  "fullName" : "unknown.Test_TradeCancel_TradingServiceGoesDown",
+  "historyId" : "65e6eba713fd94e111f54f76a001a439",
+  "time" : {
+    "start" : 1549623861159,
+    "stop" : 1549623908135,
+    "duration" : 46976
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_TradeCancel_TradingServiceGoesDown"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "704941ef67a9b4b.json",
+  "parameterValues" : [ ]
+}

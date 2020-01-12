@@ -1,0 +1,45 @@
+{
+  "uid" : "ce6a80b143b7b773",
+  "name" : "WhenPersistingSymbology_SecTypeOverridesAreRespected",
+  "fullName" : "unknown.WhenPersistingSymbology_SecTypeOverridesAreRespected",
+  "historyId" : "3ef72b335c5de86b5afea3422e353003",
+  "time" : {
+    "start" : 1549647941676,
+    "stop" : 1549647946317,
+    "duration" : 4641
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenPersistingSymbology_SecTypeOverridesAreRespected"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ce6a80b143b7b773.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "433f1f9fbf48560a",
+  "name" : "UpdateManager_AllOrNothingFalse_ValidInvalid",
+  "fullName" : "unknown.UpdateManager_AllOrNothingFalse_ValidInvalid",
+  "historyId" : "2bf37fcbf5209676ebf4ef1ac2607267",
+  "time" : {
+    "start" : 1539023732544,
+    "stop" : 1539023732618,
+    "duration" : 74
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateManager_AllOrNothingFalse_ValidInvalid"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "433f1f9fbf48560a.json",
+  "parameterValues" : [ ]
+}

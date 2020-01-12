@@ -1,0 +1,45 @@
+{
+  "uid" : "6f102c6f4faf2266",
+  "name" : "Test_UpdateMultipleExecution",
+  "fullName" : "unknown.Test_UpdateMultipleExecution",
+  "historyId" : "e174a82e3ed80c9d437e0aba8b7ac4b2",
+  "time" : {
+    "start" : 1549622828425,
+    "stop" : 1549622840171,
+    "duration" : 11746
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_UpdateMultipleExecution"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f102c6f4faf2266.json",
+  "parameterValues" : [ ]
+}

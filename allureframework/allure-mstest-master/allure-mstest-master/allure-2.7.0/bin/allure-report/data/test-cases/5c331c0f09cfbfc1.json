@@ -1,0 +1,45 @@
+{
+  "uid" : "5c331c0f09cfbfc1",
+  "name" : "WhenSendingClosingTradesFromStagingToTrading_EligibleTradesMerge",
+  "fullName" : "unknown.WhenSendingClosingTradesFromStagingToTrading_EligibleTradesMerge",
+  "historyId" : "7de2aa08ffadc9e508e2b8f72a0c23d2",
+  "time" : {
+    "start" : 1549647197365,
+    "stop" : 1549647255649,
+    "duration" : 58284
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenSendingClosingTradesFromStagingToTrading_EligibleTradesMerge"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c331c0f09cfbfc1.json",
+  "parameterValues" : [ ]
+}

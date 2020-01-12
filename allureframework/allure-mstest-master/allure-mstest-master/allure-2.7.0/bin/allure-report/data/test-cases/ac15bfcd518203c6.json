@@ -1,0 +1,45 @@
+{
+  "uid" : "ac15bfcd518203c6",
+  "name" : "CreateTrade_NoTradeFinalize_Success_MultipleTrade_2_AllOrNothing_False_TState",
+  "fullName" : "unknown.CreateTrade_NoTradeFinalize_Success_MultipleTrade_2_AllOrNothing_False_TState",
+  "historyId" : "86077a1705cc77b280f3993af8b7606d",
+  "time" : {
+    "start" : 1549624705908,
+    "stop" : 1549624708955,
+    "duration" : 3047
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "CreateTrade_NoTradeFinalize_Success_MultipleTrade_2_AllOrNothing_False_TState"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ac15bfcd518203c6.json",
+  "parameterValues" : [ ]
+}

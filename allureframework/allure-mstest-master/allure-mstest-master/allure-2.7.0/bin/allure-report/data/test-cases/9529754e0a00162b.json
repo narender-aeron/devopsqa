@@ -1,0 +1,45 @@
+{
+  "uid" : "9529754e0a00162b",
+  "name" : "BringToGroupRowCustomEditColumnProRata",
+  "fullName" : "unknown.BringToGroupRowCustomEditColumnProRata",
+  "historyId" : "78e0bce874b1010b97a6c39c516a94d8",
+  "time" : {
+    "start" : 1549631244129,
+    "stop" : 1549631244760,
+    "duration" : 631
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "BringToGroupRowCustomEditColumnProRata"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9529754e0a00162b.json",
+  "parameterValues" : [ ]
+}

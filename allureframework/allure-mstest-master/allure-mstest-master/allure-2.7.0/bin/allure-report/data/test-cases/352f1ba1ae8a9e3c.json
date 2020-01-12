@@ -1,0 +1,45 @@
+{
+  "uid" : "352f1ba1ae8a9e3c",
+  "name" : "Verify_MDO_KeepBrokersSetTo3",
+  "fullName" : "unknown.Verify_MDO_KeepBrokersSetTo3",
+  "historyId" : "3b66ee5deff64c14b2779844511aba44",
+  "time" : {
+    "start" : 1549641339026,
+    "stop" : 1549641458533,
+    "duration" : 119507
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_MDO_KeepBrokersSetTo3"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "352f1ba1ae8a9e3c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "81e425523b00526d",
+  "name" : "GetSecurityUserDefinedFields_ByCheckingParticularUser_ReturnsCorrectList",
+  "fullName" : "unknown.GetSecurityUserDefinedFields_ByCheckingParticularUser_ReturnsCorrectList",
+  "historyId" : "395d3a2f7d1e9557c91e3d6157fffcf5",
+  "time" : {
+    "start" : 1549646271260,
+    "stop" : 1549646271267,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetSecurityUserDefinedFields_ByCheckingParticularUser_ReturnsCorrectList"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "81e425523b00526d.json",
+  "parameterValues" : [ ]
+}

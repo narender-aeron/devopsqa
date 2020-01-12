@@ -1,0 +1,45 @@
+{
+  "uid" : "adc3966ab88f64da",
+  "name" : "WhenDoingDataValidationFutureNoExpirationErrorReported",
+  "fullName" : "unknown.WhenDoingDataValidationFutureNoExpirationErrorReported",
+  "historyId" : "441a258e9fc0f77e6c634aeeb9914ebe",
+  "time" : {
+    "start" : 1549647946318,
+    "stop" : 1549647948453,
+    "duration" : 2135
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenDoingDataValidationFutureNoExpirationErrorReported"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "adc3966ab88f64da.json",
+  "parameterValues" : [ ]
+}

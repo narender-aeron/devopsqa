@@ -1,0 +1,45 @@
+{
+  "uid" : "23063c6b2cbdb31c",
+  "name" : "Verify_EDMCode_FIX42",
+  "fullName" : "unknown.Verify_EDMCode_FIX42",
+  "historyId" : "95a7677a951f11d419a85c629a7ea484",
+  "time" : {
+    "start" : 1549637360353,
+    "stop" : 1549637372208,
+    "duration" : 11855
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_EDMCode_FIX42"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "23063c6b2cbdb31c.json",
+  "parameterValues" : [ ]
+}

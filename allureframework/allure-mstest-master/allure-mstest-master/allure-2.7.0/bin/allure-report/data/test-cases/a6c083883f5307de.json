@@ -1,0 +1,45 @@
+{
+  "uid" : "a6c083883f5307de",
+  "name" : "GetDoneAmountTest",
+  "fullName" : "unknown.GetDoneAmountTest",
+  "historyId" : "b3222b805fddf39b430c5acedef69162",
+  "time" : {
+    "start" : 1549646268307,
+    "stop" : 1549646268336,
+    "duration" : 29
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetDoneAmountTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a6c083883f5307de.json",
+  "parameterValues" : [ ]
+}

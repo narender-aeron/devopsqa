@@ -1,0 +1,45 @@
+{
+  "uid" : "b34b4d6a90a596af",
+  "name" : "RunInOutflowRebal",
+  "fullName" : "unknown.RunInOutflowRebal",
+  "historyId" : "47fb05dcd94aaba22fb798b33e4d9275",
+  "time" : {
+    "start" : 1549631252441,
+    "stop" : 1549631253270,
+    "duration" : 829
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RunInOutflowRebal"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b34b4d6a90a596af.json",
+  "parameterValues" : [ ]
+}

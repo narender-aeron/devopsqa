@@ -1,0 +1,45 @@
+{
+  "uid" : "87fbe4a44c5cc000",
+  "name" : "Verify_ExclusionAndAdvancedRoutingRules",
+  "fullName" : "unknown.Verify_ExclusionAndAdvancedRoutingRules",
+  "historyId" : "ecf49bc4127b9342f998ff9b82e4da9a",
+  "time" : {
+    "start" : 1549641458535,
+    "stop" : 1549641474419,
+    "duration" : 15884
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_ExclusionAndAdvancedRoutingRules"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "87fbe4a44c5cc000.json",
+  "parameterValues" : [ ]
+}

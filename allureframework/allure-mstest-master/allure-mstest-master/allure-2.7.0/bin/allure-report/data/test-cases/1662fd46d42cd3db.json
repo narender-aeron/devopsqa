@@ -1,0 +1,45 @@
+{
+  "uid" : "1662fd46d42cd3db",
+  "name" : "WhenDoingDataValidationUSOptionMissingUnderlyingErrorReported",
+  "fullName" : "unknown.WhenDoingDataValidationUSOptionMissingUnderlyingErrorReported",
+  "historyId" : "75a33be3ed49f5033ce509f936afa81d",
+  "time" : {
+    "start" : 1549647954363,
+    "stop" : 1549647955849,
+    "duration" : 1486
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenDoingDataValidationUSOptionMissingUnderlyingErrorReported"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1662fd46d42cd3db.json",
+  "parameterValues" : [ ]
+}

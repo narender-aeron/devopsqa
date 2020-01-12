@@ -1,0 +1,45 @@
+{
+  "uid" : "85a78e15f78c8c5f",
+  "name" : "GetArchivePortfolioGroupTotal",
+  "fullName" : "unknown.GetArchivePortfolioGroupTotal",
+  "historyId" : "65af632e9b7f6694bc7741b7488d199",
+  "time" : {
+    "start" : 1549646264591,
+    "stop" : 1549646264652,
+    "duration" : 61
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetArchivePortfolioGroupTotal"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85a78e15f78c8c5f.json",
+  "parameterValues" : [ ]
+}

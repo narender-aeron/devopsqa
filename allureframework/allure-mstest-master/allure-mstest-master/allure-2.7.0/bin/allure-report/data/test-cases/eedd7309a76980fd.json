@@ -1,0 +1,45 @@
+{
+  "uid" : "eedd7309a76980fd",
+  "name" : "SimpleWhatIfTest",
+  "fullName" : "unknown.SimpleWhatIfTest",
+  "historyId" : "36bae0edfe275d52437b706c52a785f2",
+  "time" : {
+    "start" : 1549631258888,
+    "stop" : 1549631260708,
+    "duration" : 1820
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "SimpleWhatIfTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eedd7309a76980fd.json",
+  "parameterValues" : [ ]
+}

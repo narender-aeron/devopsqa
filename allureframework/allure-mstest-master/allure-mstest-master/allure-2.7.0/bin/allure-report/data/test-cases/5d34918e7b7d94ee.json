@@ -1,0 +1,45 @@
+{
+  "uid" : "5d34918e7b7d94ee",
+  "name" : "TestGetAllocationTargetLot_ShortTrade_PercentTo_P5Value_ForSODShares_WithExistingTrades_ValidateResponse",
+  "fullName" : "unknown.TestGetAllocationTargetLot_ShortTrade_PercentTo_P5Value_ForSODShares_WithExistingTrades_ValidateResponse",
+  "historyId" : "c47fe99d199851b6d61df0ae5682eec6",
+  "time" : {
+    "start" : 1549645164049,
+    "stop" : 1549645169459,
+    "duration" : 5410
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestGetAllocationTargetLot_ShortTrade_PercentTo_P5Value_ForSODShares_WithExistingTrades_ValidateResponse"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d34918e7b7d94ee.json",
+  "parameterValues" : [ ]
+}

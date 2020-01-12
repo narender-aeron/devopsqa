@@ -1,0 +1,45 @@
+{
+  "uid" : "bef515e59c3bbf19",
+  "name" : "GetAllocationsForTrade",
+  "fullName" : "unknown.GetAllocationsForTrade",
+  "historyId" : "83ed9bc6cb47f3bf021aa090d3faa63b",
+  "time" : {
+    "start" : 1549646263548,
+    "stop" : 1549646263643,
+    "duration" : 95
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetAllocationsForTrade"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bef515e59c3bbf19.json",
+  "parameterValues" : [ ]
+}

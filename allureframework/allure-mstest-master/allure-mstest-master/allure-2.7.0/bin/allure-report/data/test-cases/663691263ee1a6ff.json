@@ -1,0 +1,45 @@
+{
+  "uid" : "663691263ee1a6ff",
+  "name" : "BomAddBrokerUDF",
+  "fullName" : "unknown.BomAddBrokerUDF",
+  "historyId" : "8f566beb6e8cd6adcf6163bf9c362519",
+  "time" : {
+    "start" : 1549636988045,
+    "stop" : 1549637011480,
+    "duration" : 23435
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "BomAddBrokerUDF"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "663691263ee1a6ff.json",
+  "parameterValues" : [ ]
+}

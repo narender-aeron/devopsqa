@@ -1,0 +1,45 @@
+{
+  "uid" : "46e94405b478b854",
+  "name" : "ImportInventory",
+  "fullName" : "unknown.ImportInventory",
+  "historyId" : "ce0571b710103da2b2ff51bd334e58c5",
+  "time" : {
+    "start" : 1539021428158,
+    "stop" : 1539021434511,
+    "duration" : 6353
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ImportInventory"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "46e94405b478b854.json",
+  "parameterValues" : [ ]
+}

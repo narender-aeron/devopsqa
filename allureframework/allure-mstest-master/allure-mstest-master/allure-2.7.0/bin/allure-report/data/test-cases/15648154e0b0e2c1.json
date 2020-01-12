@@ -1,0 +1,45 @@
+{
+  "uid" : "15648154e0b0e2c1",
+  "name" : "Verify_MBS_DropModel",
+  "fullName" : "unknown.Verify_MBS_DropModel",
+  "historyId" : "ce9bc5643104fcd1a1d28be72ad9e5bc",
+  "time" : {
+    "start" : 1549638156145,
+    "stop" : 1549638158149,
+    "duration" : 2004
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_MBS_DropModel"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "15648154e0b0e2c1.json",
+  "parameterValues" : [ ]
+}

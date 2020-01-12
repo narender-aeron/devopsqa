@@ -1,0 +1,45 @@
+{
+  "uid" : "75320ab0025cc6b8",
+  "name" : "VerifyBondsAssetClass_ManualFill_NotifyMRS_Test",
+  "fullName" : "unknown.VerifyBondsAssetClass_ManualFill_NotifyMRS_Test",
+  "historyId" : "ee742966a3785d55c08b8ac4bdd96121",
+  "time" : {
+    "start" : 1549631861176,
+    "stop" : 1549631926347,
+    "duration" : 65171
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "VerifyBondsAssetClass_ManualFill_NotifyMRS_Test"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "75320ab0025cc6b8.json",
+  "parameterValues" : [ ]
+}

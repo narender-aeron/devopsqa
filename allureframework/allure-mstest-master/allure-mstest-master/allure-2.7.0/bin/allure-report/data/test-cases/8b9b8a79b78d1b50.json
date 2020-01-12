@@ -1,0 +1,45 @@
+{
+  "uid" : "8b9b8a79b78d1b50",
+  "name" : "Verify_ListTraderOrderRouting",
+  "fullName" : "unknown.Verify_ListTraderOrderRouting",
+  "historyId" : "623c55120d0291a543bfc231e62f1349",
+  "time" : {
+    "start" : 1549638285850,
+    "stop" : 1549638291201,
+    "duration" : 5351
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_ListTraderOrderRouting"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b9b8a79b78d1b50.json",
+  "parameterValues" : [ ]
+}

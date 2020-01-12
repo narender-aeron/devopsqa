@@ -1,0 +1,45 @@
+{
+  "uid" : "d3aa00a19671a38c",
+  "name" : "Verify_PendingReplace_OnOrderQtyDecreaseFromOMS",
+  "fullName" : "unknown.Verify_PendingReplace_OnOrderQtyDecreaseFromOMS",
+  "historyId" : "ab595d899f9e61681ade7e4e73609e33",
+  "time" : {
+    "start" : 1549638331869,
+    "stop" : 1549638335067,
+    "duration" : 3198
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_PendingReplace_OnOrderQtyDecreaseFromOMS"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3aa00a19671a38c.json",
+  "parameterValues" : [ ]
+}

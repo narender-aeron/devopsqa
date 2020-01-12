@@ -1,0 +1,45 @@
+{
+  "uid" : "78e08e37f99a34ce",
+  "name" : "InsertOrUpdatePosition_AllOrNothingFalse_ValidInvalid",
+  "fullName" : "unknown.InsertOrUpdatePosition_AllOrNothingFalse_ValidInvalid",
+  "historyId" : "5c49a47fc804fb45d58725c467444272",
+  "time" : {
+    "start" : 1549622202174,
+    "stop" : 1549622205266,
+    "duration" : 3092
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "InsertOrUpdatePosition_AllOrNothingFalse_ValidInvalid"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "78e08e37f99a34ce.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "4e9be9a70519d690",
+  "name" : "ArchiveRolloverTStateTrades",
+  "fullName" : "unknown.ArchiveRolloverTStateTrades",
+  "historyId" : "f423bb2a629bc95201334d987bbd85e0",
+  "time" : {
+    "start" : 1539023543949,
+    "stop" : 1539023562283,
+    "duration" : 18334
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ArchiveRolloverTStateTrades"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e9be9a70519d690.json",
+  "parameterValues" : [ ]
+}

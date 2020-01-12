@@ -1,0 +1,45 @@
+{
+  "uid" : "fd3fac89908ab488",
+  "name" : "PauseMarketData",
+  "fullName" : "unknown.PauseMarketData",
+  "historyId" : "c3a6f85d87114a5893a411b02e9ae212",
+  "time" : {
+    "start" : 1549630136658,
+    "stop" : 1549630142632,
+    "duration" : 5974
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "PauseMarketData"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd3fac89908ab488.json",
+  "parameterValues" : [ ]
+}

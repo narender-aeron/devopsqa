@@ -1,0 +1,45 @@
+{
+  "uid" : "408923d951f119a3",
+  "name" : "Verify_EOT7553_QND_MDO_ExpireTime_MBS_ProcessResidual",
+  "fullName" : "unknown.Verify_EOT7553_QND_MDO_ExpireTime_MBS_ProcessResidual",
+  "historyId" : "47649109d2e2b3c0b00c564fd305fe5e",
+  "time" : {
+    "start" : 1549640054613,
+    "stop" : 1549640098892,
+    "duration" : 44279
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_EOT7553_QND_MDO_ExpireTime_MBS_ProcessResidual"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "408923d951f119a3.json",
+  "parameterValues" : [ ]
+}

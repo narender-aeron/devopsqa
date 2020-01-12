@@ -1,0 +1,45 @@
+{
+  "uid" : "4bfd6d2d660d3d85",
+  "name" : "NewHoldingsAppear",
+  "fullName" : "unknown.NewHoldingsAppear",
+  "historyId" : "de5ef6f2911a084403b1d6443159401",
+  "time" : {
+    "start" : 1549630142634,
+    "stop" : 1549630149421,
+    "duration" : 6787
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "NewHoldingsAppear"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4bfd6d2d660d3d85.json",
+  "parameterValues" : [ ]
+}

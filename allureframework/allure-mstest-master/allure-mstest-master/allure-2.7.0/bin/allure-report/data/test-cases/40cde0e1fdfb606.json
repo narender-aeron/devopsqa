@@ -1,0 +1,45 @@
+{
+  "uid" : "40cde0e1fdfb606",
+  "name" : "InsertOrUpdatePosition_ExternalID_null",
+  "fullName" : "unknown.InsertOrUpdatePosition_ExternalID_null",
+  "historyId" : "c11a3d8a8ede8384aa9a4fda91994527",
+  "time" : {
+    "start" : 1549622209886,
+    "stop" : 1549622211394,
+    "duration" : 1508
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "InsertOrUpdatePosition_ExternalID_null"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "40cde0e1fdfb606.json",
+  "parameterValues" : [ ]
+}

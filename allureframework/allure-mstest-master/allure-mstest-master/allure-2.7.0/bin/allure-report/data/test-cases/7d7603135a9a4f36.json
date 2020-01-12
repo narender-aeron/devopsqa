@@ -1,0 +1,45 @@
+{
+  "uid" : "7d7603135a9a4f36",
+  "name" : "RenameSecurityTest_Success",
+  "fullName" : "unknown.RenameSecurityTest_Success",
+  "historyId" : "67f59f5859209acd15a560f365d0607c",
+  "time" : {
+    "start" : 1549624306731,
+    "stop" : 1549624307148,
+    "duration" : 417
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RenameSecurityTest_Success"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d7603135a9a4f36.json",
+  "parameterValues" : [ ]
+}

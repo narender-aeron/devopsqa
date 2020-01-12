@@ -1,0 +1,45 @@
+{
+  "uid" : "13a90f05fb513933",
+  "name" : "WhenRemovingAllWhatIfPositions",
+  "fullName" : "unknown.WhenRemovingAllWhatIfPositions",
+  "historyId" : "337c7a33b1ed36dbb71cdde08a75e918",
+  "time" : {
+    "start" : 1539021265285,
+    "stop" : 1539021266334,
+    "duration" : 1049
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenRemovingAllWhatIfPositions"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "13a90f05fb513933.json",
+  "parameterValues" : [ ]
+}

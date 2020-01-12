@@ -1,0 +1,45 @@
+{
+  "uid" : "1840e79ebde033a4",
+  "name" : "WhenCallingNotify_WhileBouncingRedis_AllFillsAreSent",
+  "fullName" : "unknown.WhenCallingNotify_WhileBouncingRedis_AllFillsAreSent",
+  "historyId" : "2315d37e19aeb7e418e7949f17a8c09a",
+  "time" : {
+    "start" : 1539024289363,
+    "stop" : 1539024409066,
+    "duration" : 119703
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenCallingNotify_WhileBouncingRedis_AllFillsAreSent"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1840e79ebde033a4.json",
+  "parameterValues" : [ ]
+}

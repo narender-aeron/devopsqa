@@ -1,0 +1,45 @@
+{
+  "uid" : "ae9d8e60437891d",
+  "name" : "ValidateTradePublish_CreateAndUpdateAllocationTSateTrade",
+  "fullName" : "unknown.ValidateTradePublish_CreateAndUpdateAllocationTSateTrade",
+  "historyId" : "e959874ba5b17ad5a5d36f31e726dc5e",
+  "time" : {
+    "start" : 1549626139813,
+    "stop" : 1549626175536,
+    "duration" : 35723
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ValidateTradePublish_CreateAndUpdateAllocationTSateTrade"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae9d8e60437891d.json",
+  "parameterValues" : [ ]
+}

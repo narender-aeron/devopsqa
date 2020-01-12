@@ -1,0 +1,45 @@
+{
+  "uid" : "74a43c5562a2d031",
+  "name" : "TraderHasNoAssociations_GetFirmLEIByTrader_ReturnsErrorMsg",
+  "fullName" : "unknown.TraderHasNoAssociations_GetFirmLEIByTrader_ReturnsErrorMsg",
+  "historyId" : "c69c6945f85e1cc8072c0c758df8d6b4",
+  "time" : {
+    "start" : 1549634616433,
+    "stop" : 1549634616543,
+    "duration" : 110
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TraderHasNoAssociations_GetFirmLEIByTrader_ReturnsErrorMsg"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "74a43c5562a2d031.json",
+  "parameterValues" : [ ]
+}

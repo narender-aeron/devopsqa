@@ -1,0 +1,45 @@
+{
+  "uid" : "2f73f29c0f740e16",
+  "name" : "TryDeleteArchivedSecurity",
+  "fullName" : "unknown.TryDeleteArchivedSecurity",
+  "historyId" : "1a47e74dc4845f3250c8295a89cc5073",
+  "time" : {
+    "start" : 1549626824108,
+    "stop" : 1549626824764,
+    "duration" : 656
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TryDeleteArchivedSecurity"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f73f29c0f740e16.json",
+  "parameterValues" : [ ]
+}

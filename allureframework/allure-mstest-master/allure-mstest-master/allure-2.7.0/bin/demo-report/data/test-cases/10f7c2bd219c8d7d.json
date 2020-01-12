@@ -1,0 +1,51 @@
+{
+  "uid" : "10f7c2bd219c8d7d",
+  "name" : "Verify_NewF9Trade_WithBrokerUDF",
+  "fullName" : "unknown.Verify_NewF9Trade_WithBrokerUDF",
+  "historyId" : "4c2d2b8bc36f6063ad8016ec994b51af",
+  "time" : {
+    "start" : 1539025295920,
+    "stop" : 1539025316783,
+    "duration" : 20863
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Assert.IsTrue failed. Error: expecting the latest CustomFIXTag in  table to be 1=UDFORG not 38=2000|207=NASDAQ GS|44=0|59=0|1=MSFT|20013=KDPLGJJMKVGFAUJWGVMR|20012=T1",
+  "statusTrace" : "   at Eze.Integration.Functional.Test.Common.Utils.SqlVerificationHelper.<VerifyColumnValueContainsValueToTest>b__6(String q, String c, String v) in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\Common\\Utils\\SqlVerificationHelper.cs:line 92\n   at Eze.Integration.Functional.Test.Common.Utils.SqlVerificationHelper.LoopingSQL[T](String query, String columnName, T ValueToTest, Func`4 f) in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\Common\\Utils\\SqlVerificationHelper.cs:line 143\n   at Eze.Integration.Functional.Test.Common.Utils.SqlVerificationHelper.VerifyColumnValueContainsValueToTest(String query, String columnName, String valueToTest) in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\Common\\Utils\\SqlVerificationHelper.cs:line 83\n   at Eze.Integration.Functional.Test.Common.Trading.ExecutionManagement.EmHelper.VerifyActivity_Econn_OutMsgs_Mifid(String tradeId, String brokerId, String mifigTag, String excluded) in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\Common\\Trading\\ExecutionManagement\\EmHelper.cs:line 126\n   at Eze.Integration.Functional.Test.ExecutionManagement.GeneralProductCheckList.Verify_NewF9Trade_WithBrokerUDF() in d:\\WS\\204\\278\\src\\Test Automation\\20-ReleaseTests\\Eze.Integration\\Functional.Test\\Trading\\ExecutionManagement\\Tests\\GeneralProductCheckList.cs:line 2426\n",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify_NewF9Trade_WithBrokerUDF"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "10f7c2bd219c8d7d.json",
+  "parameterValues" : [ ]
+}

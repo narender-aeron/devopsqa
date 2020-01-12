@@ -1,0 +1,45 @@
+{
+  "uid" : "595466f8c3f0f5d8",
+  "name" : "ChecksIfSymbolIsLocateEnabled",
+  "fullName" : "unknown.ChecksIfSymbolIsLocateEnabled",
+  "historyId" : "982dd485abbee4a622bd9fe1a3b9f349",
+  "time" : {
+    "start" : 1549634870369,
+    "stop" : 1549634870503,
+    "duration" : 134
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ChecksIfSymbolIsLocateEnabled"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "595466f8c3f0f5d8.json",
+  "parameterValues" : [ ]
+}

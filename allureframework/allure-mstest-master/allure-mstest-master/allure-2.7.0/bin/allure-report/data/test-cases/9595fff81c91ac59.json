@@ -1,0 +1,45 @@
+{
+  "uid" : "9595fff81c91ac59",
+  "name" : "WhenProcessingWhatIfPositions",
+  "fullName" : "unknown.WhenProcessingWhatIfPositions",
+  "historyId" : "7cf400c15f07467d64011d02574e1fae",
+  "time" : {
+    "start" : 1549630357471,
+    "stop" : 1549630358567,
+    "duration" : 1096
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenProcessingWhatIfPositions"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9595fff81c91ac59.json",
+  "parameterValues" : [ ]
+}

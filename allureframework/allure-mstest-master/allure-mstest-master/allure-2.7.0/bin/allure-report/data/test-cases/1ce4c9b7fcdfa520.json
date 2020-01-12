@@ -1,0 +1,45 @@
+{
+  "uid" : "1ce4c9b7fcdfa520",
+  "name" : "GetLots",
+  "fullName" : "unknown.GetLots",
+  "historyId" : "162125ffc8b20a604c9ee8c7d8680610",
+  "time" : {
+    "start" : 1549646262949,
+    "stop" : 1549646263161,
+    "duration" : 212
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetLots"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ce4c9b7fcdfa520.json",
+  "parameterValues" : [ ]
+}

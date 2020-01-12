@@ -1,0 +1,45 @@
+{
+  "uid" : "e48fd6cf42f33f39",
+  "name" : "TestTradeRule_ManualFinalize_OneFullyFilledTrade_OnePartiallyFilledTrade",
+  "fullName" : "unknown.TestTradeRule_ManualFinalize_OneFullyFilledTrade_OnePartiallyFilledTrade",
+  "historyId" : "68fb8df06f5b8979e3fe2cc415b31ff6",
+  "time" : {
+    "start" : 1549646866211,
+    "stop" : 1549646871714,
+    "duration" : 5503
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestTradeRule_ManualFinalize_OneFullyFilledTrade_OnePartiallyFilledTrade"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e48fd6cf42f33f39.json",
+  "parameterValues" : [ ]
+}

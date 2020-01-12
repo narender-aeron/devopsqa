@@ -1,0 +1,45 @@
+{
+  "uid" : "ebdc76828a4160b6",
+  "name" : "FTPGET_MMDDYYDateinLocalFileName",
+  "fullName" : "unknown.FTPGET_MMDDYYDateinLocalFileName",
+  "historyId" : "ca75dfaf4788456e78884ddee851a2ea",
+  "time" : {
+    "start" : 1549627900993,
+    "stop" : 1549627903728,
+    "duration" : 2735
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "FTPGET_MMDDYYDateinLocalFileName"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ebdc76828a4160b6.json",
+  "parameterValues" : [ ]
+}

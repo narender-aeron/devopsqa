@@ -1,0 +1,45 @@
+{
+  "uid" : "5d7dbf8aa3640fc6",
+  "name" : "ProcessInboundDropCopyFillsWithSideH_MBS_UndisclosedSellAsShort_True_or_False_C44410279",
+  "fullName" : "unknown.ProcessInboundDropCopyFillsWithSideH_MBS_UndisclosedSellAsShort_True_or_False_C44410279",
+  "historyId" : "ce566b470815001476d0aa65975a9ede",
+  "time" : {
+    "start" : 1549637437912,
+    "stop" : 1549637481165,
+    "duration" : 43253
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ProcessInboundDropCopyFillsWithSideH_MBS_UndisclosedSellAsShort_True_or_False_C44410279"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d7dbf8aa3640fc6.json",
+  "parameterValues" : [ ]
+}

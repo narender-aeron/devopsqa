@@ -1,0 +1,45 @@
+{
+  "uid" : "41fb1cf6b764eea3",
+  "name" : "VerifyDealCreditEventsForSecurity",
+  "fullName" : "unknown.VerifyDealCreditEventsForSecurity",
+  "historyId" : "5c8fa6d8ccd759b862c9df2f4b0dcf90",
+  "time" : {
+    "start" : 1549626821929,
+    "stop" : 1549626822094,
+    "duration" : 165
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "VerifyDealCreditEventsForSecurity"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "41fb1cf6b764eea3.json",
+  "parameterValues" : [ ]
+}

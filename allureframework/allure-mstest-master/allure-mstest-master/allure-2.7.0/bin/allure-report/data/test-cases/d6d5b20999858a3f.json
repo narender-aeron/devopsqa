@@ -1,0 +1,45 @@
+{
+  "uid" : "d6d5b20999858a3f",
+  "name" : "RunEzeReport",
+  "fullName" : "unknown.RunEzeReport",
+  "historyId" : "f3efab81aaa05bb3c8092fe161202db7",
+  "time" : {
+    "start" : 1549626825151,
+    "stop" : 1549627151094,
+    "duration" : 325943
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RunEzeReport"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d6d5b20999858a3f.json",
+  "parameterValues" : [ ]
+}

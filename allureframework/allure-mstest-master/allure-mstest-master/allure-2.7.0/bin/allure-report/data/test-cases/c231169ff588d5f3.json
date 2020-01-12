@@ -1,0 +1,45 @@
+{
+  "uid" : "c231169ff588d5f3",
+  "name" : "GetInventoryItem_DoNotIncludeCustodiansWithZeroLocates",
+  "fullName" : "unknown.GetInventoryItem_DoNotIncludeCustodiansWithZeroLocates",
+  "historyId" : "e14a5dc57b506ae82855667c0743fa59",
+  "time" : {
+    "start" : 1549635402154,
+    "stop" : 1549635491841,
+    "duration" : 89687
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetInventoryItem_DoNotIncludeCustodiansWithZeroLocates"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c231169ff588d5f3.json",
+  "parameterValues" : [ ]
+}

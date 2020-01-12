@@ -1,0 +1,45 @@
+{
+  "uid" : "bd4aec2ec48f7054",
+  "name" : "WhenNotifyingMRS_ExcludedSecType_MultipleFillsSentOnlyOneMessageIsLogged",
+  "fullName" : "unknown.WhenNotifyingMRS_ExcludedSecType_MultipleFillsSentOnlyOneMessageIsLogged",
+  "historyId" : "2ecd62023f2cfee323b2c9228b13c16",
+  "time" : {
+    "start" : 1549633608445,
+    "stop" : 1549633669018,
+    "duration" : 60573
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenNotifyingMRS_ExcludedSecType_MultipleFillsSentOnlyOneMessageIsLogged"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bd4aec2ec48f7054.json",
+  "parameterValues" : [ ]
+}

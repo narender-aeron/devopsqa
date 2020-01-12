@@ -1,0 +1,45 @@
+{
+  "uid" : "621dc05058d4b2d0",
+  "name" : "GetSecQantityFromBaseMarketValueTest",
+  "fullName" : "unknown.GetSecQantityFromBaseMarketValueTest",
+  "historyId" : "ab7b5e0cd818786eff7855d02b8fb79a",
+  "time" : {
+    "start" : 1549646268009,
+    "stop" : 1549646268159,
+    "duration" : 150
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetSecQantityFromBaseMarketValueTest"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "621dc05058d4b2d0.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "124ae9e9cb9d035f",
+  "name" : "ChangePrime_M_StateTrade",
+  "fullName" : "unknown.ChangePrime_M_StateTrade",
+  "historyId" : "b3f53ac3c4bd9ffe6243cb3d806549ad",
+  "time" : {
+    "start" : 1549647517333,
+    "stop" : 1549647522589,
+    "duration" : 5256
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ChangePrime_M_StateTrade"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "124ae9e9cb9d035f.json",
+  "parameterValues" : [ ]
+}

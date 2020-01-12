@@ -1,0 +1,45 @@
+{
+  "uid" : "76a45b186aee8f4f",
+  "name" : "RightClickBringToGroupRow",
+  "fullName" : "unknown.RightClickBringToGroupRow",
+  "historyId" : "a590b8ddaaf15548497d419747abaf2a",
+  "time" : {
+    "start" : 1549631243454,
+    "stop" : 1549631244129,
+    "duration" : 675
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RightClickBringToGroupRow"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "76a45b186aee8f4f.json",
+  "parameterValues" : [ ]
+}

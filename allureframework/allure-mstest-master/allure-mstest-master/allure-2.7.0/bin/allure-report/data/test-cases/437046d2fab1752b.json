@@ -1,0 +1,45 @@
+{
+  "uid" : "437046d2fab1752b",
+  "name" : "UpdateSettleCurrency_NotNull",
+  "fullName" : "unknown.UpdateSettleCurrency_NotNull",
+  "historyId" : "de90b54021cb370023ae2936fa07c93c",
+  "time" : {
+    "start" : 1549625045003,
+    "stop" : 1549625049006,
+    "duration" : 4003
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateSettleCurrency_NotNull"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "437046d2fab1752b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "f4db133913025652",
+  "name" : "ClearAllFromGrid",
+  "fullName" : "unknown.ClearAllFromGrid",
+  "historyId" : "811d30aca3ed5f3e47df0342fecf0c96",
+  "time" : {
+    "start" : 1549631241513,
+    "stop" : 1549631242816,
+    "duration" : 1303
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "ClearAllFromGrid"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f4db133913025652.json",
+  "parameterValues" : [ ]
+}

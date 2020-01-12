@@ -1,0 +1,45 @@
+{
+  "uid" : "bd2186bc1a2e0a9e",
+  "name" : "WhenEditingPairsOrdersFailComplianceValidation_AckVoilation_ExpectExchangeAcceptAck",
+  "fullName" : "unknown.WhenEditingPairsOrdersFailComplianceValidation_AckVoilation_ExpectExchangeAcceptAck",
+  "historyId" : "507c33521f335c5d1cafdce5eda09053",
+  "time" : {
+    "start" : 1549643813495,
+    "stop" : 1549643819525,
+    "duration" : 6030
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "WhenEditingPairsOrdersFailComplianceValidation_AckVoilation_ExpectExchangeAcceptAck"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bd2186bc1a2e0a9e.json",
+  "parameterValues" : [ ]
+}

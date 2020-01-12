@@ -1,0 +1,45 @@
+{
+  "uid" : "adba4698a18007e5",
+  "name" : "Test_TradeCancel_Success",
+  "fullName" : "unknown.Test_TradeCancel_Success",
+  "historyId" : "55a7e29416e594acea35a3823e6ec0de",
+  "time" : {
+    "start" : 1549623482741,
+    "stop" : 1549623622004,
+    "duration" : 139263
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_TradeCancel_Success"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "adba4698a18007e5.json",
+  "parameterValues" : [ ]
+}

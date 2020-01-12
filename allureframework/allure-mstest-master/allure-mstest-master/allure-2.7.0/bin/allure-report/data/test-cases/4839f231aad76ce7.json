@@ -1,0 +1,45 @@
+{
+  "uid" : "4839f231aad76ce7",
+  "name" : "EzeXmlTransformDetail_EmailWithoutFile",
+  "fullName" : "unknown.EzeXmlTransformDetail_EmailWithoutFile",
+  "historyId" : "670b3e5d0dfde9cbe0d83aeab1704aaa",
+  "time" : {
+    "start" : 1549629256897,
+    "stop" : 1549629258379,
+    "duration" : 1482
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "EzeXmlTransformDetail_EmailWithoutFile"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4839f231aad76ce7.json",
+  "parameterValues" : [ ]
+}

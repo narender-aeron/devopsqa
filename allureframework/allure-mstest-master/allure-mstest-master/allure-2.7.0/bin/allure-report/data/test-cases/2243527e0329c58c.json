@@ -1,0 +1,45 @@
+{
+  "uid" : "2243527e0329c58c",
+  "name" : "RetrieveCurrency__success",
+  "fullName" : "unknown.RetrieveCurrency__success",
+  "historyId" : "1bb1b5affbc74359ae13ec8739b79e27",
+  "time" : {
+    "start" : 1549622222931,
+    "stop" : 1549622223353,
+    "duration" : 422
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RetrieveCurrency__success"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2243527e0329c58c.json",
+  "parameterValues" : [ ]
+}

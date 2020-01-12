@@ -1,0 +1,45 @@
+{
+  "uid" : "1dd373e710ea7e1b",
+  "name" : "InsertOrUpdateSecurityTest_Update_Failure",
+  "fullName" : "unknown.InsertOrUpdateSecurityTest_Update_Failure",
+  "historyId" : "c5236209fa4efd2ee25791963aa4e8fb",
+  "time" : {
+    "start" : 1539023860582,
+    "stop" : 1539023860621,
+    "duration" : 39
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "InsertOrUpdateSecurityTest_Update_Failure"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1dd373e710ea7e1b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "aeadd0b7e3d0b572",
+  "name" : "RetrieveStrategyTest_Failure",
+  "fullName" : "unknown.RetrieveStrategyTest_Failure",
+  "historyId" : "abeb9a812e345ee3d4c6bdc08cd50ac3",
+  "time" : {
+    "start" : 1549622238940,
+    "stop" : 1549622238956,
+    "duration" : 16
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "unknown test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "unknown"
+  }, {
+    "name" : "testMethod",
+    "value" : "RetrieveStrategyTest_Failure"
+  }, {
+    "name" : "package",
+    "value" : "unknown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aeadd0b7e3d0b572.json",
+  "parameterValues" : [ ]
+}
