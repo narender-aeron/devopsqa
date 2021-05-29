@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Param>  
   <DB>  
-    <Host>localhost\SQL2016</Host>  
+    <Host>localhost\sql2019</Host>  
     <Dbname>AQAresults</Dbname>  
     <Username>sa</Username>  
     <Password>redsox</Password>  
@@ -12,5 +12,9 @@
   </Dirinfo>  
   <Jsonfiledir>
    <Dir>D:\trxdir1</Dir>
-  </Jsonfiledir>	
+  </Jsonfiledir>
+  <Jira>
+    <Jirausername>Eze.QA.VCAdmin</Jirausername>
+    <Jirapassword>P@ssw0rd2012</Jirapassword>
+  </Jira>	
 </Param>  
