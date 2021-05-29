@@ -1,8 +1,3 @@
-﻿﻿/*
- *   This program is written to parse the Performance tests Json result files and add them to a DB
- *   Copyright : Eze Software 
- *
- */
 
 using System;
 using System.Collections.Generic;
