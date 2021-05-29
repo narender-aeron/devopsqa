@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Param>  
+  <DB>  
+    <Host>localhost\sql2019</Host>  
+    <Dbname>AQAresults</Dbname>  
+    <Username>sa</Username>  
+    <Password>redsox</Password>  
+  </DB>  
+  <Dirinfo>  
+    <Dir>D:\trxdir</Dir>  
+  </Dirinfo>  
+  <Jsonfiledir>
+   <Dir>D:\trxdir1</Dir>
+  </Jsonfiledir>	
+</Param>  
