@@ -1,8 +1,4 @@
-﻿/*
- *   This program is written to parse the automation trx result files and add them to a DB
- *   Copyright : Eze Software 
- *
- */
+
 
 using System;
 using System.Collections.Generic;
